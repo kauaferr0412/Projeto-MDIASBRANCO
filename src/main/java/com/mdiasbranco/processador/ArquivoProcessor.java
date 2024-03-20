@@ -29,6 +29,7 @@ public class ArquivoProcessor {
         }
     }
 
+
     private static void processarDiretorio(Path directory, FileWriter writer) throws IOException {
         List<Path> files = Files.list(directory)
                 .filter(file -> file.toString().endsWith(".txt"))

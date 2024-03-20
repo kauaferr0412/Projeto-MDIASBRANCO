@@ -15,7 +15,6 @@ public class ArquivoProcessor {
 
     private static final String OUTPUT_FILE_PATH = "C:\\Users\\kauaf\\Downloads\\PROJETO_KAIO\\output_mdiasbranco.txt";
     private static final String TXT_DIRECTORY = "C:\\Users\\kauaf\\Downloads\\PROJETO_KAIO\\TXTs";
-
     public static void main(String[] args) {
         try {
             FileWriter writer = new FileWriter(OUTPUT_FILE_PATH, StandardCharsets.UTF_8);

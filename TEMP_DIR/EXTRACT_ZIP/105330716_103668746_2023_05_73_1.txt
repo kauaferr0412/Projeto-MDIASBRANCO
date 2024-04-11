@@ -1,0 +1,1259 @@
+M DIAS BRANCO - SC - 07206816000115
+ROD. BR-116, S/N KM 18 - JABUTI     
+61766-650 CE EUSEBIO
+N° Cliente: 105330716
+
+Período de Referência: 23/04/2023 a 22/05/2023
+Data de Vencimento: 15/07/2023 - Filtro:   - (Todos)
+Valor: R$ 986,43
+Nota Fiscal Claro:021109466/052023:B23 ICMS: Aliquota: 17,00 Base de Calculo: 704,67 Valor Imposto: 119,79
+Nota Fiscal Claro:021109466/052023:B23 PIS: Aliquota: 0,65 Base de Calculo: 585,00 Valor Imposto: 3,80
+Nota Fiscal Claro:021109466/052023:B23 PIS: Aliquota: 7,60 Base de Calculo: 281,76 Valor Imposto: 21,52
+Nota Fiscal Claro:021109466/052023:B23 PIS: Aliquota: 3,00 Base de Calculo: 585,00 Valor Imposto: 17,55
+Nota Fiscal Claro:021109466/052023:B23 PIS: Aliquota: 1,65 Base de Calculo: 281,76 Valor Imposto: 4,72
+Nota Fiscal Claro:022001310/052023 Documento Financeiro: Aliquota: 0,00 Base de Calculo: 0,00 Valor Imposto: 281,76
+
+Identificação para débito automático: 103668746
+
+Tel;Seção;Data;Hora;Origem(UF)-Destino;Número;Duração/Quantidade;Tarifa;Valor;Valor Cobrado;Nome;CC;Matrícula;Sub-Seção;Tipo Imposto;Descrição;Cargo;Nome Local Origem;Nome Local Destino;Código Local Origem;Código Local Destino
+48 98854-3920;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98891-1825;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 99130-9409;PJ Internet Corp Ilimitado 300MB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,91;,91;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-3772;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,69;26,69;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98913-6856;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98834-0327;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-9087;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98819-4392;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98824-5726;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-3920;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98845-1055;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98818-4105;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 99130-9409;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,05;2,05;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98843-4374;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 99130-9409;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98828-4854;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-9087;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98818-7454;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98818-7454;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98838-0525;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98819-4392;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98913-6856;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98826-9858;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+49 98843-4374;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98854-6372;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+49 98913-6856;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98838-0525;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98845-1055;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-9087;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,69;26,69;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98824-1948;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-6372;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-1110;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98824-5726;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98824-1962;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98891-1825;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98834-0327;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,69;26,69;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98891-1825;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98824-1962;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-1110;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+47 98838-0525;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98828-4854;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98834-0327;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-3772;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98826-9858;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98824-5726;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98826-9858;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98811-8642;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-6372;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98842-6020;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-3920;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98854-1110;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-9087;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98854-3920;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98811-8642;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98807-7113;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-9087;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-3772;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98824-5726;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98834-0327;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,05;2,05;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-6372;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98845-1055;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98838-0525;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98818-4105;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98891-1825;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98854-3772;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+47 98828-4854;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98811-8642;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98826-9858;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98834-0327;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98854-6372;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,69;26,69;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98913-6856;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,05;2,05;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-3920;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,69;26,69;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98843-4374;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98842-6020;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98828-4854;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98824-1962;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 99130-9409;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+49 98807-7113;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98807-7113;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98824-1948;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98832-6417;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98842-6020;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98828-4854;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98824-1962;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-3772;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98832-6417;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98913-6856;PJ Internet Corp Ilimitado 300MB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,91;,91;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98845-1055;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98826-9858;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98843-4374;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98819-4392;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98832-6417;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+47 98838-0525;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+47 98811-8642;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+49 98843-4374;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98854-1110;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,69;26,69;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98824-1948;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 99130-9409;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98824-1962;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98832-6417;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98818-7454;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98818-4105;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+47 98811-8642;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98807-7113;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98824-5726;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98891-1825;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98845-1055;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98819-4392;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98818-4105;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+47 98818-4105;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98842-6020;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98818-7454;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+47 98819-4392;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98842-6020;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98824-1948;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+48 98854-1110;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98824-1948;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98832-6417;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+48 98818-7454;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+49 98807-7113;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+47 98811-8642;Internet (MB);22/04/2023;03:50:54;;;,058593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);23/04/2023;03:57:22;;;,060546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);24/04/2023;10:30:35;;;,864257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);25/04/2023;08:30:07;;;4,992187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);25/04/2023;10:20:30;;;,27539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98811-8642;Internet (MB);26/04/2023;08:22:17;;;16,157226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);27/04/2023;10:38:35;;;,990234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);28/04/2023;09:00:32;;;20,208007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);30/04/2023;00:24:49;;;,073242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);01/05/2023;16:53:23;;;,073242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);02/05/2023;13:55:51;;;,773437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);03/05/2023;13:00:03;;;64,250976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);04/05/2023;14:05:43;;;,943359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);05/05/2023;08:17:44;;;13,414062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);08/05/2023;07:07:56;;;459,517578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);08/05/2023;07:53:05;;;71,748046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);08/05/2023;15:42:29;;;,648437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);09/05/2023;09:06:12;;;18,40039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);10/05/2023;08:01:33;;;14,695312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);11/05/2023;07:31:45;;;19,398437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);12/05/2023;12:17:59;;;,264648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);15/05/2023;09:09:24;;;16,943359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);16/05/2023;12:27:00;;;1,728515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);17/05/2023;09:59:01;;;119,760742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);17/05/2023;15:41:02;;;1,520507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);18/05/2023;15:40:02;;;,307617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98811-8642;Internet (MB);19/05/2023;08:21:22;;;30,526367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);24/04/2023;06:06:26;;;10,339843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);25/04/2023;00:02:33;;;24,044921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);25/04/2023;21:22:14;;;,486328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);26/04/2023;00:03:51;;;56,121093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);27/04/2023;07:00:06;;;99,327148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);27/04/2023;21:29:31;;;,17871;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);28/04/2023;01:32:13;;;8,338867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);29/04/2023;06:44:17;;;10,492187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);01/05/2023;10:10:29;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);02/05/2023;08:23:33;;;23,691406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);03/05/2023;06:52:59;;;45,216796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);03/05/2023;14:57:56;;;,015625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98818-4105;Internet (MB);04/05/2023;06:12:26;;;7,128906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);05/05/2023;06:53:00;;;94,120117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Claro-Outras Op.;05/05/2023;08:39:30;Santa Catarina - Santa Catarina (47);47999296959;00:05:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;04600
+47 98818-4105;Internet (MB);05/05/2023;09:37:04;;;,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98818-4105;Internet (MB);06/05/2023;00:09:39;;;77,820312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);07/05/2023;00:44:17;;;6,175781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);08/05/2023;07:20:29;;;17,044921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);08/05/2023;09:52:33;;;,15625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98818-4105;Internet (MB);09/05/2023;06:44:40;;;33,427734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);10/05/2023;06:58:08;;;3,792968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Claro-Outras Op.;10/05/2023;10:34:06;Santa Catarina - Santa Catarina (47);47992136475;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;04500
+47 98818-4105;Internet (MB);11/05/2023;10:01:56;;;31,154296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);11/05/2023;11:32:30;;;1,902343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98818-4105;Internet (MB);12/05/2023;06:52:42;;;33,079101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);13/05/2023;08:49:47;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);15/05/2023;10:32:24;;;30,298828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);16/05/2023;07:06:50;;;5,039062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);17/05/2023;06:56:00;;;24,842773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);17/05/2023;16:37:29;;;1,71289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);18/05/2023;07:00:21;;;9,214843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);18/05/2023;11:45:05;;;,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98818-4105;Internet (MB);19/05/2023;06:27:20;;;45,060546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98818-4105;Internet (MB);19/05/2023;12:50:46;;;,088867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98818-4105;Internet (MB);20/05/2023;07:28:23;;;65,391601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);21/04/2023;13:57:43;;;1,478515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);22/04/2023;05:01:24;;;,352539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);23/04/2023;20:54:27;;;,044921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);24/04/2023;07:28:50;;;33,449218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);24/04/2023;08:03:54;;;4,224609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);25/04/2023;08:06:06;;;271,174804;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);25/04/2023;09:36:08;;;,217773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);26/04/2023;00:54:34;;;56,486328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);27/04/2023;07:19:39;;;46,690429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);28/04/2023;01:17:39;;;566,75;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);29/04/2023;12:30:37;;;,142578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);30/04/2023;04:03:32;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);01/05/2023;22:21:54;;;,086914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);02/05/2023;07:46:42;;;32,041992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);03/05/2023;07:16:44;;;134,40039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);03/05/2023;13:33:32;;;,060546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);04/05/2023;08:19:50;;;60,061523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);04/05/2023;08:52:40;;;3,236328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);04/05/2023;14:09:55;;;,044921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);05/05/2023;00:53:43;;;85,55664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);05/05/2023;10:37:31;;;,086914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);05/05/2023;13:08:33;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);06/05/2023;09:27:51;;;,0625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);07/05/2023;19:55:06;;;,100585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);08/05/2023;06:18:25;;;26,380859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);08/05/2023;10:03:43;;;,066406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);09/05/2023;08:28:17;;;380,188476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);09/05/2023;09:18:01;;;,388671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);10/05/2023;08:54:39;;;8,046875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);10/05/2023;10:09:08;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);11/05/2023;07:58:02;;;130,731445;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);11/05/2023;08:01:42;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);12/05/2023;00:00:32;;;303,332031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);12/05/2023;11:50:51;;;,206054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);13/05/2023;00:03:26;;;35,061523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);14/05/2023;00:12:01;;;,05371;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);14/05/2023;01:18:36;;;15,862304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);15/05/2023;00:04:50;;;324,179687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);15/05/2023;16:32:12;;;,083007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);16/05/2023;00:02:45;;;294,521484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);16/05/2023;09:23:53;;;,192382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);17/05/2023;00:50:16;;;201,998046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);17/05/2023;13:57:36;;;,102539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);17/05/2023;16:11:26;;;1,915039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);18/05/2023;07:29:24;;;288,381835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);18/05/2023;09:11:49;;;,129882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98819-4392;Internet (MB);19/05/2023;03:57:06;;;97,752929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);20/05/2023;19:46:28;;;,261718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98819-4392;Internet (MB);21/05/2023;00:56:30;;;,80957;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);24/04/2023;10:44:16;;;,453125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);24/04/2023;10:44:17;;;11,318359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Claro-Claro;24/04/2023;14:05:36;Santa Catarina - Santa Catarina (47);47984986324;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;00047
+47 98828-4854;Internet (MB);25/04/2023;08:48:18;;;39,578125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);25/04/2023;10:45:19;;;1,702148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);26/04/2023;08:17:36;;;16,588867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);27/04/2023;08:43:50;;;90,754882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);27/04/2023;13:14:51;;;,887695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);28/04/2023;00:04:51;;;20,77539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);29/04/2023;07:07:00;;;,032226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);01/05/2023;20:07:04;;;,02832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);03/05/2023;08:33:36;;;3,927734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);03/05/2023;09:19:13;;;,801757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);04/05/2023;08:05:43;;;339,83789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);04/05/2023;08:31:42;;;,130859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);05/05/2023;12:26:17;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);06/05/2023;10:06:37;;;,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);08/05/2023;08:45:17;;;125,841796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);08/05/2023;09:17:46;;;,426757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);08/05/2023;09:23:05;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);08/05/2023;09:23:20;;;,055664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);09/05/2023;01:13:25;;;38,513671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);09/05/2023;09:47:23;;;,020507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);10/05/2023;08:39:58;;;31,05957;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);10/05/2023;09:08:52;;;1,430664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Int. Nacional;10/05/2023;09:31:06;Santa Catarina - Eusebio;8540055900;00:09:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Eusebio;00047;28500
+47 98828-4854;Internet (MB);11/05/2023;09:06:13;;;17,015625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);11/05/2023;09:38:43;;;,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);12/05/2023;10:03:06;;;10,113281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);12/05/2023;10:30:58;;;,416992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);13/05/2023;10:03:02;;;161,600585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);13/05/2023;23:56:55;;;,034179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);14/05/2023;01:55:36;;;18,676757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);15/05/2023;00:38:41;;;42,226562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);15/05/2023;10:54:03;;;,36914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);16/05/2023;11:15:18;;;4,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);16/05/2023;11:58:49;;;,195312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);17/05/2023;16:29:14;;;,52246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);17/05/2023;17:09:55;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Claro-Outras Op.;17/05/2023;17:11:47;Santa Catarina - Santa Catarina (47);47988380163;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;46000
+47 98828-4854;Internet (MB);18/05/2023;08:13:56;;;44,555664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);18/05/2023;08:43:17;;;,085937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);19/05/2023;08:27:41;;;20,602539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98828-4854;Internet (MB);19/05/2023;09:56:59;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98828-4854;Internet (MB);20/05/2023;00:18:41;;;30,375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);24/04/2023;06:37:25;;;321,102539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);25/04/2023;09:12:55;;;114,753906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);26/04/2023;07:07:41;;;98,308593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);27/04/2023;07:26:24;;;66,441406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);28/04/2023;07:28:48;;;8,752929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);28/04/2023;11:02:48;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98838-0525;Internet (MB);02/05/2023;13:38:10;;;7,77832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);03/05/2023;08:56:43;;;202,112304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);03/05/2023;09:15:16;;;,409179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98838-0525;Internet (MB);04/05/2023;10:22:05;;;9,873046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);05/05/2023;09:01:02;;;123,777343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);06/05/2023;11:24:49;;;,151367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);08/05/2023;07:11:10;;;26,032226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);09/05/2023;08:44:54;;;10,333984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);09/05/2023;09:42:02;;;,032226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00047;0
+47 98838-0525;Internet (MB);10/05/2023;06:16:59;;;8,547851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);11/05/2023;11:17:40;;;11,034179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);12/05/2023;08:13:01;;;11,231445;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);13/05/2023;09:13:19;;;,026367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);15/05/2023;10:19:37;;;88,74707;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);16/05/2023;00:17:38;;;39,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);17/05/2023;01:23:50;;;210,833007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);17/05/2023;16:05:38;;;,050781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+47 98838-0525;Internet (MB);19/05/2023;17:40:34;;;,541992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00047;0
+48 98818-7454;Internet (MB);22/04/2023;00:02:01;;;86,355468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);23/04/2023;00:03:32;;;6,477539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);24/04/2023;00:02:37;;;53,435546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);25/04/2023;00:21:07;;;46,511718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Regional;25/04/2023;10:44:57;Rio Grande do Sul - Rio Grande do Sul (54);54991982483;00:05:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+48 98818-7454;Claro-Claro;25/04/2023;11:28:23;Rio Grande do Sul - Rio Grande do Sul (51);51993566390;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Int. Nacional;25/04/2023;14:34:37;Rio Grande do Sul - ParanÃ¡ (41);41984417223;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;ParanÃ¡ (41);00051;44000
+48 98818-7454;Claro-Claro;25/04/2023;16:11:30;Rio Grande do Sul - Rio Grande do Sul (51);51993133710;00:21:12;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Claro-Claro;25/04/2023;16:46:32;Rio Grande do Sul - Rio Grande do Sul (51);51993566390;00:04:36;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Claro-Claro;25/04/2023;21:13:19;Rio Grande do Sul - Rio Grande do Sul (51);51993566390;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Internet (MB);26/04/2023;03:45:24;;;6,833007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Nacional;26/04/2023;08:16:56;Rio Grande do Sul - ParanÃ¡ (41);41984417223;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;ParanÃ¡ (41);00051;44000
+48 98818-7454;Claro-Claro;26/04/2023;09:37:24;Rio Grande do Sul - Rio Grande do Sul (51);51994166936;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Claro-Claro;26/04/2023;10:13:57;Rio Grande do Sul - Rio Grande do Sul (51);51993566390;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Claro-Claro;26/04/2023;10:35:10;Rio Grande do Sul - Rio Grande do Sul (51);51994166936;00:02:24;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Int. Nacional;26/04/2023;10:49:12;Rio Grande do Sul - São Paulo (11);11989338663;00:14:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;São Paulo (11);00051;00011
+48 98818-7454;Int. Nacional;26/04/2023;13:47:15;Rio Grande do Sul - Santa Catarina (48);48991309409;00:05:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+48 98818-7454;Int. Regional;26/04/2023;13:53:29;Rio Grande do Sul - Rio Grande do Sul (54);54991448887;00:09:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+48 98818-7454;Claro-Claro;26/04/2023;16:57:59;Rio Grande do Sul - Rio Grande do Sul (51);51993566390;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Int. Nacional;26/04/2023;17:02:48;Rio Grande do Sul - São Paulo (11);11989338663;00:03:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;São Paulo (11);00051;00011
+48 98818-7454;Claro-Outras Op.;26/04/2023;17:25:19;Rio Grande do Sul - Rio Grande do Sul (51);51998717182;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;05000
+48 98818-7454;Claro-Claro;26/04/2023;17:59:14;Rio Grande do Sul - Rio Grande do Sul (51);51993566390;00:05:06;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Internet (MB);27/04/2023;03:45:44;;;140,714843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Nacional;27/04/2023;11:37:34;Rio Grande do Sul - Paraná (41);41996721066;00:15:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;04000
+48 98818-7454;Claro-Claro;27/04/2023;11:55:05;Rio Grande do Sul - Rio Grande do Sul (51);51993566390;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Int. Nacional;27/04/2023;12:14:44;Rio Grande do Sul - Santa Catarina (48);48991309409;00:09:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+48 98818-7454;Int. Nacional;27/04/2023;14:29:09;Rio Grande do Sul - Paraná (41);41996721066;00:07:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;04000
+48 98818-7454;Internet (MB);28/04/2023;03:45:19;;;208,422851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Claro-Claro;28/04/2023;09:02:29;Rio Grande do Sul - Rio Grande do Sul (51);51994166936;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Int. Nacional;28/04/2023;09:26:45;Rio Grande do Sul - Paraná (41);41996721066;00:03:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;04000
+48 98818-7454;Int. Nacional;28/04/2023;10:14:23;Rio Grande do Sul - Paraná (41);41996721066;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;40000
+48 98818-7454;Int. Nacional;28/04/2023;10:15:06;Rio Grande do Sul - Paraná (41);41996721066;00:01:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;04000
+48 98818-7454;Int. Nacional;28/04/2023;10:17:32;Rio Grande do Sul - Paraná (41);41996721066;00:00:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;04000
+48 98818-7454;Claro-Claro;28/04/2023;10:25:32;Rio Grande do Sul - Rio Grande do Sul (51);51994166936;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Int. Nacional;28/04/2023;11:16:47;Rio Grande do Sul - ParanÃ¡ (41);41984417223;00:01:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;ParanÃ¡ (41);00051;04400
+48 98818-7454;Int. Nacional;28/04/2023;11:22:21;Rio Grande do Sul - Santa Catarina (48);48991309409;00:06:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+48 98818-7454;Claro-Claro;28/04/2023;16:24:54;Santa Catarina - Santa Catarina (48);48991309409;00:05:06;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98818-7454;Internet (MB);29/04/2023;00:32:48;;;21,393554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);30/04/2023;00:52:55;;;7,753906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);01/05/2023;00:55:30;;;26,149414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);02/05/2023;00:18:53;;;220,002929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Nacional;02/05/2023;07:31:40;Rio Grande do Sul - Paraná (41);41988821540;00:01:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+48 98818-7454;Int. Nacional;02/05/2023;08:16:02;Rio Grande do Sul - ParanÃ¡ (41);41984417223;00:02:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;ParanÃ¡ (41);00051;44000
+48 98818-7454;Claro-Claro;02/05/2023;08:19:38;Rio Grande do Sul - Rio Grande do Sul (51);51993566390;00:06:42;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Claro-Claro;02/05/2023;08:27:02;Rio Grande do Sul - Rio Grande do Sul (51);51994166936;00:10:18;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Claro-Outras Op.;02/05/2023;10:40:02;Rio Grande do Sul - Rio Grande do Sul (51);51999716552;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;05000
+48 98818-7454;Int. Nacional;02/05/2023;10:45:33;Rio Grande do Sul - Santa Catarina (48);48991309409;00:08:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+48 98818-7454;Claro-Claro;02/05/2023;12:06:08;Rio Grande do Sul - Rio Grande do Sul (51);51993133710;00:19:06;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Internet (MB);02/05/2023;12:25:14;;;47,143554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Nacional;02/05/2023;12:42:56;Rio Grande do Sul - Paraná (41);41988821540;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+48 98818-7454;Int. Nacional;02/05/2023;17:21:19;Rio Grande do Sul - Paraná (41);41996721066;00:02:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;04000
+48 98818-7454;Int. Nacional;02/05/2023;17:25:07;Rio Grande do Sul - Santa Catarina (48);48991309409;00:10:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+48 98818-7454;Internet (MB);02/05/2023;20:51:51;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98818-7454;Internet (MB);02/05/2023;23:37:46;;;2,901367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);03/05/2023;01:30:00;;;860,713867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Nacional;03/05/2023;07:25:52;Rio Grande do Sul - Paraná (41);41989017149;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+48 98818-7454;Claro-Claro;03/05/2023;14:19:30;Rio Grande do Sul - Rio Grande do Sul (51);51994166936;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Claro-Claro;03/05/2023;15:22:31;Rio Grande do Sul - Rio Grande do Sul (51);51994166936;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Claro-Claro;03/05/2023;15:39:03;Rio Grande do Sul - Rio Grande do Sul (51);51994166936;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Internet (MB);04/05/2023;00:41:50;;;96,55664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Nacional;04/05/2023;10:13:19;Rio Grande do Sul - Paraná (41);41996721066;00:07:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00054;40000
+48 98818-7454;Int. Regional;04/05/2023;13:38:00;Rio Grande do Sul - Rio Grande do Sul (51);51994166936;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (51);00054;00051
+48 98818-7454;Int. Nacional;04/05/2023;14:44:15;Rio Grande do Sul - Paraná (41);41996721066;00:16:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00054;40000
+48 98818-7454;Int. Nacional;04/05/2023;16:17:06;Rio Grande do Sul - Paraná (41);41989017149;00:00:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00054;00041
+48 98818-7454;Internet (MB);05/05/2023;00:25:23;;;299,111328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);05/05/2023;09:45:23;;;26,065429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Claro-Claro;05/05/2023;14:54:41;Rio Grande do Sul - Rio Grande do Sul (51);51993133710;00:15:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+48 98818-7454;Int. Nacional;05/05/2023;15:59:36;Rio Grande do Sul - Santa Catarina (48);48991309409;00:01:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+48 98818-7454;Internet (MB);06/05/2023;01:24:04;;;78,472656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);07/05/2023;00:22:21;;;16,90332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);08/05/2023;00:23:55;;;145,458984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Claro-Outras Op.;08/05/2023;08:16:29;Santa Catarina - Santa Catarina (48);48999128807;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04600
+48 98818-7454;Claro-Claro;08/05/2023;17:16:18;Santa Catarina - Santa Catarina (48);48991309409;00:14:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98818-7454;Internet (MB);09/05/2023;01:55:09;;;275,52832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);10/05/2023;01:53:37;;;278,792968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);11/05/2023;00:33:08;;;478,49707;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Claro-Outras Op.;11/05/2023;19:12:34;Paraná - Paraná (41);41996721066;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+48 98818-7454;Internet (MB);12/05/2023;01:31:07;;;38,387695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);13/05/2023;01:16:39;;;79,000976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);13/05/2023;23:49:51;;;,357421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);14/05/2023;01:50:44;;;65,62207;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);15/05/2023;01:06:10;;;23,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Nacional;15/05/2023;10:01:46;São Paulo - Rio Grande do Sul (51);51993566390;00:01:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+48 98818-7454;Int. Nacional;15/05/2023;10:45:22;São Paulo - Paraná (41);41988821540;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;00041
+48 98818-7454;Int. Nacional;15/05/2023;13:16:37;São Paulo - Paraná (41);41996721066;00:02:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;04000
+48 98818-7454;Internet (MB);16/05/2023;08:07:36;;;1,864257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Nacional;16/05/2023;09:28:33;São Paulo - Paraná (41);41996721066;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;04000
+48 98818-7454;Int. Nacional;16/05/2023;10:06:31;São Paulo - Rio Grande do Sul (51);51994166936;00:34:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+48 98818-7454;Int. Nacional;16/05/2023;11:16:21;São Paulo - Rio Grande do Sul (51);51993133710;00:18:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+48 98818-7454;Int. Nacional;16/05/2023;17:54:15;São Paulo - Santa Catarina (48);48996320788;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (48);00011;04600
+48 98818-7454;Int. Nacional;16/05/2023;19:42:02;São Paulo - Santa Catarina (48);48996320788;00:02:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (48);00011;04600
+48 98818-7454;Internet (MB);17/05/2023;00:02:29;;;7,64746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);17/05/2023;00:50:22;;;,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Nacional;17/05/2023;10:01:10;São Paulo - Paraná (41);41984417223;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;44000
+48 98818-7454;Int. Nacional;17/05/2023;10:42:21;São Paulo - Paraná (41);41988821540;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;00041
+48 98818-7454;Int. Nacional;18/05/2023;11:10:26;São Paulo - Rio Grande do Sul (51);51994166936;00:11:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+48 98818-7454;Internet (MB);18/05/2023;11:14:11;;;11,194335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Int. Nacional;18/05/2023;16:48:12;São Paulo - Rio Grande do Sul (51);51993133710;00:02:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+48 98818-7454;Int. Nacional;18/05/2023;16:53:32;São Paulo - Santa Catarina (48);48991309409;00:04:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (48);00011;00048
+48 98818-7454;Internet (MB);19/05/2023;06:27:05;;;114,336914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Claro-Claro;19/05/2023;16:47:18;Santa Catarina - Santa Catarina (48);48991309409;00:10:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98818-7454;Internet (MB);20/05/2023;00:00:15;;;116,407226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98818-7454;Internet (MB);21/05/2023;01:25:56;;;34,308593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);22/04/2023;02:09:56;;;2,923828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);23/04/2023;03:11:33;;;2,565429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);24/04/2023;02:03:33;;;57,939453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);25/04/2023;02:09:56;;;37,624023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);25/04/2023;17:11:19;;;,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Internet (MB);26/04/2023;00:16:50;;;144,505859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);26/04/2023;09:57:24;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Internet (MB);27/04/2023;00:34:09;;;134,409179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);27/04/2023;09:21:47;;;,15332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Internet (MB);28/04/2023;00:13:40;;;2,361328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);29/04/2023;01:11:21;;;3,83496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);30/04/2023;01:11:20;;;1,629882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);01/05/2023;01:11:05;;;16,092773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);02/05/2023;00:12:29;;;183,989257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);02/05/2023;10:02:02;;;,193359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Int. Nacional;02/05/2023;10:26:04;Santa Catarina - Sao Paulo;1131569832;00:11:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Paulo;00048;21200
+48 98824-1948;Internet (MB);02/05/2023;22:12:04;;;,144531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);03/05/2023;00:12:40;;;109,748046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);03/05/2023;09:09:48;;;,044921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Internet (MB);04/05/2023;00:41:38;;;39,351562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);04/05/2023;11:06:04;;;,041992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Internet (MB);05/05/2023;00:11:48;;;2,629882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);05/05/2023;12:12:22;;;,055664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Internet (MB);06/05/2023;00:12:56;;;1,460937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);07/05/2023;01:15:50;;;1,52246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);08/05/2023;01:12:03;;;110,873046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);08/05/2023;12:06:53;;;2,755859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Claro-Claro;08/05/2023;18:19:12;Santa Catarina - Santa Catarina (48);48988326417;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98824-1948;Internet (MB);09/05/2023;02:09:42;;;2,563476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);10/05/2023;00:40:02;;;1,87207;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);11/05/2023;15:38:08;;;,385742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);12/05/2023;12:58:29;;;16,030273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);12/05/2023;16:33:10;;;,194335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Internet (MB);13/05/2023;00:01:17;;;,131835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);14/05/2023;01:42:50;;;,02832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);15/05/2023;11:49:42;;;137,291992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);16/05/2023;00:02:51;;;,956054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);16/05/2023;11:08:33;;;,033203;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Claro-Fixo;16/05/2023;15:04:09;Santa Catarina - Florianopolis;4832794208;00:13:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Florianopolis;00048;
+48 98824-1948;Internet (MB);17/05/2023;08:06:21;;;123,518554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);17/05/2023;12:01:55;;;,032226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Internet (MB);17/05/2023;15:24:19;;;,817382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Internet (MB);17/05/2023;15:24:22;;;4,301757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);18/05/2023;02:38:25;;;5,128906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);19/05/2023;08:05:36;;;110,912109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);19/05/2023;14:17:27;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1948;Internet (MB);20/05/2023;03:05:07;;;,070312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1948;Internet (MB);21/05/2023;04:59:33;;;,442382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);22/04/2023;02:56:04;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);23/04/2023;03:57:00;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);24/04/2023;03:41:00;;;,475585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Outras Op.;24/04/2023;16:25:05;Santa Catarina - Santa Catarina (48);48988239746;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04500
+48 98824-1962;Internet (MB);25/04/2023;04:29:17;;;775,480468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);25/04/2023;10:35:06;;;,043945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);25/04/2023;11:59:28;;;,047851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);25/04/2023;13:16:22;;;,182617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);26/04/2023;07:49:26;;;1,355468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);26/04/2023;13:12:36;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Int. Regional;26/04/2023;13:16:57;Santa Catarina - Blumenau;4733229698;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Blumenau;00048;
+48 98824-1962;Int. Regional;26/04/2023;14:05:46;Santa Catarina - Blumenau;4733229698;00:07:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Blumenau;00048;
+48 98824-1962;Claro-Outras Op.;26/04/2023;17:41:56;Santa Catarina - Santa Catarina (48);48996592227;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04600
+48 98824-1962;Internet (MB);27/04/2023;04:39:47;;;2164,077148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Int. Regional;27/04/2023;10:44:49;Santa Catarina - Erval Velho;4935425300;00:00:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Erval Velho;00048;47000
+48 98824-1962;Int. Regional;27/04/2023;10:46:07;Santa Catarina - Erval Velho;4935425300;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Erval Velho;00048;47000
+48 98824-1962;Internet (MB);27/04/2023;13:20:08;;;,214843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Claro;27/04/2023;14:48:08;Santa Catarina - Santa Catarina (48);48984257049;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98824-1962;Internet (MB);27/04/2023;15:17:54;;;,308593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);27/04/2023;18:45:29;;;,190429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);28/04/2023;00:14:01;;;943,74121;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);28/04/2023;07:41:37;;;,317382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);28/04/2023;09:27:58;;;,191406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Claro;28/04/2023;09:35:54;Santa Catarina - Santa Catarina (48);48984257049;00:09:54;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98824-1962;Claro-Fixo;28/04/2023;09:50:38;Santa Catarina - Sao Jose;4830352329;00:01:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Sao Jose;00048;948
+48 98824-1962;Claro-Fixo;28/04/2023;14:34:04;Santa Catarina - Sao Jose;4830352329;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Sao Jose;00048;948
+48 98824-1962;Internet (MB);29/04/2023;03:30:28;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);30/04/2023;04:31:08;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);01/05/2023;00:32:16;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);02/05/2023;01:34:27;;;4016,905273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Claro;02/05/2023;09:57:57;Santa Catarina - Santa Catarina (48);48988541110;00:02:54;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98824-1962;Internet (MB);02/05/2023;10:34:31;;;,40625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Outras Op.;02/05/2023;11:09:48;Santa Catarina - Santa Catarina (47);47999023923;00:03:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;46000
+48 98824-1962;Int. Nacional;02/05/2023;13:47:41;Santa Catarina - Sao Paulo;1131569832;00:10:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Paulo;00047;21200
+48 98824-1962;Claro-Outras Op.;02/05/2023;16:35:00;Santa Catarina - Santa Catarina (47);47999689570;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;45000
+48 98824-1962;Claro-Fixo;02/05/2023;17:32:34;Santa Catarina - Blumenau;4733229698;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Blumenau;00047;
+48 98824-1962;Torpedos;02/05/2023;18:05:26;;48984257049;1;0,45;,45;,45;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00048;00048
+48 98824-1962;Internet (MB);02/05/2023;19:35:52;;;163,102539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);03/05/2023;00:43:14;;;1054,271484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);03/05/2023;01:21:11;;;7,460937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Outras Op.;03/05/2023;08:38:16;Santa Catarina - Santa Catarina (47);47988815069;00:07:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;45000
+48 98824-1962;Claro-Outras Op.;03/05/2023;10:10:50;Santa Catarina - Santa Catarina (47);47999689570;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;45000
+48 98824-1962;Int. Nacional;03/05/2023;16:17:03;Santa Catarina - Sao Paulo;1130146777;00:04:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Paulo;00047;00143
+48 98824-1962;Internet (MB);04/05/2023;01:43:45;;;182,885742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Outras Op.;04/05/2023;07:34:52;Santa Catarina - Santa Catarina (47);47999689570;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;45000
+48 98824-1962;Internet (MB);04/05/2023;10:38:34;;;,017578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);04/05/2023;11:44:29;;;10,935546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);05/05/2023;00:53:06;;;40,375976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);06/05/2023;00:00:58;;;73,069335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);07/05/2023;01:42:31;;;3,058593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);08/05/2023;00:00:58;;;803,037109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);08/05/2023;07:33:34;;;33,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Int. Regional;08/05/2023;08:40:35;Santa Catarina - Blumenau;4737021010;00:01:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Blumenau;00048;
+48 98824-1962;Internet (MB);08/05/2023;11:24:15;;;,036132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);08/05/2023;12:55:51;;;,976562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Outras Op.;08/05/2023;13:34:49;Santa Catarina - Santa Catarina (48);48988239746;00:10:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04500
+48 98824-1962;Internet (MB);08/05/2023;15:15:46;;;14,185546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Outras Op.;08/05/2023;15:26:08;Santa Catarina - Santa Catarina (48);48999186122;00:04:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04500
+48 98824-1962;Internet (MB);09/05/2023;00:12:24;;;,480468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);09/05/2023;00:13:40;;;165,27246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Outras Op.;09/05/2023;11:26:00;Santa Catarina - Santa Catarina (47);47991180244;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;04600
+48 98824-1962;Torpedos;09/05/2023;15:25:00;;48988541110;1;0,45;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00048;00048
+48 98824-1962;Internet (MB);09/05/2023;16:16:17;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);10/05/2023;01:13:43;;;117,817382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);10/05/2023;09:14:11;;;,208984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Torpedos;10/05/2023;09:19:38;;48984257049;1;0,45;,45;,45;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00048;00048
+48 98824-1962;Int. Nacional;10/05/2023;09:41:24;Santa Catarina - Eusebio;8540055900;00:02:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Eusebio;00048;28500
+48 98824-1962;Internet (MB);10/05/2023;10:01:19;;;1,061523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);11/05/2023;03:38:44;;;160,24121;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Int. Nacional;11/05/2023;08:56:19;Santa Catarina - Eusebio;8540055900;00:06:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Eusebio;00048;28500
+48 98824-1962;Internet (MB);11/05/2023;09:55:12;;;3,661132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Int. Nacional;11/05/2023;10:24:31;Santa Catarina - Eusebio;8540055900;00:10:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Eusebio;00048;28500
+48 98824-1962;Claro-Outras Op.;11/05/2023;11:49:13;Santa Catarina - Santa Catarina (48);48991116070;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04500
+48 98824-1962;Claro-Claro;11/05/2023;14:32:07;Santa Catarina - Santa Catarina (48);48991309409;00:03:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98824-1962;Internet (MB);11/05/2023;16:29:41;;;,063476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);12/05/2023;04:59:57;;;34,795898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Outras Op.;12/05/2023;08:13:34;Santa Catarina - Santa Catarina (48);48988239746;00:24:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;45000
+48 98824-1962;Internet (MB);12/05/2023;08:59:54;;;4,261718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Claro;12/05/2023;16:27:08;Santa Catarina - Santa Catarina (48);48984257049;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98824-1962;Internet (MB);13/05/2023;02:49:04;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);14/05/2023;03:50:23;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);15/05/2023;07:24:00;;;97,871093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);15/05/2023;08:08:55;;;8,89746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Outras Op.;15/05/2023;15:16:22;Santa Catarina - Santa Catarina (49);49998060034;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;04600
+48 98824-1962;Internet (MB);15/05/2023;15:24:41;;;7,415039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Claro-Outras Op.;15/05/2023;16:33:04;Santa Catarina - Santa Catarina (49);49991523888;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;04500
+48 98824-1962;Claro-Outras Op.;15/05/2023;18:28:50;Santa Catarina - Santa Catarina (49);49991523888;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;04500
+48 98824-1962;Claro-Outras Op.;15/05/2023;18:41:14;Santa Catarina - Santa Catarina (49);49991523888;00:03:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;04500
+48 98824-1962;Claro-Outras Op.;15/05/2023;18:47:36;Santa Catarina - Santa Catarina (49);49991523888;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;04500
+48 98824-1962;Claro-Fixo;15/05/2023;20:31:23;Santa Catarina - Erval Velho;4935421132;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Erval Velho;00049;47000
+48 98824-1962;Internet (MB);16/05/2023;00:28:45;;;95,941406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);16/05/2023;00:57:56;;;4,974609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);16/05/2023;07:44:35;;;,386718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);17/05/2023;00:09:34;;;158,920898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);17/05/2023;00:11:32;;;1,052734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);17/05/2023;09:52:59;;;,055664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);17/05/2023;15:26:53;;;5,905273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Outras Op.;17/05/2023;18:00:55;Santa Catarina - Santa Catarina (49);49991523888;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;45000
+48 98824-1962;Internet (MB);17/05/2023;18:21:19;;;,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);18/05/2023;00:05:07;;;126,762695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);18/05/2023;00:39:30;;;2,436523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Fixo;18/05/2023;11:33:50;Santa Catarina - Erval Velho;4935425300;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Erval Velho;00049;47000
+48 98824-1962;Internet (MB);18/05/2023;15:47:15;;;4,697265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98824-1962;Internet (MB);19/05/2023;07:49:31;;;21,70996;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Int. Regional;19/05/2023;10:41:35;Santa Catarina - Caibi;4936480680;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Caibi;00048;47000
+48 98824-1962;Internet (MB);19/05/2023;13:36:53;;;,24121;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Int. Regional;19/05/2023;15:51:48;Santa Catarina - Erval Velho;4935425306;00:01:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Erval Velho;00048;47000
+48 98824-1962;Internet (MB);20/05/2023;01:28:23;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Internet (MB);21/05/2023;03:55:31;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98824-1962;Claro-Claro;22/05/2023;08:43:49;Santa Catarina - Santa Catarina (48);48984257049;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98824-1962;Claro-Claro;22/05/2023;15:21:20;Santa Catarina - Santa Catarina (48);48984257049;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98826-9858;Internet (MB);23/04/2023;12:13:52;;;,042968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);24/04/2023;07:41:48;;;132,507812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);24/04/2023;07:42:24;;;,376953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Internet (MB);26/04/2023;08:44:11;;;12,99121;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);27/04/2023;14:18:33;;;4,142578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);02/05/2023;03:15:31;;;12,430664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Claro-Outras Op.;02/05/2023;17:30:08;Santa Catarina - Santa Catarina (48);48991116070;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;45000
+48 98826-9858;Internet (MB);02/05/2023;18:09:45;;;,015625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Internet (MB);03/05/2023;14:24:51;;;4,99414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);03/05/2023;16:55:40;;;,050781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Internet (MB);04/05/2023;07:45:29;;;81,841796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);04/05/2023;09:22:54;;;,048828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Internet (MB);05/05/2023;06:53:58;;;34,902343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);05/05/2023;10:03:39;;;,142578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Internet (MB);07/05/2023;19:40:09;;;,079101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);08/05/2023;06:12:47;;;81,019531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);08/05/2023;13:56:58;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Internet (MB);09/05/2023;06:44:40;;;171,859375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);09/05/2023;07:34:09;;;415,341796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Internet (MB);10/05/2023;00:17:42;;;153,770507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);10/05/2023;09:03:01;;;,091796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Internet (MB);10/05/2023;14:09:39;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Claro-Outras Op.;10/05/2023;15:38:51;Santa Catarina - Santa Catarina (48);48999325634;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04600
+48 98826-9858;Internet (MB);11/05/2023;00:35:13;;;216,423828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Claro-Outras Op.;11/05/2023;10:28:23;Santa Catarina - Santa Catarina (48);48999198770;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04600
+48 98826-9858;Internet (MB);11/05/2023;18:10:33;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Internet (MB);12/05/2023;01:03:57;;;51,316406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);12/05/2023;17:42:22;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Claro-Outras Op.;15/05/2023;08:21:51;Santa Catarina - Santa Catarina (48);48999198770;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04600
+48 98826-9858;Internet (MB);15/05/2023;12:55:43;;;,346679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);19/05/2023;09:46:34;;;4,338867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98826-9858;Internet (MB);19/05/2023;09:46:51;;;220,783203;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98826-9858;Internet (MB);20/05/2023;04:51:52;;;2,070312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Int. Nacional;20/04/2023;15:54:34;Rio Grande do Sul - Icara;4834613433;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Icara;00051;24700
+48 98832-6417;Internet (MB);22/04/2023;01:10:48;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);24/04/2023;06:27:30;;;111,43164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);24/04/2023;11:48:16;;;,034179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98832-6417;Internet (MB);25/04/2023;07:58:43;;;81,578125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Claro-Outras Op.;25/04/2023;10:54:50;Santa Catarina - Santa Catarina (48);48988234867;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04500
+48 98832-6417;Internet (MB);25/04/2023;13:26:58;;;1,732421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98832-6417;Claro-Fixo;25/04/2023;14:25:37;Santa Catarina - Icara;4834613433;00:06:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Icara;00048;24700
+48 98832-6417;Internet (MB);26/04/2023;06:55:33;;;124,354492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Claro-Fixo;26/04/2023;09:28:32;Santa Catarina - Criciuma;4834311215;00:02:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;24700
+48 98832-6417;Claro-Fixo;26/04/2023;14:14:54;Santa Catarina - Nova Veneza;4834711198;00:04:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Nova Veneza;00048;24700
+48 98832-6417;Internet (MB);27/04/2023;08:52:44;;;4,114257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);28/04/2023;08:16:04;;;2,874023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);30/04/2023;08:45:10;;;2,458007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);01/05/2023;02:04:18;;;,020507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);02/05/2023;06:39:41;;;32,257812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);02/05/2023;10:01:27;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98832-6417;Internet (MB);03/05/2023;07:39:09;;;174,58496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);03/05/2023;14:01:37;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98832-6417;Internet (MB);04/05/2023;01:29:04;;;73,263671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);04/05/2023;13:12:18;;;,081054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98832-6417;Internet (MB);05/05/2023;07:57:04;;;61,152343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);07/05/2023;21:40:59;;;,204101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);08/05/2023;06:45:16;;;41,117187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);08/05/2023;13:45:09;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98832-6417;Internet (MB);09/05/2023;00:10:25;;;10,52832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);09/05/2023;14:31:32;;;20,416992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);10/05/2023;00:12:27;;;12,754882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Claro-Fixo;10/05/2023;13:33:09;Santa Catarina - Criciuma;4834311215;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;24700
+48 98832-6417;Internet (MB);11/05/2023;08:13:18;;;257,515625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);11/05/2023;17:19:31;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98832-6417;Internet (MB);12/05/2023;00:03:04;;;153,67871;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);12/05/2023;08:58:16;;;22,345703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);12/05/2023;11:12:09;;;,225585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98832-6417;Internet (MB);15/05/2023;06:51:20;;;22,924804;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);15/05/2023;20:29:49;;;,013671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);16/05/2023;00:41:43;;;47,511718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);16/05/2023;08:43:39;;;,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98832-6417;Claro-Fixo;16/05/2023;16:07:17;Santa Catarina - Icara;4834613489;00:01:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Icara;00048;24700
+48 98832-6417;Internet (MB);17/05/2023;01:01:33;;;156,846679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);17/05/2023;13:06:17;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98832-6417;Internet (MB);17/05/2023;15:24:24;;;2,539062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);18/05/2023;07:18:35;;;253,739257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Claro-Fixo;18/05/2023;13:40:08;Santa Catarina - Icara;4834613425;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Icara;00048;24700
+48 98832-6417;Claro-Fixo;18/05/2023;13:46:54;Santa Catarina - Criciuma;4834311215;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;24700
+48 98832-6417;Internet (MB);19/05/2023;07:48:04;;;12,115234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Claro-Fixo;19/05/2023;10:19:08;Santa Catarina - Icara;4834613433;00:03:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Icara;00048;24700
+48 98832-6417;Internet (MB);20/05/2023;00:01:31;;;52,296875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98832-6417;Internet (MB);21/05/2023;01:13:55;;;6,155273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);23/04/2023;13:05:16;;;,326171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);24/04/2023;07:16:18;;;1,39746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);24/04/2023;08:05:17;;;,707031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);25/04/2023;09:28:57;;;206,583007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);25/04/2023;09:36:08;;;,21582;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);26/04/2023;08:50:23;;;,199218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);26/04/2023;08:50:23;;;,351562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);27/04/2023;14:19:57;;;,172851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);27/04/2023;14:19:57;;;,108398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);28/04/2023;06:16:27;;;19,353515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);28/04/2023;16:49:14;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);30/04/2023;01:44:12;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);02/05/2023;06:49:40;;;,078125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);03/05/2023;04:26:28;;;97,9375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);03/05/2023;09:31:43;;;,375976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);04/05/2023;09:40:08;;;42,976562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Claro-Outras Op.;04/05/2023;09:54:29;Santa Catarina - Santa Catarina (48);48991490720;00:05:06;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;46000
+48 98842-6020;Internet (MB);04/05/2023;16:36:12;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);05/05/2023;07:13:57;;;60,276367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);05/05/2023;11:55:50;;;,074218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);06/05/2023;09:35:54;;;4,980468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);08/05/2023;11:18:17;;;18,657226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);08/05/2023;11:30:59;;;,110351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Claro-Claro;08/05/2023;18:01:40;Santa Catarina - Santa Catarina (48);48988241948;00:17:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98842-6020;Internet (MB);09/05/2023;09:11:22;;;156,875976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);09/05/2023;09:18:00;;;1,486328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);10/05/2023;11:07:59;;;100,779296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);11/05/2023;10:22:57;;;23,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Claro-Claro;11/05/2023;11:07:37;Santa Catarina - Santa Catarina (48);48988326417;00:17:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98842-6020;Internet (MB);12/05/2023;11:13:41;;;493,790039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);12/05/2023;13:15:18;;;,277343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);13/05/2023;09:34:30;;;80,641601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);14/05/2023;00:12:04;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);14/05/2023;01:43:11;;;4,569335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);15/05/2023;11:11:09;;;25,474609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);15/05/2023;11:11:10;;;230,825195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Claro-Outras Op.;15/05/2023;11:45:15;Santa Catarina - Santa Catarina (48);48991490720;00:07:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04600
+48 98842-6020;Internet (MB);16/05/2023;14:19:17;;;9,155273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);16/05/2023;14:20:01;;;,069335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);17/05/2023;06:00:47;;;151,380859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);17/05/2023;09:59:43;;;,139648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Claro-Outras Op.;17/05/2023;10:00:54;Santa Catarina - Santa Catarina (48);48988012566;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04500
+48 98842-6020;Internet (MB);17/05/2023;15:16:14;;;1,675781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Claro-Outras Op.;17/05/2023;16:05:38;Santa Catarina - Santa Catarina (48);48988422066;00:05:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;45000
+48 98842-6020;Claro-Outras Op.;17/05/2023;16:17:38;Santa Catarina - Santa Catarina (48);48988422066;00:10:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;45000
+48 98842-6020;Claro-Outras Op.;17/05/2023;16:53:47;Santa Catarina - Santa Catarina (48);48988422066;00:03:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;45000
+48 98842-6020;Internet (MB);18/05/2023;14:08:57;;;2,330078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);19/05/2023;13:42:03;;;109,890625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98842-6020;Internet (MB);19/05/2023;13:44:31;;;121,989257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98842-6020;Internet (MB);21/05/2023;12:06:11;;;1,511718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);22/04/2023;00:29:26;;;1,371093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);23/04/2023;01:07:15;;;1,124023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);24/04/2023;01:08:39;;;9,186523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Claro-Fixo;24/04/2023;14:16:59;Santa Catarina - Criciuma;4834617500;00:03:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Claro-Fixo;24/04/2023;14:54:50;Santa Catarina - Criciuma;4834617500;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Claro-Fixo;24/04/2023;15:15:45;Santa Catarina - Criciuma;4834617500;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Internet (MB);25/04/2023;01:09:05;;;32,842773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Claro-Fixo;25/04/2023;08:43:41;Santa Catarina - Criciuma;4834617652;00:04:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Internet (MB);26/04/2023;00:16:48;;;146,508789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);27/04/2023;01:25:16;;;22,675781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Claro-Fixo;27/04/2023;08:21:17;Santa Catarina - Criciuma;4834617652;00:04:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Internet (MB);27/04/2023;08:26:15;;;,219726;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Claro-Fixo;27/04/2023;15:19:28;Santa Catarina - Criciuma;4834617500;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Internet (MB);28/04/2023;01:58:22;;;432,864257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);28/04/2023;17:44:47;;;,163085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Internet (MB);29/04/2023;01:18:06;;;,439453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);30/04/2023;04:18:37;;;,611328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);01/05/2023;01:27:35;;;143,077148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);02/05/2023;01:52:03;;;1205,99707;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Claro-Fixo;02/05/2023;09:16:53;Santa Catarina - Criciuma;4834380908;00:04:54;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;948
+48 98845-1055;Claro-Fixo;02/05/2023;09:22:48;Santa Catarina - Criciuma;4834331278;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;948
+48 98845-1055;Claro-Fixo;02/05/2023;14:09:17;Santa Catarina - Tubarão;4836310800;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Tubarão;00048;47000
+48 98845-1055;Internet (MB);02/05/2023;15:44:48;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Internet (MB);03/05/2023;01:19:51;;;172,320312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);03/05/2023;16:05:16;;;,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Claro-Fixo;03/05/2023;16:22:46;Santa Catarina - Blumenau;4737021010;00:02:06;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Blumenau;00047;
+48 98845-1055;Internet (MB);03/05/2023;23:32:49;;;,070312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);04/05/2023;01:33:37;;;176,669921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);04/05/2023;08:44:54;;;3,041015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);04/05/2023;08:55:31;;;,524414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Internet (MB);05/05/2023;01:20:41;;;1,201171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);05/05/2023;11:54:59;;;,174804;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);06/05/2023;01:21:05;;;1,951171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);08/05/2023;07:03:36;;;15,225585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);08/05/2023;12:06:54;;;1,347656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Internet (MB);09/05/2023;08:06:48;;;2,365234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);10/05/2023;02:49:16;;;53,543945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Claro-Fixo;10/05/2023;09:53:47;Santa Catarina - Florianopolis;4832717500;00:02:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Florianopolis;00048;363
+48 98845-1055;Internet (MB);11/05/2023;08:08:58;;;57,99414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);11/05/2023;09:45:43;;;,040039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Internet (MB);12/05/2023;00:50:08;;;1,579101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);12/05/2023;11:40:39;;;,021484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Internet (MB);12/05/2023;17:21:13;;;9,777343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);13/05/2023;05:42:34;;;,030273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);14/05/2023;08:31:43;;;,021484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);15/05/2023;07:19:35;;;30,387695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);15/05/2023;09:33:09;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Claro-Outras Op.;15/05/2023;14:48:00;Santa Catarina - Santa Catarina (48);48998060317;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04600
+48 98845-1055;Internet (MB);16/05/2023;08:57:20;;;63,824218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);17/05/2023;08:06:44;;;192,33496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);17/05/2023;09:10:28;;;3,20996;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Claro-Fixo;17/05/2023;09:41:27;Santa Catarina - Tubarão;4836310800;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Tubarão;00048;47000
+48 98845-1055;Claro-Fixo;17/05/2023;10:03:27;Santa Catarina - Tubarão;4836310800;00:02:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Tubarão;00048;47000
+48 98845-1055;Claro-Fixo;17/05/2023;10:17:59;Santa Catarina - Tubarão;4836310800;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Tubarão;00048;47000
+48 98845-1055;Claro-Fixo;17/05/2023;10:20:32;Santa Catarina - Tubarão;4836310800;00:02:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Tubarão;00048;47000
+48 98845-1055;Claro-Fixo;17/05/2023;10:36:15;Santa Catarina - Criciuma;4834617500;00:02:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Claro-Fixo;17/05/2023;10:43:13;Santa Catarina - Criciuma;4834617500;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Claro-Fixo;17/05/2023;10:48:58;Santa Catarina - Criciuma;4834617500;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Claro-Outras Op.;17/05/2023;10:52:27;Santa Catarina - Santa Catarina (48);48998152636;00:04:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04600
+48 98845-1055;Claro-Fixo;17/05/2023;10:59:21;Santa Catarina - Criciuma;4834617652;00:02:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Claro-Fixo;17/05/2023;15:03:58;Santa Catarina - Criciuma;4834617500;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Claro-Fixo;17/05/2023;15:14:27;Santa Catarina - Criciuma;4834617500;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Criciuma;00048;363
+48 98845-1055;Internet (MB);17/05/2023;16:48:12;;;,875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);17/05/2023;17:18:16;;;3,110351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98845-1055;Internet (MB);18/05/2023;06:59:09;;;68,944335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Claro-Fixo;18/05/2023;16:24:49;Santa Catarina - Tubarão;4836310800;00:04:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Tubarão;00048;47000
+48 98845-1055;Claro-Fixo;18/05/2023;17:32:12;Santa Catarina - Tubarão;4836310847;00:03:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Tubarão;00048;47000
+48 98845-1055;Internet (MB);19/05/2023;02:36:24;;;21,191406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);20/05/2023;01:53:27;;;,475585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98845-1055;Internet (MB);21/05/2023;01:53:51;;;,482421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);23/04/2023;02:33:29;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);24/04/2023;10:27:55;;;,543945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);25/04/2023;07:52:54;;;53,318359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);27/04/2023;07:58:36;;;81,136718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);04/05/2023;07:05:17;;;112,072265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Claro-Claro;04/05/2023;08:51:58;Santa Catarina - Santa Catarina (48);48988241962;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98854-1110;Internet (MB);05/05/2023;06:17:26;;;262,291992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Claro-Fixo;05/05/2023;10:45:01;Santa Catarina - Florianopolis;4833388052;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Florianopolis;00048;47000
+48 98854-1110;Internet (MB);07/05/2023;11:54:58;;;2,538085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);08/05/2023;00:01:19;;;28,533203;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);08/05/2023;08:16:06;;;,036132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-1110;Internet (MB);09/05/2023;09:58:31;;;5,589843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Claro-Outras Op.;09/05/2023;11:28:29;Santa Catarina - Santa Catarina (48);48999113514;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;04600
+48 98854-1110;Torpedos;09/05/2023;15:25:29;;48988241962;1;0,45;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00048;00048
+48 98854-1110;Internet (MB);10/05/2023;09:19:43;;;4,945312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);11/05/2023;11:36:23;;;9,134765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Claro-Claro;11/05/2023;15:14:02;Santa Catarina - Santa Catarina (48);48988241962;00:03:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98854-1110;Internet (MB);12/05/2023;07:10:36;;;253,768554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);12/05/2023;09:25:15;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-1110;Internet (MB);13/05/2023;12:29:46;;;,030273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);14/05/2023;19:19:06;;;,878906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);15/05/2023;00:26:38;;;15,625976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);16/05/2023;00:33:33;;;141,448242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);17/05/2023;08:04:09;;;101,177734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);17/05/2023;16:09:22;;;5,352539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);18/05/2023;08:39:44;;;2,932617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);19/05/2023;03:53:17;;;20,106445;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);20/05/2023;00:33:53;;;182,319335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-1110;Internet (MB);21/05/2023;02:32:53;;;11,445312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);22/04/2023;03:59:23;;;,446289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);23/04/2023;00:00:01;;;,824218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);24/04/2023;03:19:43;;;91,655273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);24/04/2023;20:52:16;;;,039062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3772;Internet (MB);25/04/2023;01:24:24;;;43,39746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);25/04/2023;10:45:19;;;,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3772;Internet (MB);26/04/2023;07:47:13;;;23,230468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);27/04/2023;01:22:09;;;57,065429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);28/04/2023;00:59:08;;;148,815429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);29/04/2023;00:43:17;;;4,554687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);30/04/2023;01:01:38;;;3,052734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);01/05/2023;00:58:37;;;2,993164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);02/05/2023;01:01:18;;;9,818359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);03/05/2023;02:49:05;;;9,992187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);03/05/2023;09:49:25;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3772;Internet (MB);04/05/2023;01:41:17;;;49,980468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);05/05/2023;02:55:42;;;6,36914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);06/05/2023;01:29:49;;;,752929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);07/05/2023;00:50:10;;;,59082;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);08/05/2023;00:05:43;;;8,889648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);09/05/2023;00:20:25;;;4,043945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);10/05/2023;01:21:12;;;4,489257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);11/05/2023;00:46:21;;;6,012695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);12/05/2023;01:52:52;;;42,194335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);13/05/2023;02:47:51;;;,675781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);14/05/2023;00:12:39;;;1,458007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);15/05/2023;08:08:07;;;33,790039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);15/05/2023;10:07:33;;;,082031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3772;Internet (MB);16/05/2023;02:01:49;;;6,300781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);16/05/2023;16:39:34;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3772;Internet (MB);17/05/2023;02:34:31;;;92,266601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);17/05/2023;16:06:31;;;21,89746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);17/05/2023;16:17:53;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3772;Internet (MB);18/05/2023;01:10:52;;;17,198242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);18/05/2023;09:58:15;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3772;Internet (MB);19/05/2023;00:42:41;;;157,246093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Int. Nacional;19/05/2023;08:17:20;Santa Catarina - Eusebio;8540055900;00:09:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Eusebio;00048;28500
+48 98854-3772;Internet (MB);19/05/2023;10:56:50;;;,013671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3772;Internet (MB);20/05/2023;00:46:48;;;,317382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3772;Internet (MB);21/05/2023;04:55:44;;;1,023437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);30/04/2023;09:45:51;;;,258789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);03/05/2023;07:34:30;;;30,764648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);03/05/2023;19:36:12;;;,269531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3920;Internet (MB);04/05/2023;07:29:16;;;7,109375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);04/05/2023;13:12:17;;;,098632;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3920;Claro-Fixo;04/05/2023;17:03:55;Santa Catarina - Florianopolis;4840024099;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Florianopolis;00048;47000
+48 98854-3920;Internet (MB);05/05/2023;07:29:49;;;46,320312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);08/05/2023;07:22:27;;;408,411132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);08/05/2023;08:12:56;;;1,132812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3920;Internet (MB);09/05/2023;07:29:27;;;34,205078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);10/05/2023;07:32:59;;;38,492187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);11/05/2023;07:36:12;;;4,666992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);11/05/2023;10:09:38;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3920;Internet (MB);12/05/2023;07:32:59;;;5,257812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);12/05/2023;11:12:07;;;,239257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3920;Claro-Claro;12/05/2023;13:15:17;Santa Catarina - Santa Catarina (48);48988326417;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98854-3920;Internet (MB);15/05/2023;07:29:04;;;6,87207;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Claro-Claro;15/05/2023;13:54:21;Santa Catarina - Santa Catarina (48);48988326417;00:06:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+48 98854-3920;Internet (MB);16/05/2023;07:27:41;;;38,754882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);17/05/2023;07:35:37;;;95,445312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);18/05/2023;07:28:49;;;39,83496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);19/05/2023;07:27:08;;;27,487304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-3920;Internet (MB);19/05/2023;08:36:21;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-3920;Internet (MB);20/05/2023;20:50:35;;;,043945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);22/04/2023;08:04:57;;;6,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);23/04/2023;20:16:17;;;,194335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);24/04/2023;06:44:19;;;44,908203;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);25/04/2023;06:58:33;;;269,505859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);26/04/2023;06:54:09;;;82,456054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);26/04/2023;11:26:00;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-6372;Internet (MB);27/04/2023;05:49:52;;;164,114257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);28/04/2023;06:59:29;;;127,083984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);28/04/2023;08:27:32;;;,072265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-6372;Claro-Fixo;28/04/2023;11:44:45;Santa Catarina - Mafra;4736413600;00:03:06;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;
+48 98854-6372;Claro-Fixo;28/04/2023;11:48:12;Santa Catarina - Mafra;4736420084;00:01:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;47000
+48 98854-6372;Claro-Fixo;28/04/2023;13:56:41;Santa Catarina - Mafra;4736420084;00:04:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;47000
+48 98854-6372;Claro-Fixo;28/04/2023;14:01:29;Santa Catarina - Mafra;4736413600;00:04:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;
+48 98854-6372;Claro-Fixo;28/04/2023;15:30:52;Santa Catarina - Mafra;4736413600;00:01:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;
+48 98854-6372;Internet (MB);29/04/2023;08:18:48;;;42,274414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);01/05/2023;07:52:32;;;20,932617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);02/05/2023;07:13:55;;;318,355468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Claro-Fixo;02/05/2023;09:01:51;Santa Catarina - Mafra;4736413600;00:03:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;
+48 98854-6372;Claro-Fixo;02/05/2023;09:11:06;Santa Catarina - Mafra;4736413651;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;
+48 98854-6372;Claro-Fixo;02/05/2023;10:10:23;Santa Catarina - Mafra;4736413651;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;
+48 98854-6372;Claro-Fixo;02/05/2023;10:41:42;Santa Catarina - Mafra;4736425014;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;47000
+48 98854-6372;Claro-Fixo;02/05/2023;10:43:36;Santa Catarina - Mafra;4736420831;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;948
+48 98854-6372;Claro-Fixo;02/05/2023;11:02:55;Santa Catarina - Sao Bento Do Sul;4736310000;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Sao Bento Do Sul;00047;363
+48 98854-6372;Claro-Fixo;02/05/2023;11:05:10;Santa Catarina - Sao Bento Do Sul;4736341119;00:03:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Sao Bento Do Sul;00047;47000
+48 98854-6372;Claro-Fixo;02/05/2023;11:38:24;Santa Catarina - Sao Bento Do Sul;4736341119;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Sao Bento Do Sul;00047;47000
+48 98854-6372;Claro-Fixo;02/05/2023;13:59:00;Santa Catarina - Mafra;4736425014;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;47000
+48 98854-6372;Claro-Fixo;02/05/2023;14:02:44;Santa Catarina - Mafra;4736425014;00:03:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Mafra;00047;47000
+48 98854-6372;Internet (MB);03/05/2023;07:18:53;;;229,893554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Claro-Outras Op.;03/05/2023;21:07:49;Santa Catarina - Santa Catarina (47);47997501599;00:11:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;46000
+48 98854-6372;Internet (MB);04/05/2023;06:32:48;;;74,885742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);05/05/2023;06:50:35;;;239,516601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);05/05/2023;07:38:22;;;,029296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);05/05/2023;16:55:37;;;,197265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);06/05/2023;08:46:19;;;6,829101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);08/05/2023;06:49:21;;;160,086914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Claro-Outras Op.;08/05/2023;14:14:08;Santa Catarina - Santa Catarina (47);47984829683;00:03:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;04600
+48 98854-6372;Internet (MB);09/05/2023;05:56:59;;;191,382812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);09/05/2023;11:26:10;;;,12207;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);10/05/2023;05:56:45;;;74,648437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);10/05/2023;09:46:48;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-6372;Internet (MB);11/05/2023;06:01:43;;;48,493164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);11/05/2023;11:05:57;;;4,390625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);12/05/2023;07:10:27;;;254,611328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);12/05/2023;09:04:37;;;209,222656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);12/05/2023;17:10:10;;;,037109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-6372;Internet (MB);13/05/2023;08:27:28;;;150,827148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);13/05/2023;14:03:51;;;260,441406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);14/05/2023;20:56:38;;;83,0625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);15/05/2023;06:56:17;;;625,615234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);15/05/2023;11:17:54;;;,063476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-6372;Claro-Outras Op.;15/05/2023;13:28:57;Santa Catarina - Santa Catarina (47);47988519047;00:09:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (47);00047;04600
+48 98854-6372;Internet (MB);16/05/2023;07:23:49;;;153,748046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);17/05/2023;06:30:12;;;207,625976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);17/05/2023;17:47:48;;;9,199218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);18/05/2023;07:11:32;;;76,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);19/05/2023;06:27:31;;;152,329101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-6372;Internet (MB);19/05/2023;14:31:50;;;,032226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-6372;Internet (MB);20/05/2023;08:34:11;;;8,375976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);04/05/2023;19:22:22;;;,808593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);05/05/2023;09:49:28;;;4,787109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);06/05/2023;11:08:13;;;,321289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);07/05/2023;00:32:10;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);08/05/2023;01:17:27;;;14,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);08/05/2023;12:29:56;;;,02832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-9087;Claro-Fixo;08/05/2023;14:15:39;Santa Catarina - Sao Jose;4832571790;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Sao Jose;00048;363
+48 98854-9087;Internet (MB);09/05/2023;08:05:21;;;31,859375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);10/05/2023;10:50:16;;;3,758789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);10/05/2023;13:57:01;;;,012695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-9087;Internet (MB);11/05/2023;01:14:27;;;30,029296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);12/05/2023;06:52:41;;;38,752929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);14/05/2023;03:14:44;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);15/05/2023;07:20:51;;;202,99707;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);16/05/2023;07:54:49;;;12,145507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);17/05/2023;07:37:36;;;16,295898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);17/05/2023;17:24:18;;;1,05664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);18/05/2023;01:41:06;;;7,751953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);19/05/2023;07:22:15;;;1541,319335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);19/05/2023;15:06:04;;;129,592773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);19/05/2023;16:43:34;;;,049804;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00048;0
+48 98854-9087;Internet (MB);20/05/2023;12:39:40;;;,083007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 98854-9087;Internet (MB);21/05/2023;08:16:42;;;4,047851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 99130-9409;Internet (MB);27/04/2023;07:58:55;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 99130-9409;Internet (MB);28/04/2023;07:59:51;;;10,048828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 99130-9409;Internet (MB);28/04/2023;07:59:53;;;51,480468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00048;0
+48 99130-9409;Int. Nacional;11/05/2023;14:58:10;Rio Grande do Sul - Santa Catarina (48);48988241962;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00054;00048
+49 98824-5726;Internet (MB);24/04/2023;06:45:37;;;630,595703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);24/04/2023;10:31:09;;;,105468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Claro-Outras Op.;24/04/2023;11:18:32;Santa Catarina - Santa Catarina (49);49998328113;00:04:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+49 98824-5726;Internet (MB);25/04/2023;06:46:32;;;127,257812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);25/04/2023;08:46:08;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);26/04/2023;06:36:06;;;224,020507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);26/04/2023;11:57:50;;;,067382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);27/04/2023;06:52:56;;;166,568359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);28/04/2023;06:43:05;;;151,259765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);28/04/2023;14:16:47;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Claro-Fixo;28/04/2023;20:31:24;Santa Catarina - Chapeco;4933286369;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Chapeco;00049;948
+49 98824-5726;Internet (MB);29/04/2023;01:14:00;;;20,429687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);29/04/2023;11:22:51;;;,260742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);30/04/2023;01:05:21;;;65,623046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);01/05/2023;01:05:57;;;4,690429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);02/05/2023;06:46:22;;;778,53125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);02/05/2023;11:02:30;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);03/05/2023;07:12:55;;;123,860351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);03/05/2023;08:46:20;;;,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);04/05/2023;06:59:56;;;242,11914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Claro-Outras Op.;04/05/2023;09:18:41;Santa Catarina - Santa Catarina (49);49999235484;00:03:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;45000
+49 98824-5726;Internet (MB);04/05/2023;14:17:23;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);05/05/2023;07:35:19;;;98,805664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);05/05/2023;07:38:09;;;,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);05/05/2023;07:38:18;;;,021484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);05/05/2023;11:23:10;;;,045898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);06/05/2023;07:47:31;;;52,255859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);08/05/2023;06:55:07;;;512,043945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);08/05/2023;09:16:25;;;,205078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);08/05/2023;09:23:04;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);09/05/2023;01:03:58;;;268,237304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);09/05/2023;09:24:14;;;,029296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);10/05/2023;01:17:02;;;162,001953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);10/05/2023;14:00:43;;;,039062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);11/05/2023;01:05:08;;;344,159179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);11/05/2023;11:44:08;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);12/05/2023;06:57:50;;;393,504882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);12/05/2023;10:47:07;;;,015625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);13/05/2023;08:20:38;;;172,171875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);14/05/2023;00:47:13;;;46,901367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);15/05/2023;06:48:38;;;426,180664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);15/05/2023;11:25:01;;;,092773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);16/05/2023;07:11:46;;;75,43457;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);16/05/2023;20:34:00;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);17/05/2023;06:48:11;;;10,449218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);17/05/2023;10:01:41;;;,017578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);17/05/2023;15:48:42;;;19,882812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);18/05/2023;06:53:53;;;50,435546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Claro-Outras Op.;18/05/2023;16:33:34;Santa Catarina - Santa Catarina (49);49984355644;00:06:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;04600
+49 98824-5726;Internet (MB);19/05/2023;07:16:00;;;232,964843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);19/05/2023;10:24:51;;;,02832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98824-5726;Internet (MB);20/05/2023;09:17:46;;;170,357421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98824-5726;Internet (MB);21/05/2023;13:05:07;;;14,655273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Nacional;20/04/2023;12:12:58;Rio Grande do Sul - Santa Catarina (48);48988241948;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+49 98834-0327;Int. Nacional;20/04/2023;12:14:48;Rio Grande do Sul - Paraná (43);43999760752;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (43);00051;00043
+49 98834-0327;Int. Nacional;20/04/2023;12:21:04;Rio Grande do Sul - Paraná (41);41989017149;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Regional;20/04/2023;13:31:41;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;20/04/2023;15:55:15;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:13:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);24/04/2023;09:59:37;;;1401,143554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Claro-Outras Op.;24/04/2023;11:18:11;Rio Grande do Sul - Rio Grande do Sul (51);51996890162;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;50000
+49 98834-0327;Claro-Outras Op.;24/04/2023;11:20:28;Rio Grande do Sul - Rio Grande do Sul (51);51996890162;00:06:12;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;50000
+49 98834-0327;Int. Regional;24/04/2023;11:28:21;Rio Grande do Sul - Rio Grande do Sul (54);54991023744;00:03:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Fixo;24/04/2023;11:31:02;Rio Grande do Sul - Porto Alegre;5133733945;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Porto Alegre;00051;51000
+49 98834-0327;Internet (MB);24/04/2023;12:21:24;;;,165039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98834-0327;Internet (MB);24/04/2023;13:40:21;;;1,504882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);24/04/2023;14:18:38;;;,162109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;24/04/2023;14:25:22;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:07:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (51);00054;00051
+49 98834-0327;Int. Regional;24/04/2023;15:08:04;Rio Grande do Sul - Rio Grande do Sul (51);51993133710;00:02:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (51);00054;00051
+49 98834-0327;Int. Nacional;24/04/2023;16:30:21;Rio Grande do Sul - Paraná (41);41988821540;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00054;00041
+49 98834-0327;Int. Regional;24/04/2023;16:46:05;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:03:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (51);00054;00051
+49 98834-0327;Internet (MB);24/04/2023;18:33:48;;;3,849609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);25/04/2023;05:39:54;;;109,466796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;25/04/2023;07:32:55;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:07:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;25/04/2023;08:05:28;Rio Grande do Sul - Rio Grande do Sul (54);54991023744;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;25/04/2023;10:02:54;Rio Grande do Sul - Rio Grande do Sul (54);54991023744;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;25/04/2023;10:03:34;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:04:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;25/04/2023;11:40:20;Rio Grande do Sul - Rio Grande do Sul (54);54991023744;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Claro;25/04/2023;12:15:07;Rio Grande do Sul - Rio Grande do Sul (51);51993133710;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Regional;25/04/2023;14:15:04;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Claro;25/04/2023;14:54:29;Rio Grande do Sul - Rio Grande do Sul (51);51993133710;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Regional;25/04/2023;15:08:16;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:06:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;25/04/2023;15:15:45;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Claro;25/04/2023;15:40:12;Rio Grande do Sul - Rio Grande do Sul (51);51993133710;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Nacional;25/04/2023;16:00:24;Rio Grande do Sul - Paraná (41);41988821540;00:05:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Regional;25/04/2023;16:15:01;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:03:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);26/04/2023;02:26:36;;;2,512695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Claro-Fixo;26/04/2023;10:03:51;Rio Grande do Sul - Porto Alegre;5133733471;00:09:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Porto Alegre;00051;51000
+49 98834-0327;Claro-Claro;26/04/2023;10:26:15;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:02:36;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Regional;26/04/2023;11:28:38;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:10:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Claro;26/04/2023;13:06:34;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:04:12;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Regional;26/04/2023;14:18:56;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;26/04/2023;15:02:11;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:04:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;26/04/2023;15:31:54;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:14:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Nacional;26/04/2023;16:26:51;Rio Grande do Sul - Paraná (41);41988821540;00:01:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Regional;26/04/2023;16:28:35;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:04:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Claro;26/04/2023;16:33:32;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Internet (MB);27/04/2023;04:23:23;;;419,985351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Nacional;27/04/2023;11:02:31;Rio Grande do Sul - Paraná (41);41988821540;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Nacional;27/04/2023;11:14:05;Rio Grande do Sul - Paraná (41);41988821540;00:07:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Regional;27/04/2023;13:51:34;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:06:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);27/04/2023;14:59:42;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98834-0327;Claro-Claro;27/04/2023;16:37:08;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Regional;27/04/2023;16:52:06;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Nacional;27/04/2023;16:53:30;Rio Grande do Sul - Paraná (41);41988821540;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Nacional;27/04/2023;17:24:35;Rio Grande do Sul - Paraná (41);41988821540;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Regional;27/04/2023;17:25:28;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);28/04/2023;09:41:29;;;8,505859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);28/04/2023;10:00:22;;;,019531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98834-0327;Claro-Claro;28/04/2023;10:27:09;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Nacional;28/04/2023;16:29:24;Rio Grande do Sul - Paraná (41);41988821540;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Regional;28/04/2023;16:44:14;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:05:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;28/04/2023;16:58:17;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Claro;28/04/2023;17:05:16;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:05:00;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Internet (MB);29/04/2023;01:20:54;;;,034179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);30/04/2023;00:00:02;;;,131835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);01/05/2023;00:56:16;;;,713867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;02/05/2023;09:22:55;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:05:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);02/05/2023;09:53:32;;;11,713867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;02/05/2023;10:03:53;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:09:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;02/05/2023;11:55:38;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:07:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;02/05/2023;12:19:05;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:01:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);03/05/2023;06:29:15;;;179,773437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;03/05/2023;08:42:31;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:07:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Claro;03/05/2023;10:43:10;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Regional;03/05/2023;11:43:09;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Claro;03/05/2023;11:43:37;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Nacional;03/05/2023;11:49:13;Rio Grande do Sul - Paraná (41);41988821540;00:07:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Regional;03/05/2023;12:46:00;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;03/05/2023;13:23:10;Rio Grande do Sul - Rio Grande do Sul (54);54991023744;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Nacional;03/05/2023;13:24:50;Rio Grande do Sul - Paraná (41);41988821540;00:03:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Nacional;03/05/2023;13:41:30;Rio Grande do Sul - Paraná (41);41988821540;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Nacional;03/05/2023;13:44:07;Rio Grande do Sul - Santa Catarina (48);48991309409;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+49 98834-0327;Claro-Claro;03/05/2023;14:16:29;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Nacional;03/05/2023;14:16:31;Rio Grande do Sul - Paraná (41);41988821540;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Claro-Claro;03/05/2023;14:44:12;Rio Grande do Sul - Rio Grande do Sul (51);51998492227;00:04:00;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Nacional;03/05/2023;17:56:19;Rio Grande do Sul - Paraná (41);41988821540;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Internet (MB);03/05/2023;18:11:30;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98834-0327;Int. Regional;03/05/2023;18:44:38;Rio Grande do Sul - Rio Grande do Sul (54);54991020533;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);04/05/2023;04:30:33;;;620,963867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;04/05/2023;08:09:09;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:03:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Outras Op.;04/05/2023;08:15:02;Rio Grande do Sul - Rio Grande do Sul (51);51996379174;00:08:18;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;50000
+49 98834-0327;Int. Regional;04/05/2023;09:40:40;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;04/05/2023;13:06:38;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);04/05/2023;14:40:13;;;,192382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);04/05/2023;16:23:27;;;,169921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);05/05/2023;05:30:58;;;305,291992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Nacional;05/05/2023;09:09:41;Rio Grande do Sul - Paraná (41);41988821540;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Int. Regional;05/05/2023;09:23:54;Rio Grande do Sul - Rio Grande do Sul (54);54991761669;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;05/05/2023;09:24:18;Rio Grande do Sul - Rio Grande do Sul (54);54991761669;00:05:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;05/05/2023;09:36:55;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:05:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Claro-Claro;05/05/2023;09:42:16;Rio Grande do Sul - Rio Grande do Sul (51);51993019333;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Internet (MB);05/05/2023;13:51:17;;;,166015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);05/05/2023;14:22:47;;;1,586914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);06/05/2023;00:31:00;;;2,389648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);07/05/2023;16:15:59;;;,058593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);08/05/2023;00:46:49;;;2688,422851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);08/05/2023;12:39:10;;;2,827148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98834-0327;Internet (MB);08/05/2023;17:08:04;;;8,583007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);08/05/2023;17:40:36;;;2,042968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);08/05/2023;18:01:07;;;,151367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Nacional;08/05/2023;18:18:43;Rio Grande do Sul - Paraná (41);41988821540;00:03:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00054;00041
+49 98834-0327;Claro-Claro;08/05/2023;19:45:44;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (54);00054;00054
+49 98834-0327;Internet (MB);09/05/2023;01:02:46;;;4166,038085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);09/05/2023;01:36:29;;;,768554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Claro-Claro;09/05/2023;10:33:20;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:03:00;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (54);00054;00054
+49 98834-0327;Internet (MB);09/05/2023;12:12:55;;;,833984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Claro-Claro;09/05/2023;12:27:31;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (54);00054;00054
+49 98834-0327;Claro-Claro;09/05/2023;13:24:14;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (54);00054;00054
+49 98834-0327;Internet (MB);09/05/2023;20:18:10;;;,074218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98834-0327;Internet (MB);10/05/2023;00:10:05;;;35,249023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Claro-Claro;10/05/2023;09:01:47;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:06:54;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (54);00054;00054
+49 98834-0327;Internet (MB);10/05/2023;12:14:43;;;,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98834-0327;Claro-Claro;10/05/2023;16:46:38;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (54);00054;00054
+49 98834-0327;Internet (MB);11/05/2023;13:45:56;;;4,950195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;11/05/2023;14:56:45;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:14:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);11/05/2023;17:06:31;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98834-0327;Int. Regional;11/05/2023;17:19:34;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:01:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);12/05/2023;00:59:02;;;11,976562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;12/05/2023;16:36:59;Rio Grande do Sul - Rio Grande do Sul (54);54991023744;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;12/05/2023;16:37:16;Rio Grande do Sul - Rio Grande do Sul (54);54991023744;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;12/05/2023;16:39:38;Rio Grande do Sul - Rio Grande do Sul (54);54991023744;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;12/05/2023;16:56:05;Rio Grande do Sul - Rio Grande do Sul (54);54991023744;00:26:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);15/05/2023;11:41:08;;;5,67871;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);15/05/2023;13:51:06;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98834-0327;Claro-Fixo;15/05/2023;16:01:31;Rio Grande do Sul - Porto Alegre;5133733989;00:02:54;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Porto Alegre;00051;51000
+49 98834-0327;Internet (MB);16/05/2023;07:08:14;;;3,11914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;16/05/2023;08:59:29;Rio Grande do Sul - Rio Grande do Sul (54);54991761669;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;16/05/2023;12:20:59;Rio Grande do Sul - Rio Grande do Sul (54);54991761669;00:11:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;17/05/2023;11:09:08;Rio Grande do Sul - Rio Grande do Sul (54);54991761669;00:04:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Regional;17/05/2023;11:14:05;Rio Grande do Sul - Rio Grande do Sul (54);54992045382;00:05:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);17/05/2023;12:15:43;;;1,8125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;17/05/2023;14:36:29;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:02:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);18/05/2023;08:03:21;;;2,956054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Claro-Claro;18/05/2023;09:23:36;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:02:06;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Claro-Claro;18/05/2023;10:45:24;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Int. Regional;18/05/2023;17:23:34;Rio Grande do Sul - Rio Grande do Sul (54);54991761669;00:04:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Internet (MB);19/05/2023;02:25:21;;;10,659179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Int. Regional;19/05/2023;10:22:41;Rio Grande do Sul - Rio Grande do Sul (54);54991761669;00:02:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+49 98834-0327;Int. Nacional;19/05/2023;11:27:40;Rio Grande do Sul - Paraná (41);41988821540;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+49 98834-0327;Claro-Fixo;19/05/2023;16:59:18;Rio Grande do Sul - Porto Alegre;5133733989;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Porto Alegre;00051;51000
+49 98834-0327;Internet (MB);20/05/2023;05:48:24;;;,30664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Internet (MB);21/05/2023;12:18:16;;;,270507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98834-0327;Claro-Claro;22/05/2023;10:49:24;Rio Grande do Sul - Rio Grande do Sul (51);51993567382;00:12:48;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+49 98834-0327;Torpedos;22/05/2023;10:51:58;;41988821540;1;0,45;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00049;00041
+49 98843-4374;Internet (MB);23/04/2023;18:34:52;;;,110351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);24/04/2023;06:54:12;;;90,066406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);24/04/2023;09:13:46;;;6,924804;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);25/04/2023;07:07:59;;;16,708007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);25/04/2023;13:37:37;;;6,547851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);26/04/2023;08:41:49;;;139,297851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Claro-Fixo;26/04/2023;11:45:15;Santa Catarina - Xanxerê;4934330914;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Xanxerê;00049;
+49 98843-4374;Claro-Fixo;26/04/2023;17:21:58;Santa Catarina - Xanxerê;4934330914;00:02:06;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Xanxerê;00049;
+49 98843-4374;Internet (MB);27/04/2023;07:31:33;;;148,328125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);27/04/2023;09:55:07;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);28/04/2023;08:17:04;;;162,986328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);28/04/2023;08:43:20;;;,026367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);01/05/2023;11:22:44;;;,123046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);02/05/2023;07:54:42;;;9,665039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);03/05/2023;08:30:01;;;193,354492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);03/05/2023;12:44:02;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);04/05/2023;07:40:26;;;105,521484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);05/05/2023;13:12:34;;;16,354492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);05/05/2023;13:46:13;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);08/05/2023;07:13:20;;;17,170898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);08/05/2023;16:40:58;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);09/05/2023;08:06:41;;;212,573242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);09/05/2023;13:40:42;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);10/05/2023;09:08:23;;;62,990234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);10/05/2023;15:05:22;;;,035156;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);11/05/2023;08:11:58;;;194,675781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);12/05/2023;08:29:41;;;95,875976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);15/05/2023;07:18:14;;;113,478515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);15/05/2023;10:44:41;;;,037109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);16/05/2023;07:30:01;;;167,958984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);16/05/2023;10:10:27;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98843-4374;Internet (MB);17/05/2023;07:32:55;;;163,399414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);17/05/2023;15:00:09;;;19,887695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);18/05/2023;07:37:42;;;184,605468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);19/05/2023;07:30:46;;;224,986328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98843-4374;Internet (MB);19/05/2023;16:09:59;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98891-1825;Internet (MB);22/04/2023;00:52:11;;;24,682617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);23/04/2023;00:51:56;;;23,395507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);24/04/2023;00:53:44;;;81,850585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Claro-Outras Op.;24/04/2023;09:27:41;Santa Catarina - Santa Catarina (49);49999640373;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+49 98891-1825;Internet (MB);25/04/2023;00:30:49;;;87,786132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Claro-Fixo;25/04/2023;09:59:36;Santa Catarina - Lages;4932516333;00:05:12;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Lages;00049;47000
+49 98891-1825;Claro-Claro;25/04/2023;10:10:50;Santa Catarina - Santa Catarina (49);49988439372;00:11:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;00049
+49 98891-1825;Claro-Outras Op.;25/04/2023;23:36:24;Santa Catarina - Santa Catarina (49);49999143538;00:06:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+49 98891-1825;Internet (MB);26/04/2023;00:15:45;;;149,041015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);27/04/2023;07:57:38;;;11,267578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);27/04/2023;14:22:01;;;,596679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);28/04/2023;07:27:21;;;34,915039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);29/04/2023;00:31:03;;;19,936523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);30/04/2023;00:20:22;;;22,680664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);01/05/2023;01:26:15;;;19,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);02/05/2023;00:19:15;;;545,921875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Claro-Claro;02/05/2023;09:20:56;Santa Catarina - Santa Catarina (49);49988989192;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;00049
+49 98891-1825;Internet (MB);02/05/2023;11:49:06;;;,012695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98891-1825;Claro-Outras Op.;02/05/2023;14:38:00;Santa Catarina - Santa Catarina (49);49920019130;00:03:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;6200
+49 98891-1825;Internet (MB);03/05/2023;07:33:34;;;204,46875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);03/05/2023;11:44:50;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98891-1825;Claro-Outras Op.;03/05/2023;15:11:11;Santa Catarina - Santa Catarina (49);49999143538;00:03:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+49 98891-1825;Internet (MB);04/05/2023;01:27:34;;;130,40625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);05/05/2023;07:23:15;;;14,071289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);06/05/2023;23:55:04;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);08/05/2023;07:28:35;;;103,770507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);09/05/2023;07:57:11;;;8,518554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);10/05/2023;08:46:07;;;207,4375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Claro-Claro;11/05/2023;07:45:09;Santa Catarina - Santa Catarina (49);49988847309;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;00049
+49 98891-1825;Internet (MB);11/05/2023;07:45:37;;;19,072265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Claro-Outras Op.;11/05/2023;15:30:40;Santa Catarina - Santa Catarina (49);49999640373;00:13:48;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+49 98891-1825;Internet (MB);12/05/2023;09:25:18;;;259,118164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Claro-Outras Op.;12/05/2023;13:59:16;Santa Catarina - Santa Catarina (49);49999143538;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;46000
+49 98891-1825;Claro-Claro;12/05/2023;14:05:22;Santa Catarina - Santa Catarina (49);49988847309;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;00049
+49 98891-1825;Claro-Claro;12/05/2023;14:50:02;Santa Catarina - Santa Catarina (49);49991629726;00:10:54;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;00049
+49 98891-1825;Claro-Fixo;15/05/2023;07:48:25;Santa Catarina - Videira;4935313400;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Videira;00049;
+49 98891-1825;Int. Nacional;15/05/2023;08:27:25;Santa Catarina - Sao Paulo;1131567575;00:05:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Paulo;00049;21200
+49 98891-1825;Int. Nacional;15/05/2023;08:33:19;Santa Catarina - Sao Paulo;1131567575;00:09:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Paulo;00049;21200
+49 98891-1825;Int. Nacional;15/05/2023;08:42:47;Santa Catarina - Sao Paulo;1131567575;00:16:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Sao Paulo;00049;21200
+49 98891-1825;Internet (MB);15/05/2023;09:00:11;;;131,392578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);15/05/2023;15:09:29;;;,020507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98891-1825;Internet (MB);16/05/2023;00:42:44;;;166,152343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Claro-Claro;16/05/2023;09:10:27;Santa Catarina - Santa Catarina (49);49988847309;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;00049
+49 98891-1825;Internet (MB);16/05/2023;09:21:40;;;,05664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98891-1825;Claro-Fixo;16/05/2023;15:41:06;Santa Catarina - Lages;4932212408;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Lages;00049;363
+49 98891-1825;Claro-Fixo;16/05/2023;15:44:07;Santa Catarina - Lages;4932212418;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Lages;00049;363
+49 98891-1825;Claro-Fixo;16/05/2023;15:50:51;Santa Catarina - Lages;4932212426;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Lages;00049;363
+49 98891-1825;Claro-Fixo;16/05/2023;15:53:20;Santa Catarina - Lages;4932212426;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Lages;00049;363
+49 98891-1825;Claro-Fixo;16/05/2023;17:13:57;Santa Catarina - Lages;4932212426;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Lages;00049;363
+49 98891-1825;Internet (MB);17/05/2023;01:22:31;;;181,268554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);17/05/2023;16:12:26;;;,412109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);18/05/2023;01:57:24;;;207,293945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Internet (MB);18/05/2023;10:01:57;;;6,830078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98891-1825;Internet (MB);19/05/2023;00:52:13;;;53,688476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Claro-Outras Op.;19/05/2023;10:10:18;Santa Catarina - Santa Catarina (49);49999640373;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;04600
+49 98891-1825;Internet (MB);19/05/2023;11:49:32;;;1,777343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00049;0
+49 98891-1825;Internet (MB);20/05/2023;07:58:12;;;18,060546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00049;0
+49 98891-1825;Claro-Outras Op.;22/05/2023;11:06:11;Santa Catarina - Santa Catarina (49);49984030520;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (49);00049;45000

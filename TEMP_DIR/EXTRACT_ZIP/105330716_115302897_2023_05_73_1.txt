@@ -1,0 +1,66 @@
+M DIAS BRANCO S.A INDUSTRIA E COMERCIO DE ALIMENTOS - 07206816000115
+ROD. BR-116, S/N KM 18 - JABUTI     
+61766-650 CE EUSEBIO
+N° Cliente: 105330716
+
+Período de Referência: 23/04/2023 a 22/05/2023
+Data de Vencimento: 15/07/2023 - Filtro:   - (Todos)
+Valor: R$ 31,12
+Nota Fiscal Claro:018222889/052023:B23 PIS: Aliquota: 1,65 Base de Calculo: 11,40 Valor Imposto: 0,19
+Nota Fiscal Claro:018222889/052023:B23 PIS: Aliquota: 3,00 Base de Calculo: 3,84 Valor Imposto: 0,12
+Nota Fiscal Claro:018222889/052023:B23 ICMS: Aliquota: 20,00 Base de Calculo: 4,82 Valor Imposto: 0,96
+Nota Fiscal Claro:018222889/052023:B23 PIS: Aliquota: 7,60 Base de Calculo: 11,40 Valor Imposto: 0,87
+Nota Fiscal Claro:018222889/052023:B23 PIS: Aliquota: 0,65 Base de Calculo: 3,84 Valor Imposto: 0,02
+Nota Fiscal Claro:020263001/052023 Documento Financeiro: Aliquota: 0,00 Base de Calculo: 0,00 Valor Imposto: 11,40
+
+Identificação para débito automático: 115302897
+
+Tel;Seção;Data;Hora;Origem(UF)-Destino;Número;Duração/Quantidade;Tarifa;Valor;Valor Cobrado;Nome;CC;Matrícula;Sub-Seção;Tipo Imposto;Descrição;Cargo;Nome Local Origem;Nome Local Destino;Código Local Origem;Código Local Destino
+85 99176-0855;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,98;,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+85 99176-0855;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99176-0855;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99176-0855;PJ Bônus de Internet Turbo - 300MB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99176-0855;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99176-0855;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99176-0855;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+85 99176-0855;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+;Débitos Anteriores Ref. 10/2021 : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;14,9;14,9;;;;Débitos Anteriores;;;;;;;
+85 99176-0855;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+85 99176-0855;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,98;,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+85 99176-0855;PJ Internet Corp Ilimitado 300MB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,88;,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+85 99176-0855;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99176-0855;Internet (MB);28/04/2023;14:06:03;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);29/04/2023;10:36:20;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);10/05/2023;10:43:06;;;447,570312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);10/05/2023;13:11:01;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00085;0
+85 99176-0855;Internet (MB);11/05/2023;01:11:23;;;181,279296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);11/05/2023;12:58:41;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00085;0
+85 99176-0855;Claro-Claro;11/05/2023;13:25:40;Ceará - Ceará (85);85991007608;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Ceará;Ceará (85);00085;00085
+85 99176-0855;Internet (MB);12/05/2023;06:12:47;;;18,877929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);12/05/2023;10:47:40;;;,029296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00085;0
+85 99176-0855;Claro-Claro;13/05/2023;10:29:24;Ceará - Ceará (85);85991007608;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Ceará;Ceará (85);00085;00085
+85 99176-0855;Claro-Claro;13/05/2023;10:30:20;Ceará - Ceará (85);85992693519;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Ceará;Ceará (85);00085;00085
+85 99176-0855;Claro-Claro;13/05/2023;10:32:26;Ceará - Ceará (85);85991007608;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Ceará;Ceará (85);00085;00085
+85 99176-0855;Claro-Claro;13/05/2023;10:39:59;Ceará - Ceará (85);85991007608;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Ceará;Ceará (85);00085;00085
+85 99176-0855;Internet (MB);13/05/2023;10:42:46;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00085;0
+85 99176-0855;Internet (MB);13/05/2023;10:42:46;;;,850585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);14/05/2023;04:42:03;;;,237304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);15/05/2023;05:34:01;;;,977539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);19/05/2023;11:50:48;;;,043945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00085;0
+85 99176-0855;Internet (MB);19/05/2023;12:12:21;;;134,84375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);19/05/2023;19:14:18;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);20/05/2023;00:11:33;;;22,980468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);27/04/2023;15:28:38;;;,068359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);27/04/2023;00:00:01;;;8,420898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);21/05/2023;00:00:11;;;57,739257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Int. Regional;26/04/2023;09:28:47;Ceará - Ceará (85);85992693519;00:00:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Ceará;Ceará (85);00088;00085
+85 99176-0855;Internet (MB);26/04/2023;00:00:12;;;143,716796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);25/04/2023;11:19:04;;;30,8125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);24/04/2023;14:56:03;;;,037109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Claro-Outras Op.;24/04/2023;11:28:35;Ceará - CearÃ¡ (85);85988077003;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Ceará;CearÃ¡ (85);00085;45500
+85 99176-0855;Claro-Outras Op.;24/04/2023;11:10:44;Ceará - CearÃ¡ (85);85989005411;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Ceará;CearÃ¡ (85);00085;88000
+85 99176-0855;Internet (MB);23/04/2023;03:33:25;;;,066406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);22/04/2023;15:07:50;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);22/04/2023;13:07:44;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);21/04/2023;19:07:09;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99176-0855;Internet (MB);26/04/2023;10:27:30;;;,113281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0

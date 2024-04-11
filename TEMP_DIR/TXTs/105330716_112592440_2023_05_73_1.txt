@@ -1,0 +1,108 @@
+M DIAS BRANCO S.A INDUSTRIA E COMERCIO DE ALIMENTOS - 07206816000115
+ROD. BR-116, S/N KM 18 - JABUTI     
+61766-650 CE EUSEBIO
+N° Cliente: 105330716
+
+Período de Referência: 23/04/2023 a 22/05/2023
+Data de Vencimento: 15/07/2023 - Filtro:   - (Todos)
+Valor: R$ 372,28
+Nota Fiscal Claro:001413993/052023:B23 PIS: Aliquota: 1,65 Base de Calculo: 47,13 Valor Imposto: 0,79
+Nota Fiscal Claro:001413993/052023:B23 ICMS: Aliquota: 29,00 Base de Calculo: 140,87 Valor Imposto: 40,85
+Nota Fiscal Claro:001413993/052023:B23 PIS: Aliquota: 3,00 Base de Calculo: 100,02 Valor Imposto: 3,00
+Nota Fiscal Claro:001413993/052023:B23 PIS: Aliquota: 7,60 Base de Calculo: 47,13 Valor Imposto: 3,60
+Nota Fiscal Claro:001413993/052023:B23 PIS: Aliquota: 0,65 Base de Calculo: 100,02 Valor Imposto: 0,65
+Nota Fiscal Claro:001720700/052023 Documento Financeiro: Aliquota: 0,00 Base de Calculo: 0,00 Valor Imposto: 48,95
+
+Identificação para débito automático: 112592440
+
+Tel;Seção;Data;Hora;Origem(UF)-Destino;Número;Duração/Quantidade;Tarifa;Valor;Valor Cobrado;Nome;CC;Matrícula;Sub-Seção;Tipo Imposto;Descrição;Cargo;Nome Local Origem;Nome Local Destino;Código Local Origem;Código Local Destino
+96 98414-9806;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+;Débitos Anteriores Ref. 12/2022 : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;182,46;182,46;;;;Débitos Anteriores;;;;;;;
+96 98414-9806;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;30,86;30,86;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98410-3471;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,13;1,13;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98403-0908;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;30,86;30,86;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98410-8532;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,18;1,18;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98403-0908;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,18;1,18;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98410-8532;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;30,86;30,86;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98410-3471;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,13;1,13;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98414-9806;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,18;1,18;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98410-8532;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,38;2,38;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98410-8532;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+96 98414-9806;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,38;2,38;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98403-0908;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+96 98403-0908;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,38;2,38;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98410-3471;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+96 98410-3471;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;29,54;29,54;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98403-0908;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,18;1,18;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98410-3471;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,27;2,27;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98414-9806;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+96 98414-9806;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,18;1,18;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+96 98410-8532;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,18;1,18;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+;Multa por atraso de pagamento : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,82;1,82;;;;Juros e Multa;;;;;;;
+96 98410-8532;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+96 98403-0908;Internet (MB);21/04/2023;12:50:20;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);23/04/2023;11:42:43;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);25/04/2023;15:19:26;;;1,225585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);25/04/2023;15:19:38;;;,021484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);25/04/2023;15:28:36;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);27/04/2023;11:34:17;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Claro-Outras Op.;29/04/2023;14:27:45;Amapá - Amapá (96);96991533414;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Amapá;Amapá (96);00096;38000
+96 98403-0908;Internet (MB);30/04/2023;15:14:31;;;8,672851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);30/04/2023;19:28:58;;;,051757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);02/05/2023;13:44:52;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);03/05/2023;11:51:36;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);03/05/2023;18:02:40;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);04/05/2023;12:32:56;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);04/05/2023;16:24:37;;;4,237304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);04/05/2023;16:24:51;;;,051757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00096;0
+96 98403-0908;Claro-Outras Op.;04/05/2023;18:35:26;Amapá - Amapá (96);96991343571;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Amapá;Amapá (96);00096;03800
+96 98403-0908;Claro-Outras Op.;05/05/2023;11:13:54;Amapá - Amapá (96);96991538417;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Amapá;Amapá (96);00096;03800
+96 98403-0908;Internet (MB);05/05/2023;19:17:07;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);06/05/2023;22:17:32;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);08/05/2023;17:43:31;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);10/05/2023;16:54:52;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);11/05/2023;04:55:10;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);12/05/2023;03:46:36;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);12/05/2023;19:55:51;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);13/05/2023;10:56:05;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);15/05/2023;15:02:02;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);16/05/2023;21:40:57;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);17/05/2023;18:48:54;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98403-0908;Internet (MB);19/05/2023;22:48:53;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);22/04/2023;00:07:48;;;,088867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);23/04/2023;00:44:55;;;,086914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);24/04/2023;00:05:36;;;,204101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);25/04/2023;00:07:46;;;,161132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);26/04/2023;00:09:59;;;,086914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);27/04/2023;00:01:41;;;,036132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);27/04/2023;06:00:33;;;,763671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);28/04/2023;00:08:20;;;,558593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);29/04/2023;00:00:20;;;,438476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);30/04/2023;00:00:03;;;,523437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);01/05/2023;00:00:26;;;,583007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);02/05/2023;00:30:12;;;,743164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);03/05/2023;00:07:46;;;,899414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);04/05/2023;00:00:01;;;,876953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);05/05/2023;00:07:51;;;,96875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);06/05/2023;00:18:43;;;,767578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);07/05/2023;00:04:40;;;,645507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);08/05/2023;00:05:59;;;,676757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);09/05/2023;00:07:57;;;,776367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);10/05/2023;00:07:42;;;,980468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);11/05/2023;00:07:30;;;1,146484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);12/05/2023;00:08:01;;;1,076171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);13/05/2023;00:07:50;;;,611328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);14/05/2023;00:07:19;;;,040039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);14/05/2023;01:07:58;;;,460937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);15/05/2023;00:04:20;;;1,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);16/05/2023;00:13:03;;;,807617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);17/05/2023;02:07:42;;;,464843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);18/05/2023;00:07:51;;;,913085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);19/05/2023;00:07:41;;;,774414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);20/05/2023;00:07:59;;;,75;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98410-3471;Internet (MB);21/05/2023;00:37:52;;;,541015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98414-9806;Internet (MB);17/05/2023;07:46:30;;;421,439453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98414-9806;Internet (MB);17/05/2023;16:16:33;;;,017578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98414-9806;Internet (MB);18/05/2023;00:00:22;;;267,344726;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98414-9806;Internet (MB);20/05/2023;09:08:04;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0
+96 98414-9806;Internet (MB);21/05/2023;02:10:17;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00096;0

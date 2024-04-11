@@ -1,0 +1,671 @@
+M DIAS BRANCO - PA - 07206816000115
+ROD. BR-116, S/N KM 18 - JABUTI     
+61766-650 CE EUSEBIO
+N° Cliente: 105330716
+
+Período de Referência: 23/04/2023 a 22/05/2023
+Data de Vencimento: 15/07/2023 - Filtro:   - (Todos)
+Valor: R$ 1.161,40
+Nota Fiscal Claro:013984466/052023:B23 PIS: Aliquota: 1,65 Base de Calculo: 323,12 Valor Imposto: 5,36
+Nota Fiscal Claro:013984466/052023:B23 ICMS: Aliquota: 19,00 Base de Calculo: 838,28 Valor Imposto: 159,27
+Nota Fiscal Claro:013984466/052023:B23 PIS: Aliquota: 7,60 Base de Calculo: 323,12 Valor Imposto: 24,63
+Nota Fiscal Claro:013984466/052023:B23 PIS: Aliquota: 0,65 Base de Calculo: 678,92 Valor Imposto: 4,41
+Nota Fiscal Claro:013984466/052023:B23 PIS: Aliquota: 3,00 Base de Calculo: 678,92 Valor Imposto: 20,37
+Nota Fiscal Claro:015751551/052023 Documento Financeiro: Aliquota: 0,00 Base de Calculo: 0,00 Valor Imposto: 323,12
+
+Identificação para débito automático: 103673864
+
+Tel;Seção;Data;Hora;Origem(UF)-Destino;Número;Duração/Quantidade;Tarifa;Valor;Valor Cobrado;Nome;CC;Matrícula;Sub-Seção;Tipo Imposto;Descrição;Cargo;Nome Local Origem;Nome Local Destino;Código Local Origem;Código Local Destino
+91 98415-4382;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98414-0596;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98410-2284;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98416-6402;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98412-3429;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98414-7669;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98416-8197;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98416-1728;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98588-1508;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98411-6291;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98413-0506;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98415-8718;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98587-6523;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98487-7689;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+91 98416-8197;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;24,76;24,76;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-6402;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;24,76;24,76;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-7714;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98410-2284;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,05;1,05;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98588-1508;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98404-4255;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-0596;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;24,76;24,76;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98410-2284;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,66;27,66;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-1031;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,96;,96;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98415-4382;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,06;11,06;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98415-8718;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-1728;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98415-8718;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98400-4109;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98415-8718;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98413-0506;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98587-6523;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98400-4109;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98414-0596;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,06;11,06;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98411-6291;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98415-8718;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;24,76;24,76;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-1119;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-7714;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98412-3429;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98411-6291;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98409-6524;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-6402;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98407-1008;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98456-2709;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98416-6402;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98413-0506;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;24,76;24,76;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-0596;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98587-6523;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98456-2709;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;25,52;25,52;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-6402;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-1119;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98406-3520;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98415-8718;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,06;11,06;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98409-6524;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98402-7714;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98412-9145;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98415-4382;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-1031;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98410-2284;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,05;1,05;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98412-3429;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-2337;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98407-1008;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98412-9145;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98441-6016;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98411-6291;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;24,76;24,76;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98407-1008;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98415-4382;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-8197;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98587-6523;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-7669;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98441-0802;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98456-2709;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,95;1,95;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98415-4382;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-0596;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98587-6523;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98588-1508;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-1031;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,96;,96;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-1728;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98410-2284;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,13;2,13;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-7669;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,06;11,06;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98414-2337;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98487-7689;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,83;26,83;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98456-2709;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,96;,96;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98409-6524;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98400-4109;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98441-6016;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-4815;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98414-2337;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98402-1031;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98416-8197;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-7669;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98412-3429;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-1031;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;25,52;25,52;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98411-6291;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,06;11,06;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98400-4109;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98441-0802;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98412-3429;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,06;11,06;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98587-6523;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98404-4255;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98441-6016;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98413-0506;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,06;11,06;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98588-1508;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98406-3520;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-0596;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98411-6291;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-8197;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,06;11,06;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98402-1119;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98413-0506;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98412-9145;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-4815;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98588-1508;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98413-0506;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98487-7689;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98412-9145;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98407-1008;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98441-0802;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98409-6524;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-4815;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98415-4382;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;24,76;24,76;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-2337;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98588-1508;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98412-9145;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98441-6016;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-1728;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;24,76;24,76;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98441-0802;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-1728;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,06;11,06;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98487-7689;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98402-1119;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98487-7689;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-4815;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98456-2709;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,96;,96;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-8197;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98487-7689;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98406-3520;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98406-3520;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98409-6524;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-7669;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;24,76;24,76;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98412-3429;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;24,76;24,76;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98416-1728;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98410-2284;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;10,91;10,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98416-6402;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,06;11,06;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98406-3520;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-7714;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+91 98407-1008;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98441-0802;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98400-4109;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-4815;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98441-6016;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-7669;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,94;,94;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98404-4255;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98404-4255;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,67;26,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98414-2337;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98404-4255;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-7714;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98402-1119;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,04;2,04;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+91 98400-4109;Internet (MB);15/05/2023;14:32:59;;;17,58496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Internet (MB);15/05/2023;14:35:15;;;162,376953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Int. Nacional;15/05/2023;14:40:38;Pará - CearÃ¡ (85);85985392000;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00093;00085
+91 98400-4109;Int. Nacional;15/05/2023;14:41:28;Pará - CearÃ¡ (85);85985392000;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00093;00085
+91 98400-4109;Int. Nacional;15/05/2023;14:55:01;Pará - CearÃ¡ (85);85985392000;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00091;00085
+91 98400-4109;Int. Nacional;15/05/2023;15:24:54;Pará - CearÃ¡ (85);85985392000;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00093;00085
+91 98400-4109;Int. Nacional;15/05/2023;15:45:42;Pará - CearÃ¡ (85);85985392000;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00093;00085
+91 98400-4109;Internet (MB);16/05/2023;01:54:52;;;197,166992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Internet (MB);16/05/2023;12:29:55;;;5,40625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Internet (MB);17/05/2023;00:09:16;;;1,90332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Internet (MB);17/05/2023;10:46:42;;;126,113281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Internet (MB);18/05/2023;00:00:52;;;9,847656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Internet (MB);18/05/2023;17:23:43;;;1,848632;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Internet (MB);19/05/2023;00:00:09;;;10,065429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Internet (MB);19/05/2023;09:57:02;;;,506835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Internet (MB);20/05/2023;00:54:43;;;6,958007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98400-4109;Internet (MB);21/05/2023;00:54:43;;;3,382812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);25/04/2023;08:34:56;;;136,838867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);25/04/2023;19:04:51;;;,788085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);26/04/2023;00:11:33;;;90,315429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);27/04/2023;00:14:12;;;200,652343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);27/04/2023;12:24:44;;;2,573242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);28/04/2023;00:05:02;;;39,236328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);29/04/2023;00:01:46;;;118,282226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);30/04/2023;00:00:39;;;13,336914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);01/05/2023;00:03:59;;;,621093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);02/05/2023;15:56:16;;;,329101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);03/05/2023;01:00:16;;;,257812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1031;Internet (MB);04/05/2023;00:02:48;;;326,185546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);22/04/2023;04:54:59;;;3,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);22/04/2023;11:26:17;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-1119;Internet (MB);23/04/2023;05:24:26;;;,269531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);24/04/2023;07:15:48;;;62,814453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);24/04/2023;21:29:07;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);25/04/2023;03:22:36;;;3,941406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);26/04/2023;01:27:24;;;21,284179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);27/04/2023;07:08:44;;;98,695312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);27/04/2023;11:36:58;;;,286132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);28/04/2023;04:45:44;;;64,487304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);28/04/2023;21:06:19;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);29/04/2023;04:56:28;;;12,254882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);30/04/2023;06:25:09;;;1,295898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);01/05/2023;04:13:12;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);02/05/2023;03:22:19;;;450,060546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);03/05/2023;08:51:20;;;23,28125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);03/05/2023;12:30:19;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-1119;Internet (MB);03/05/2023;23:18:40;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);04/05/2023;08:15:43;;;305,723632;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);05/05/2023;00:25:34;;;2,239257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);05/05/2023;08:28:01;;;92,65625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);06/05/2023;06:35:20;;;,600585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);08/05/2023;11:37:32;;;197,666992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);08/05/2023;20:14:45;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);09/05/2023;03:22:45;;;51,444335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);10/05/2023;00:40:02;;;553,225585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);11/05/2023;02:36:27;;;8,393554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);11/05/2023;08:14:27;;;4,211914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);12/05/2023;04:38:30;;;99,469726;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);13/05/2023;02:06:46;;;2,689453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);13/05/2023;07:27:52;;;3,017578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);14/05/2023;11:58:14;;;2,819335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);14/05/2023;22:59:13;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);15/05/2023;05:59:18;;;164,077148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);16/05/2023;00:50:26;;;11,412109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);16/05/2023;02:35:32;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);17/05/2023;06:24:14;;;4,854492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);17/05/2023;08:29:40;;;49,30664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);18/05/2023;07:47:34;;;,330078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);18/05/2023;08:08:35;;;201,112304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);19/05/2023;00:00:19;;;155,288085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);20/05/2023;07:19:28;;;190,603515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-1119;Internet (MB);21/05/2023;02:05:09;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Int. Nacional;20/04/2023;10:02:59;Pará - CearÃ¡ (85);85985392000;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00093;00085
+91 98402-4815;Internet (MB);22/04/2023;04:14:16;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);22/04/2023;22:04:11;;;6,589843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);23/04/2023;01:04:00;;;,683593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);23/04/2023;16:14:52;;;87,347656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);23/04/2023;18:47:40;;;28,055664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);24/04/2023;06:47:45;;;128,665039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);24/04/2023;09:48:38;;;,345703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);24/04/2023;12:07:32;;;,054687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);24/04/2023;12:07:52;;;,243164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Int. Nacional;24/04/2023;12:16:48;Pará - CearÃ¡ (85);85985392000;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00093;00085
+91 98402-4815;Claro-Fixo;24/04/2023;14:47:04;Pará - Belem;9133489105;00:04:54;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Claro-Outras Op.;24/04/2023;17:34:33;Pará - Pará (91);91989656104;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);25/04/2023;09:52:02;;;155,469726;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);25/04/2023;10:06:39;;;,458984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Int. Nacional;25/04/2023;11:21:13;Pará - CearÃ¡ (85);85985392000;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00091;00085
+91 98402-4815;Claro-Outras Op.;25/04/2023;11:24:10;Pará - Pará (91);91989656104;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);25/04/2023;16:23:07;;;,026367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);26/04/2023;12:28:36;;;40,032226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Outras Op.;26/04/2023;13:46:18;Pará - Pará (91);91983579946;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);27/04/2023;08:32:12;;;269,213867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);27/04/2023;08:33:50;;;,759765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);27/04/2023;08:35:45;;;,065429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);27/04/2023;10:23:38;;;4,003906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);27/04/2023;10:31:58;;;,216796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Claro-Outras Op.;27/04/2023;11:45:15;Pará - Pará (91);91989656104;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);27/04/2023;19:20:59;;;2,068359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Outras Op.;27/04/2023;19:27:25;Pará - Pará (91);91983579946;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);28/04/2023;09:28:40;;;56,357421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);28/04/2023;09:36:10;;;1,385742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);28/04/2023;11:40:32;;;,074218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);28/04/2023;16:31:37;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Outras Op.;28/04/2023;16:56:39;Pará - Pará (91);91983579946;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Claro-Outras Op.;28/04/2023;18:30:43;Pará - Pará (91);91983579946;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);30/04/2023;12:06:19;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);01/05/2023;07:45:28;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Outras Op.;01/05/2023;10:20:37;Pará - Pará (91);91983968156;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);01/05/2023;14:53:17;;;22,919921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);01/05/2023;14:53:42;;;115,686523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);02/05/2023;05:25:36;;;69,108398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);02/05/2023;09:39:10;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);02/05/2023;11:48:06;;;106,68164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);02/05/2023;14:48:38;;;,026367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);02/05/2023;14:53:21;;;102,93164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);03/05/2023;04:53:12;;;11,637695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);03/05/2023;09:31:04;;;,054687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);03/05/2023;11:20:25;;;71,130859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);03/05/2023;11:21:48;;;,047851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);03/05/2023;19:17:52;;;111,234375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);03/05/2023;21:24:50;;;13,904296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);03/05/2023;21:25:07;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);04/05/2023;01:49:49;;;256,859375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);04/05/2023;09:00:01;;;,040039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);04/05/2023;10:49:24;;;,036132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Claro-Fixo;04/05/2023;15:10:59;Pará - Belem;9133489073;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Claro-Fixo;04/05/2023;15:32:09;Pará - Belem;9133489000;00:03:24;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Internet (MB);04/05/2023;21:12:03;;;2,213867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);04/05/2023;21:14:46;;;,036132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);05/05/2023;07:57:07;;;60,032226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Fixo;05/05/2023;09:49:17;Pará - Belem;9133489000;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Int. Nacional;05/05/2023;12:41:46;Pará - CearÃ¡ (85);85985392000;00:02:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00093;00085
+91 98402-4815;Int. Nacional;05/05/2023;12:47:44;Pará - CearÃ¡ (85);85985392000;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00093;00085
+91 98402-4815;Claro-Fixo;05/05/2023;14:53:46;Pará - Belem;9133489105;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Claro-Fixo;05/05/2023;16:00:36;Pará - Belem;9133489000;00:05:00;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Claro-Fixo;05/05/2023;16:17:23;Pará - Belem;9133489000;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Internet (MB);05/05/2023;18:04:08;;;68,165039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);06/05/2023;04:56:25;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Outras Op.;06/05/2023;09:47:41;Pará - Pará (91);91983968156;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);06/05/2023;19:34:01;;;30,8125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Outras Op.;06/05/2023;19:55:59;Pará - Pará (91);91998167695;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);06/05/2023;22:13:26;;;8,639648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);07/05/2023;00:10:35;;;41,61914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);07/05/2023;01:14:05;;;93,540039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);07/05/2023;15:54:56;;;70,401367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);07/05/2023;18:25:23;;;291,724609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);07/05/2023;21:14:24;;;1,285156;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);08/05/2023;01:04:24;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);08/05/2023;09:21:47;;;33,856445;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);09/05/2023;01:49:54;;;137,83789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Int. Nacional;09/05/2023;08:32:34;Pará - CearÃ¡ (85);85985392000;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00093;00085
+91 98402-4815;Internet (MB);09/05/2023;09:19:30;;;,603515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);09/05/2023;09:32:56;;;55,378906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);09/05/2023;11:12:24;;;,074218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);09/05/2023;12:37:28;;;5,296875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);09/05/2023;15:51:27;;;,020507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);10/05/2023;06:33:56;;;84,74414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);10/05/2023;09:28:51;;;,013671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);10/05/2023;09:29:03;;;1,107421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);10/05/2023;11:10:32;;;698,61621;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);10/05/2023;13:48:29;;;,064453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);10/05/2023;15:46:10;;;,015625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Outras Op.;10/05/2023;17:47:54;Pará - Pará (91);91983968156;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);11/05/2023;09:30:34;;;90,549804;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);11/05/2023;11:15:22;;;,114257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);11/05/2023;12:41:53;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);11/05/2023;17:33:53;;;,012695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);12/05/2023;00:39:02;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Fixo;12/05/2023;08:21:27;Pará - Belem;9133489000;00:03:18;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Internet (MB);12/05/2023;09:28:26;;;47,214843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);12/05/2023;09:55:49;;;4,596679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);12/05/2023;11:35:24;;;,02832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);13/05/2023;06:56:43;;;356,113281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);13/05/2023;09:22:13;;;1,546875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);13/05/2023;09:29:36;;;101,807617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);13/05/2023;09:58:10;;;,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);14/05/2023;01:12:20;;;101,793945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);14/05/2023;15:16:36;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Internet (MB);14/05/2023;16:22:09;;;,08789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);14/05/2023;19:24:28;;;10,99121;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);14/05/2023;19:51:48;;;,188476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);14/05/2023;20:40:50;;;51,827148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);14/05/2023;21:05:58;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);15/05/2023;00:00:14;;;96,942382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);15/05/2023;09:36:43;;;,279296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);15/05/2023;09:44:25;;;,024414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);15/05/2023;09:56:05;;;,572265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Int. Nacional;15/05/2023;11:02:57;Pará - CearÃ¡ (85);85985392000;00:00:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;CearÃ¡ (85);00093;00085
+91 98402-4815;Internet (MB);15/05/2023;17:04:02;;;2,358398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Fixo;15/05/2023;17:48:34;Pará - Belem;9133489105;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Internet (MB);16/05/2023;01:38:10;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);16/05/2023;09:25:40;;;118,33789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Int. Nacional;16/05/2023;17:30:40;Pará - Ceará (85);85985392000;00:01:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;Ceará (85);00091;00085
+91 98402-4815;Claro-Claro;16/05/2023;17:32:13;Pará - Pará (91);91984021119;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;00091
+91 98402-4815;Claro-Outras Op.;16/05/2023;17:33:56;Pará - Pará (91);91989381352;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Claro-Outras Op.;16/05/2023;17:34:57;Pará - Pará (91);91980995966;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);17/05/2023;12:12:10;;;7,733398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);18/05/2023;11:05:28;;;13,987304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);18/05/2023;14:43:54;;;,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Claro-Fixo;18/05/2023;14:49:17;Pará - Belem;9133489105;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Claro-Outras Op.;18/05/2023;18:06:35;Pará - Pará (91);91983968156;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98402-4815;Internet (MB);19/05/2023;08:14:49;;;65,457031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);19/05/2023;08:43:21;;;,02832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98402-4815;Claro-Claro;19/05/2023;15:40:53;Pará - Pará (91);91988491976;00:02:36;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;00091
+91 98402-4815;Internet (MB);20/05/2023;00:04:42;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);20/05/2023;22:26:49;;;,042968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Internet (MB);21/05/2023;00:27:04;;;6,761718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98402-4815;Claro-Fixo;22/05/2023;11:51:18;Pará - Belem;9133489051;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Claro-Claro;22/05/2023;11:56:42;Pará - Pará (91);91985712298;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;00091
+91 98402-4815;Claro-Fixo;22/05/2023;12:04:53;Pará - Belem;9130755000;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Claro-Outras Op.;22/05/2023;12:05:57;Pará - Pará (91);91991482221;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98402-4815;Claro-Fixo;22/05/2023;12:06:52;Pará - Belem;9140096700;00:02:06;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;091
+91 98402-4815;Claro-Fixo;22/05/2023;12:09:28;Pará - Belem;9130758400;00:03:42;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Claro-Fixo;22/05/2023;14:14:59;Pará - Belem;9130758400;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;29100
+91 98402-4815;Claro-Fixo;22/05/2023;14:18:27;Pará - Belem;9130735000;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Pará;Belem;00091;091
+91 98402-4815;Claro-Outras Op.;22/05/2023;14:28:13;Pará - Pará (91);91981251786;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98407-1008;Internet (MB);25/04/2023;13:16:00;;;14,483398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);25/04/2023;22:03:31;;;,623046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);26/04/2023;00:00:22;;;9,657226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);26/04/2023;18:36:21;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98407-1008;Internet (MB);27/04/2023;00:00:19;;;12,058593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);27/04/2023;10:14:12;;;4,661132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);28/04/2023;14:26:52;;;,233398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);02/05/2023;14:36:50;;;,064453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);02/05/2023;14:42:51;;;2,180664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);04/05/2023;10:22:34;;;6,317382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);08/05/2023;14:51:40;;;1,199218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);09/05/2023;08:08:25;;;,0625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);09/05/2023;11:15:57;;;1,079101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);10/05/2023;09:46:43;;;22,743164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);10/05/2023;11:44:09;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);11/05/2023;00:09:04;;;,307617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);12/05/2023;13:04:35;;;93,415039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);12/05/2023;18:06:29;;;50,976562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);16/05/2023;15:33:53;;;3,89746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);16/05/2023;23:17:43;;;65,478515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);17/05/2023;00:23:56;;;67,71582;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98407-1008;Internet (MB);17/05/2023;00:30:29;;;,03125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98409-6524;Internet (MB);28/04/2023;12:54:30;;;,020507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);22/04/2023;07:38:24;;;,245117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);22/04/2023;07:42:11;;;1,68164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);24/04/2023;07:58:14;;;2,750976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);24/04/2023;08:26:42;;;,598632;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);25/04/2023;07:51:37;;;7,229492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);25/04/2023;08:12:55;;;12,848632;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);26/04/2023;07:56:26;;;3,077148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);26/04/2023;08:31:13;;;,263671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Int. Nacional;26/04/2023;15:37:29;Pará - Ceará (85);85996105870;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;Ceará (85);00093;88000
+91 98410-2284;Internet (MB);27/04/2023;08:07:39;;;4,220703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);27/04/2023;08:16:31;;;3,774414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);27/04/2023;15:04:18;;;4,814453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);28/04/2023;01:48:48;;;60,977539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);28/04/2023;04:19:27;;;26,998046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);28/04/2023;15:35:36;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98410-2284;Internet (MB);29/04/2023;05:01:42;;;9,012695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);29/04/2023;05:12:13;;;,1875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);01/05/2023;15:11:18;;;22,639648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);01/05/2023;16:03:30;;;,380859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);02/05/2023;07:29:31;;;10,780273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);02/05/2023;08:28:10;;;15,048828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);03/05/2023;07:56:14;;;,563476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);03/05/2023;08:37:50;;;70,457031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Claro-Fixo;03/05/2023;16:15:37;Pará - Ananindeua;9133465900;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Pará;Ananindeua;00091;29100
+91 98410-2284;Internet (MB);04/05/2023;08:01:05;;;3,297851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);04/05/2023;08:09:27;;;,723632;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);05/05/2023;02:50:18;;;4,336914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);05/05/2023;08:05:02;;;,581054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);05/05/2023;14:34:57;;;,40332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98410-2284;Claro-Outras Op.;05/05/2023;17:14:01;Pará - ParÃ¡ (91);91987010049;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Pará;ParÃ¡ (91);00091;37000
+91 98410-2284;Internet (MB);06/05/2023;08:17:06;;;,075195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);06/05/2023;08:31:02;;;1,579101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);07/05/2023;17:06:42;;;,125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);08/05/2023;07:42:40;;;2,328125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);08/05/2023;07:55:51;;;5,389648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);09/05/2023;07:41:52;;;,242187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);09/05/2023;07:52:03;;;8,670898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);10/05/2023;07:56:44;;;11,113281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);10/05/2023;09:01:49;;;,420898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);11/05/2023;07:54:56;;;,224609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);11/05/2023;08:29:27;;;5,279296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);12/05/2023;08:01:42;;;3,081054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);12/05/2023;08:21:44;;;6,177734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);13/05/2023;08:07:34;;;43,657226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);14/05/2023;20:58:09;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);14/05/2023;20:59:00;;;,02832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);15/05/2023;06:21:05;;;2,685546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);15/05/2023;07:49:25;;;9,213867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);16/05/2023;08:11:33;;;6,867187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);16/05/2023;08:28:38;;;3,104492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);17/05/2023;08:01:53;;;2,288085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);17/05/2023;10:13:16;;;1,384765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Claro-Claro;17/05/2023;16:48:00;Pará - ParÃ¡ (91);91999859947;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;ParÃ¡ (91);00091;00091
+91 98410-2284;Int. Nacional;17/05/2023;17:01:24;Pará - Ceará (85);85996105870;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Pará;Ceará (85);00093;88000
+91 98410-2284;Internet (MB);18/05/2023;08:46:28;;;1,698242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);18/05/2023;09:26:01;;;6,784179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);19/05/2023;07:54:50;;;2,533203;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Internet (MB);19/05/2023;11:27:32;;;,27539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98410-2284;Claro-Outras Op.;19/05/2023;12:24:58;Pará - Pará (91);91987010049;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98410-2284;Claro-Outras Op.;19/05/2023;12:37:49;Pará - Pará (91);91987010049;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98410-2284;Claro-Outras Op.;19/05/2023;13:44:24;Pará - Pará (91);91987010049;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98410-2284;Claro-Outras Op.;19/05/2023;13:55:13;Pará - Pará (91);91987010049;00:04:06;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98414-2337;Internet (MB);21/04/2023;21:13:05;;;32,946289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);22/04/2023;00:00:57;;;5,833007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);23/04/2023;01:13:47;;;3,134765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);24/04/2023;00:01:35;;;70,99707;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);24/04/2023;17:55:41;;;5,939453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Claro-Outras Op.;24/04/2023;19:22:39;Pará - Pará (91);91981612276;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98414-2337;Internet (MB);24/04/2023;19:27:02;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98414-2337;Internet (MB);25/04/2023;00:00:10;;;49,638671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Torpedos;25/04/2023;12:51:04;;84987018485;1;0,45;,45;,45;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00091;45400
+91 98414-2337;Internet (MB);26/04/2023;01:51:31;;;103,980468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);27/04/2023;00:02:53;;;114,655273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);27/04/2023;10:19:23;;;,183593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);27/04/2023;10:20:51;;;2,500976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);28/04/2023;00:01:56;;;,066406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);28/04/2023;02:02:04;;;100,717773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);28/04/2023;16:57:10;;;3,604492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);29/04/2023;00:17:57;;;,166015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);29/04/2023;04:14:40;;;2,438476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);30/04/2023;02:39:03;;;,069335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);30/04/2023;13:33:01;;;,154296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);01/05/2023;02:56:25;;;,763671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);02/05/2023;03:52:40;;;22,765625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);03/05/2023;00:57:43;;;,5;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);03/05/2023;04:48:05;;;80,124023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);04/05/2023;05:04:20;;;15,386718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);04/05/2023;08:37:09;;;31,539062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);05/05/2023;00:03:02;;;76,789062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);05/05/2023;09:36:49;;;24,95996;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);05/05/2023;10:36:51;;;8,307617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);06/05/2023;00:01:25;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);08/05/2023;08:39:37;;;164,720703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);08/05/2023;09:56:01;;;57,969726;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);08/05/2023;14:18:12;;;,125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);09/05/2023;00:04:27;;;576,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);09/05/2023;15:59:46;;;25,845703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);10/05/2023;01:02:32;;;227,34375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);10/05/2023;16:37:59;;;5,055664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);11/05/2023;00:05:53;;;541,918945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);11/05/2023;09:23:10;;;136,846679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);11/05/2023;13:28:42;;;191,873046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);11/05/2023;14:38:28;;;11,362304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);11/05/2023;17:10:20;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98414-2337;Internet (MB);12/05/2023;09:47:06;;;,382812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);13/05/2023;00:17:08;;;126,323242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);15/05/2023;10:46:57;;;52,547851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);15/05/2023;11:25:20;;;126,12207;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);15/05/2023;12:01:42;;;,514648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98414-2337;Internet (MB);16/05/2023;02:47:29;;;5,458007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);16/05/2023;09:53:32;;;170,083007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);17/05/2023;05:08:06;;;18,067382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);17/05/2023;15:56:11;;;76,626953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);18/05/2023;06:53:02;;;22,40039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);19/05/2023;00:06:07;;;149,694335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);20/05/2023;09:37:46;;;,206054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);20/05/2023;18:14:32;;;,436523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98414-2337;Internet (MB);21/05/2023;00:09:10;;;78,604492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);22/04/2023;07:02:12;;;43,916992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);22/04/2023;09:14:56;;;3,297851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;22/04/2023;16:00:07;Pará - Para (91);91982706170;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Para (91);00091;49100
+91 98587-6523;Internet (MB);23/04/2023;23:06:38;;;,041992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);24/04/2023;00:52:43;;;20,917968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);24/04/2023;08:16:27;;;,361328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);25/04/2023;00:45:26;;;,36914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);25/04/2023;04:45:36;;;161,936523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);25/04/2023;08:34:45;;;,072265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;25/04/2023;16:09:08;Pará - Pará (91);91981442473;00:03:12;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98587-6523;Internet (MB);26/04/2023;08:38:27;;;6,942382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);26/04/2023;09:05:47;;;,173828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;26/04/2023;09:06:54;Pará - Pará (91);91981442473;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98587-6523;Claro-Outras Op.;26/04/2023;15:53:36;Pará - Pará (91);91981442473;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98587-6523;Internet (MB);27/04/2023;02:35:22;;;22,502929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Claro-Outras Op.;27/04/2023;07:05:10;Pará - Pará (91);91991550258;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98587-6523;Internet (MB);27/04/2023;07:51:41;;;,480468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);27/04/2023;10:09:06;;;3,552734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Claro-Outras Op.;27/04/2023;10:22:54;Pará - Pará (91);91981442473;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98587-6523;Internet (MB);27/04/2023;14:57:44;;;2,534179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);27/04/2023;17:16:10;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);28/04/2023;00:01:34;;;5,42871;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);28/04/2023;07:33:05;;;3,698242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);28/04/2023;09:09:01;;;,784179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;28/04/2023;09:15:57;Pará - Pará (91);91981442473;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98587-6523;Internet (MB);30/04/2023;10:27:25;;;25,480468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Claro-Outras Op.;30/04/2023;10:29:55;Pará - Para (91);91982706170;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Pará;Para (91);00091;49100
+91 98587-6523;Claro-Outras Op.;30/04/2023;10:31:25;Pará - Para (91);91982587739;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Pará;Para (91);00091;49100
+91 98587-6523;Claro-Claro;30/04/2023;10:36:04;Pará - Pará (91);91984884595;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;00091
+91 98587-6523;Claro-Outras Op.;30/04/2023;10:43:19;Pará - Para (91);91982706170;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Para (91);00091;49100
+91 98587-6523;Claro-Outras Op.;30/04/2023;11:07:45;Pará - Para (91);91982587739;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Para (91);00091;49100
+91 98587-6523;Internet (MB);30/04/2023;11:09:18;;;,054687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);30/04/2023;11:57:11;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);01/05/2023;22:46:52;;;,047851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);02/05/2023;00:06:35;;;57,742187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);02/05/2023;07:12:17;;;,820312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;02/05/2023;10:48:23;Pará - Pará (91);91981442473;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98587-6523;Internet (MB);02/05/2023;11:28:44;;;8,113281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);03/05/2023;06:27:45;;;1,873046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);03/05/2023;07:45:37;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);03/05/2023;09:50:05;;;208,749023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);03/05/2023;11:08:20;;;,094726;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);04/05/2023;07:33:07;;;,015625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);04/05/2023;09:04:38;;;,142578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);04/05/2023;09:04:38;;;8,423828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);04/05/2023;12:35:15;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;04/05/2023;20:14:32;Pará - Pará (91);91981442473;00:02:12;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98587-6523;Internet (MB);05/05/2023;07:42:39;;;,045898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);05/05/2023;07:48:15;;;9,821289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);05/05/2023;09:37:22;;;,140625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);05/05/2023;16:02:12;;;,026367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;05/05/2023;16:03:36;Pará - Para (91);91982552039;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Pará;Para (91);00091;49100
+91 98587-6523;Internet (MB);07/05/2023;19:51:17;;;,023437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);07/05/2023;19:55:33;;;,167968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);08/05/2023;06:04:59;;;,024414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);08/05/2023;06:22:42;;;24,746093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);08/05/2023;13:10:34;;;2,441406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);09/05/2023;06:52:40;;;20,578125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);09/05/2023;09:01:20;;;15,451171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Claro-Outras Op.;09/05/2023;09:15:21;Pará - Pará (91);91981442473;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98587-6523;Internet (MB);09/05/2023;15:08:19;;;,052734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);10/05/2023;00:00:56;;;18,367187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);10/05/2023;04:06:04;;;,125976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);10/05/2023;07:10:56;;;,043945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);10/05/2023;07:13:23;;;1,839843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;10/05/2023;11:09:12;Pará - Pará (91);91981442473;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98587-6523;Internet (MB);10/05/2023;18:54:59;;;1,581054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);11/05/2023;00:10:00;;;11,33789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);11/05/2023;07:46:07;;;299,081054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Claro-Outras Op.;11/05/2023;09:56:28;Pará - Pará (91);91982254570;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98587-6523;Claro-Claro;11/05/2023;10:15:28;Pará - Pará (91);91985713488;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;00091
+91 98587-6523;Internet (MB);11/05/2023;10:16:41;;;,013671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Claro;11/05/2023;10:36:08;Pará - Pará (91);91985459996;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;00091
+91 98587-6523;Internet (MB);11/05/2023;21:06:42;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;11/05/2023;21:07:48;Pará - Pará (91);91991550258;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98587-6523;Internet (MB);12/05/2023;00:28:46;;;56,193359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Claro-Outras Op.;12/05/2023;09:03:04;Pará - Para (91);91982552039;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Pará;Para (91);00091;49100
+91 98587-6523;Internet (MB);12/05/2023;09:16:37;;;2,11621;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;12/05/2023;09:24:32;Pará - Pará (91);91981442473;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98587-6523;Claro-Outras Op.;12/05/2023;09:45:11;Pará - Pará (91);91981442473;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98587-6523;Claro-Outras Op.;12/05/2023;12:34:25;Pará - Pará (91);91981442473;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98587-6523;Claro-Outras Op.;12/05/2023;13:33:30;Pará - Pará (91);91981597273;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98587-6523;Claro-Outras Op.;12/05/2023;17:00:47;Pará - Pará (91);91981442473;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;37000
+91 98587-6523;Internet (MB);13/05/2023;12:32:03;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);14/05/2023;10:44:41;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);15/05/2023;06:16:38;;;88,24414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);15/05/2023;09:00:44;;;,771484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;15/05/2023;10:10:07;Pará - Pará (91);91980910649;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98587-6523;Internet (MB);16/05/2023;06:09:20;;;122,902343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);16/05/2023;08:55:33;;;,55957;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;16/05/2023;09:21:28;Pará - Pará (91);91981442473;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98587-6523;Claro-Outras Op.;16/05/2023;14:25:39;Pará - Pará (91);91981442473;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98587-6523;Claro-Outras Op.;16/05/2023;14:29:13;Pará - Pará (91);91981442473;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98587-6523;Internet (MB);16/05/2023;21:56:28;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Claro-Outras Op.;17/05/2023;09:43:42;Pará - Pará (91);91981442473;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98587-6523;Internet (MB);17/05/2023;10:07:02;;;,108398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);17/05/2023;10:07:06;;;39,694335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);18/05/2023;00:27:56;;;259,416015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);18/05/2023;10:27:20;;;,067382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Internet (MB);18/05/2023;20:52:31;;;1,547851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);19/05/2023;01:25:37;;;80,123046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);19/05/2023;08:51:28;;;23,136718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98587-6523;Internet (MB);19/05/2023;09:24:18;;;,509765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00091;0
+91 98587-6523;Claro-Outras Op.;19/05/2023;10:46:38;Pará - Pará (91);91989700747;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;49100
+91 98587-6523;Claro-Claro;19/05/2023;11:10:29;Pará - Pará (91);91985217788;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;00091
+91 98587-6523;Claro-Outras Op.;19/05/2023;15:38:36;Pará - Pará (91);91981442473;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (91);00091;03700
+91 98588-1508;Internet (MB);21/04/2023;14:36:32;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);22/04/2023;00:23:20;;;,043945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);24/04/2023;08:02:36;;;49,126953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);24/04/2023;09:22:44;;;,580078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);25/04/2023;01:51:48;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);25/04/2023;07:51:55;;;1,191406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);26/04/2023;07:50:58;;;27,847656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);26/04/2023;12:00:29;;;,361328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);27/04/2023;00:01:11;;;1,728515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);03/05/2023;16:42:16;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);03/05/2023;21:44:25;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);04/05/2023;01:53:08;;;44,313476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);05/05/2023;01:05:45;;;68,108398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);09/05/2023;11:16:09;;;1,363281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);09/05/2023;11:17:07;;;146,46582;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Claro-Outras Op.;09/05/2023;16:48:03;Pará - Pará (94);94991438133;00:03:12;0,00;0;0;;;;Ligações Locais;;;;Pará;Pará (94);00094;03700
+91 98588-1508;Internet (MB);10/05/2023;01:34:00;;;1,105468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);10/05/2023;06:34:04;;;,051757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);11/05/2023;01:14:32;;;24,953125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);11/05/2023;08:30:01;;;1,481445;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);12/05/2023;01:33:46;;;,815429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);12/05/2023;09:14:40;;;1,124023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);13/05/2023;03:32:28;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);13/05/2023;08:32:33;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);14/05/2023;01:10:44;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);14/05/2023;11:10:57;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);15/05/2023;02:11:37;;;22,708007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);15/05/2023;07:53:42;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);15/05/2023;08:08:56;;;,050781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);16/05/2023;00:20:52;;;,941406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);16/05/2023;10:48:35;;;51,433593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);17/05/2023;00:30:29;;;2,547851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);17/05/2023;01:09:58;;;9,685546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);18/05/2023;00:21:24;;;3,461914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0
+91 98588-1508;Internet (MB);18/05/2023;09:41:50;;;,912109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00091;0

@@ -1,0 +1,334 @@
+M DIAS BRANCO - ES - 07206816000115
+ROD. BR-116, S/N KM 18 - JABUTI     
+61766-650 CE EUSEBIO
+N° Cliente: 105330716
+
+Período de Referência: 23/04/2023 a 22/05/2023
+Data de Vencimento: 15/07/2023 - Filtro:   - (Todos)
+Valor: R$ 86,74
+Nota Fiscal Claro:009000683/052023:B23 ICMS: Aliquota: 17,00 Base de Calculo: 62,92 Valor Imposto: 10,70
+Nota Fiscal Claro:009000683/052023:B23 PIS: Aliquota: 1,65 Base de Calculo: 23,82 Valor Imposto: 0,40
+Nota Fiscal Claro:009000683/052023:B23 PIS: Aliquota: 0,65 Base de Calculo: 52,23 Valor Imposto: 0,34
+Nota Fiscal Claro:009000683/052023:B23 PIS: Aliquota: 7,60 Base de Calculo: 23,82 Valor Imposto: 1,82
+Nota Fiscal Claro:009000683/052023:B23 PIS: Aliquota: 3,00 Base de Calculo: 52,23 Valor Imposto: 1,57
+Nota Fiscal Claro:009745521/052023 Documento Financeiro: Aliquota: 0,00 Base de Calculo: 0,00 Valor Imposto: 23,82
+
+Identificação para débito automático: 103674222
+
+Tel;Seção;Data;Hora;Origem(UF)-Destino;Número;Duração/Quantidade;Tarifa;Valor;Valor Cobrado;Nome;CC;Matrícula;Sub-Seção;Tipo Imposto;Descrição;Cargo;Nome Local Origem;Nome Local Destino;Código Local Origem;Código Local Destino
+28 99277-7264;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+27 99232-2212;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+27 99232-2212;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,69;26,69;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+28 99277-7264;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,06;1,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+28 99277-7264;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,14;2,14;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+27 99232-2212;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+27 99232-2212;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+27 99232-2212;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,05;2,05;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+28 99277-7264;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27,88;27,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+28 99277-7264;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+27 99232-2212;Int. Regional;21/04/2023;07:42:32;Espírito Santo - Rio de Janeiro (21);21987479915;00:05:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;00021
+27 99232-2212;Internet (MB);22/04/2023;03:46:08;;;,262695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);22/04/2023;07:46:27;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);23/04/2023;00:53:33;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);24/04/2023;02:53:56;;;221,200195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);24/04/2023;09:12:21;;;2,782226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00027;0
+27 99232-2212;Claro-Outras Op.;24/04/2023;10:21:20;Espírito Santo - Espírito Santo (27);27996661774;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;26000
+27 99232-2212;Claro-Outras Op.;24/04/2023;16:49:29;Espírito Santo - Espírito Santo (27);27998376066;00:02:06;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;02600
+27 99232-2212;Internet (MB);25/04/2023;00:49:11;;;3,754882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);25/04/2023;07:06:15;;;172,541015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Claro-Fixo;25/04/2023;08:09:13;Espírito Santo - Vila Velha;2730614765;00:05:18;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Vila Velha;00027;00319
+27 99232-2212;Internet (MB);25/04/2023;08:46:31;;;,572265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00027;0
+27 99232-2212;Claro-Outras Op.;25/04/2023;11:15:25;Espírito Santo - Espírito Santo (27);27996661774;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;02600
+27 99232-2212;Claro-Outras Op.;25/04/2023;20:00:47;Espírito Santo - Espírito Santo (27);27999439085;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;26000
+27 99232-2212;Internet (MB);26/04/2023;00:02:01;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);26/04/2023;08:07:22;;;216,49121;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Claro-Claro;26/04/2023;17:48:11;Espírito Santo - Espírito Santo (27);27999692807;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+27 99232-2212;Internet (MB);27/04/2023;03:26:00;;;88,233398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);27/04/2023;12:07:37;;;,09082;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);28/04/2023;00:07:00;;;579,659179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Int. Nacional;28/04/2023;09:17:35;Rio Grande do Sul - Rio de Janeiro (21);21987479915;00:02:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio de Janeiro (21);00054;00021
+27 99232-2212;Internet (MB);29/04/2023;00:40:15;;;7,917968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);30/04/2023;00:39:51;;;4,15332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);01/05/2023;01:06:34;;;53,600585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Int. Nacional;01/05/2023;19:34:02;Rio Grande do Sul - Rio de Janeiro (21);21987479915;00:08:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio de Janeiro (21);00054;00021
+27 99232-2212;Internet (MB);02/05/2023;08:44:06;;;61,992187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);03/05/2023;00:21:23;;;95,290039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);03/05/2023;10:36:02;;;85,162109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);03/05/2023;11:01:29;;;,291015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00027;0
+27 99232-2212;Internet (MB);03/05/2023;17:30:26;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Claro-Outras Op.;03/05/2023;18:22:37;Espírito Santo - Espírito Santo (27);27999255940;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;26000
+27 99232-2212;Internet (MB);04/05/2023;00:29:27;;;7,995117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Claro-Outras Op.;04/05/2023;09:06:06;Espírito Santo - Espírito Santo (27);27997203805;00:02:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;26000
+27 99232-2212;Internet (MB);04/05/2023;10:26:05;;;21,571289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Int. Regional;04/05/2023;16:20:34;Espírito Santo - Rio de Janeiro (21);21987479915;00:05:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;00021
+27 99232-2212;Internet (MB);05/05/2023;00:38:06;;;,107421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);05/05/2023;07:25:47;;;106,753906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);06/05/2023;02:29:39;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);06/05/2023;15:10:06;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);07/05/2023;02:11:19;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);08/05/2023;07:50:44;;;50,946289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);08/05/2023;14:04:02;;;1,905273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);09/05/2023;00:46:19;;;551,264648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);09/05/2023;09:11:56;;;72,167968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Int. Regional;09/05/2023;20:26:49;Espírito Santo - Rio de Janeiro (21);21987479915;00:05:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;00021
+27 99232-2212;Internet (MB);10/05/2023;00:32:10;;;41,723632;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);10/05/2023;14:57:05;;;13,743164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);11/05/2023;08:06:56;;;262,348632;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Int. Regional;11/05/2023;17:41:44;Espírito Santo - Rio de Janeiro (21);21987479915;00:01:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;00021
+27 99232-2212;Internet (MB);12/05/2023;05:48:22;;;2,953125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Int. Regional;12/05/2023;09:07:40;Espírito Santo - Rio de Janeiro (21);21987479915;00:00:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;00021
+27 99232-2212;Internet (MB);12/05/2023;15:30:07;;;14,125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);13/05/2023;00:06:54;;;84,341796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);14/05/2023;00:00:03;;;92,926757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);14/05/2023;01:56:37;;;24,142578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Int. Regional;14/05/2023;08:12:37;Rio de Janeiro - Espírito Santo (27);27999439085;00:08:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio de Janeiro;Espírito Santo (27);00021;02600
+27 99232-2212;Internet (MB);15/05/2023;00:10:16;;;20,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);15/05/2023;10:56:52;;;,198242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Int. Regional;15/05/2023;17:17:55;Espírito Santo - Rio de Janeiro (21);21987479915;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;00021
+27 99232-2212;Internet (MB);16/05/2023;07:12:37;;;317,537109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);17/05/2023;00:10:47;;;144,193359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);17/05/2023;09:06:39;;;,11621;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Int. Regional;17/05/2023;19:25:41;Espírito Santo - Rio de Janeiro (21);21987479915;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;00021
+27 99232-2212;Internet (MB);18/05/2023;04:55:08;;;96,820312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);18/05/2023;12:25:31;;;,099609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+27 99232-2212;Internet (MB);18/05/2023;13:43:10;;;,705078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00027;0
+27 99232-2212;Internet (MB);19/05/2023;08:13:25;;;9,27832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00027;0
+28 99277-7264;Int. Regional;20/04/2023;11:16:27;Espírito Santo - Espírito Santo (28);28999735104;00:04:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;20/04/2023;13:46:14;Espírito Santo - Rio de Janeiro (21);21995501868;00:02:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;20000
+28 99277-7264;Int. Regional;20/04/2023;15:58:41;Espírito Santo - Espírito Santo (28);28998815727;00:01:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;20/04/2023;21:07:48;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Internet (MB);22/04/2023;00:48:26;;;,916992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);22/04/2023;07:23:52;;;20,082031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Nacional;22/04/2023;12:00:13;Espírito Santo - Eusebio;8540055900;00:02:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Eusebio;00028;28500
+28 99277-7264;Internet (MB);22/04/2023;12:35:26;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Internet (MB);23/04/2023;00:01:25;;;4,005859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);24/04/2023;00:42:52;;;14,749023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);24/04/2023;03:11:09;;;,130859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Claro-Outras Op.;24/04/2023;12:07:53;Espírito Santo - Espírito Santo (28);28999112385;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;24/04/2023;15:01:42;Espírito Santo - Espírito Santo (28);28999538163;00:03:12;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;24/04/2023;15:07:41;Espírito Santo - Espírito Santo (28);28999674402;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;24/04/2023;15:20:18;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);24/04/2023;15:20:59;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;24/04/2023;15:45:37;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;24/04/2023;19:04:36;Espírito Santo - Espírito Santo (28);28999112385;00:16:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);25/04/2023;07:40:44;;;38,936523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;25/04/2023;10:23:24;Espírito Santo - Rio de Janeiro (21);21995501868;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00028;20000
+28 99277-7264;Claro-Outras Op.;25/04/2023;13:16:38;Espírito Santo - Espírito Santo (28);28999674402;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);25/04/2023;15:53:59;;;,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;25/04/2023;16:42:10;Espírito Santo - Espírito Santo (28);28999674402;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;25/04/2023;18:32:29;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;25/04/2023;20:40:45;Espírito Santo - Espírito Santo (28);28999112385;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Internet (MB);25/04/2023;22:57:20;;;,09375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);26/04/2023;01:39:44;;;62,745117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);26/04/2023;09:43:09;;;14,600585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;26/04/2023;09:54:36;Espírito Santo - Rio de Janeiro (21);21991452583;00:01:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00028;00021
+28 99277-7264;Internet (MB);26/04/2023;09:58:08;;;,238281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;26/04/2023;14:05:26;Espírito Santo - Espírito Santo (28);28999614288;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;26/04/2023;15:31:29;Espírito Santo - Espírito Santo (28);28999614288;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Internet (MB);26/04/2023;17:02:54;;;4,078125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Int. Nacional;26/04/2023;17:06:42;Espírito Santo - Eusebio;8540055900;00:02:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Eusebio;00028;28500
+28 99277-7264;Int. Nacional;26/04/2023;17:10:09;Espírito Santo - Eusebio;8540055900;00:04:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Eusebio;00028;28500
+28 99277-7264;Claro-Outras Op.;26/04/2023;18:26:12;Espírito Santo - Espírito Santo (28);28999112385;00:05:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;26/04/2023;19:06:27;Espírito Santo - Espírito Santo (28);28999112385;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;26/04/2023;21:15:58;Espírito Santo - Espírito Santo (28);28999538163;00:09:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;27/04/2023;08:16:05;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);27/04/2023;08:53:37;;;25,210937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);27/04/2023;08:56:13;;;,224609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Internet (MB);27/04/2023;10:31:26;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);27/04/2023;11:12:13;;;,780273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);27/04/2023;11:35:30;;;,868164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);27/04/2023;11:44:39;;;,017578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;27/04/2023;13:33:52;Espírito Santo - Espírito Santo (28);28999112385;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Int. Regional;27/04/2023;13:47:27;Espírito Santo - Espírito Santo (27);27992051578;00:05:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (27);00028;00027
+28 99277-7264;Claro-Outras Op.;27/04/2023;15:42:50;Espírito Santo - Espírito Santo (28);28999112385;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;27/04/2023;15:43:26;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Int. Nacional;27/04/2023;15:54:33;Espírito Santo - Ceará (85);85994043665;00:01:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Ceará (85);00028;00085
+28 99277-7264;Int. Regional;27/04/2023;16:30:22;Espírito Santo - Esp¡rito Santo (27);27997372870;00:26:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Esp¡rito Santo (27);00028;02600
+28 99277-7264;Claro-Outras Op.;27/04/2023;20:25:28;Espírito Santo - Espírito Santo (28);28999112385;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Internet (MB);28/04/2023;02:15:06;;;545,09375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;28/04/2023;08:33:49;Espírito Santo - Espírito Santo (27);27981518511;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (27);00028;42700
+28 99277-7264;Claro-Outras Op.;28/04/2023;08:45:16;Espírito Santo - Espírito Santo (28);28999112385;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;28/04/2023;09:23:43;Espírito Santo - Espírito Santo (28);28999735104;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;28/04/2023;19:18:01;Espírito Santo - Espírito Santo (28);28999674402;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Int. Regional;28/04/2023;20:54:29;Espírito Santo - Espírito Santo (27);27999699840;00:22:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (27);00028;02600
+28 99277-7264;Internet (MB);29/04/2023;01:18:40;;;27,585937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);29/04/2023;08:32:35;;;,019531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;29/04/2023;09:47:17;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Claro;29/04/2023;09:58:45;Espírito Santo - Espírito Santo (28);28999635671;00:20:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;00028
+28 99277-7264;Internet (MB);30/04/2023;00:42:15;;;10,135742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);01/05/2023;01:17:23;;;69,493164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);02/05/2023;01:54:17;;;222,683593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Claro-Outras Op.;02/05/2023;09:06:10;Espírito Santo - Espírito Santo (28);28999674402;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Internet (MB);02/05/2023;10:11:57;;;43,484375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;02/05/2023;10:32:11;Espírito Santo - Espírito Santo (28);28999674402;00:04:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;02/05/2023;11:40:25;Espírito Santo - Espírito Santo (28);28999674402;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;02/05/2023;11:47:38;Espírito Santo - Espírito Santo (28);28999674402;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;02/05/2023;13:35:45;Espírito Santo - Espírito Santo (28);28999538163;00:04:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Internet (MB);02/05/2023;16:20:36;;;19,913085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;02/05/2023;17:53:46;Espírito Santo - Espírito Santo (28);28999674402;00:01:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Int. Regional;02/05/2023;19:04:48;Espírito Santo - Espírito Santo (28);28999674402;00:01:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Int. Regional;02/05/2023;21:38:58;Espírito Santo - Espírito Santo (28);28999674402;00:03:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Int. Regional;02/05/2023;21:42:41;Espírito Santo - Espírito Santo (28);28999112385;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;02/05/2023;22:13:33;Espírito Santo - Espírito Santo (28);28999674402;00:01:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Int. Regional;02/05/2023;23:04:17;Espírito Santo - Espírito Santo (28);28999573084;00:01:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Internet (MB);03/05/2023;09:24:01;;;7,264648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);03/05/2023;11:03:43;;;1,046875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Int. Regional;03/05/2023;11:11:36;Espírito Santo - Rio de Janeiro (21);21991452583;00:01:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;00021
+28 99277-7264;Int. Nacional;03/05/2023;11:23:06;Espírito Santo - Ceará (85);85981271123;00:02:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Ceará (85);00027;45500
+28 99277-7264;Internet (MB);03/05/2023;11:31:36;;;51,543945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);03/05/2023;11:58:20;;;,249023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Int. Regional;03/05/2023;18:05:23;Espírito Santo - Espírito Santo (28);28999674402;00:04:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;04/05/2023;08:33:30;Espírito Santo - Espírito Santo (28);28999674402;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Internet (MB);04/05/2023;08:53:09;;;18,581054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;04/05/2023;12:53:22;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Internet (MB);04/05/2023;13:06:32;;;,046875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Internet (MB);05/05/2023;00:28:02;;;2,544921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);05/05/2023;06:48:05;;;617,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;05/05/2023;07:52:07;Espírito Santo - Espírito Santo (28);28999674402;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Claro-Outras Op.;05/05/2023;08:12:05;Espírito Santo - Espírito Santo (27);27981518511;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;42700
+28 99277-7264;Claro-Outras Op.;05/05/2023;08:16:18;Espírito Santo - Espírito Santo (27);27999867950;00:03:18;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;02600
+28 99277-7264;Claro-Outras Op.;05/05/2023;10:29:10;Espírito Santo - Esp¡rito Santo (27);27997372870;00:41:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Esp¡rito Santo (27);00027;02600
+28 99277-7264;Claro-Claro;05/05/2023;10:35:09;Espírito Santo - Espírito Santo (27);27998749479;00:03:00;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Internet (MB);05/05/2023;12:28:48;;;21,180664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Int. Regional;05/05/2023;13:45:20;Espírito Santo - Espírito Santo (28);28999674402;00:03:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Int. Regional;05/05/2023;13:49:48;Espírito Santo - Espírito Santo (28);28999674402;00:05:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Claro-Claro;05/05/2023;14:42:53;Espírito Santo - Espírito Santo (27);27992518985;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Claro;05/05/2023;14:58:21;Espírito Santo - Espírito Santo (27);27992518985;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Claro;05/05/2023;15:02:07;Espírito Santo - EspÃ­rito Santo (27);27988622439;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;EspÃ­rito Santo (27);00027;00027
+28 99277-7264;Claro-Claro;05/05/2023;15:24:18;Espírito Santo - Espírito Santo (27);27995762980;00:06:00;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Int. Regional;05/05/2023;17:19:55;Espírito Santo - Espírito Santo (28);28999112385;00:01:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Int. Regional;05/05/2023;17:21:27;Espírito Santo - Espírito Santo (28);28999112385;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Int. Regional;05/05/2023;17:21:59;Espírito Santo - Espírito Santo (28);28999112385;00:04:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Internet (MB);06/05/2023;03:07:46;;;1,944335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Claro-Outras Op.;06/05/2023;10:17:17;Espírito Santo - Espírito Santo (28);28999674402;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Internet (MB);06/05/2023;10:19:14;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;06/05/2023;11:26:00;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;06/05/2023;13:35:34;Espírito Santo - Espírito Santo (28);28999674402;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Internet (MB);07/05/2023;03:58:17;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);08/05/2023;06:46:08;;;13,704101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;08/05/2023;08:58:26;Espírito Santo - Espírito Santo (27);27981372693;00:03:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (27);00028;42700
+28 99277-7264;Int. Regional;08/05/2023;09:03:37;Espírito Santo - Espírito Santo (27);27981372693;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (27);00028;42700
+28 99277-7264;Claro-Outras Op.;08/05/2023;11:33:11;Espírito Santo - Espírito Santo (28);28999674402;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Claro;08/05/2023;12:50:07;Espírito Santo - Espírito Santo (28);28999635671;00:01:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;00028
+28 99277-7264;Claro-Outras Op.;08/05/2023;14:24:23;Espírito Santo - Espírito Santo (28);28999674402;00:02:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Int. Regional;08/05/2023;15:54:01;Espírito Santo - Rio de Janeiro (21);21995501868;00:07:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00028;02000
+28 99277-7264;Claro-Outras Op.;08/05/2023;17:13:13;Espírito Santo - Espírito Santo (28);28999674402;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Int. Regional;08/05/2023;17:22:19;Espírito Santo - Espmrito Santo (27);27997279461;00:04:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espmrito Santo (27);00028;02600
+28 99277-7264;Claro-Outras Op.;08/05/2023;18:25:04;Espírito Santo - Espírito Santo (28);28999112385;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;08/05/2023;18:28:42;Espírito Santo - Espírito Santo (28);28999674402;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;08/05/2023;18:40:10;Espírito Santo - Espírito Santo (28);28999112385;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);08/05/2023;18:48:59;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;08/05/2023;19:09:55;Espírito Santo - Espírito Santo (28);28999674402;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;08/05/2023;20:07:55;Espírito Santo - Espírito Santo (28);28999112385;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);09/05/2023;03:57:21;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Claro-Outras Op.;09/05/2023;07:47:31;Espírito Santo - Espírito Santo (28);28999674402;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;09/05/2023;10:02:56;Espírito Santo - Espírito Santo (28);28999674402;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;09/05/2023;10:27:18;Espírito Santo - Espírito Santo (28);28999112385;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Int. Regional;09/05/2023;10:44:26;Espírito Santo - Espírito Santo (27);27992256236;00:04:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (27);00028;00027
+28 99277-7264;Claro-Outras Op.;09/05/2023;11:07:35;Espírito Santo - Espírito Santo (28);28999674402;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);09/05/2023;12:16:29;;;31,58496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;09/05/2023;12:18:41;Espírito Santo - Espírito Santo (27);27981518511;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (27);00028;42700
+28 99277-7264;Claro-Outras Op.;09/05/2023;12:24:37;Espírito Santo - Espírito Santo (28);28999112385;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;09/05/2023;12:42:33;Espírito Santo - Espírito Santo (28);28999112385;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;09/05/2023;13:34:42;Espírito Santo - Espírito Santo (28);28999674402;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);09/05/2023;15:20:27;;;,05957;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;09/05/2023;23:18:22;Espírito Santo - Espírito Santo (28);28999674402;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);10/05/2023;00:00:19;;;1,089843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);10/05/2023;03:57:55;;;5,46875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Claro-Outras Op.;10/05/2023;07:26:19;Espírito Santo - Espírito Santo (28);28999112385;00:02:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Int. Regional;10/05/2023;07:45:08;Espírito Santo - Espírito Santo (27);27992518985;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (27);00028;00027
+28 99277-7264;Int. Regional;10/05/2023;07:47:49;Espírito Santo - EspÃ­rito Santo (27);27988199198;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;EspÃ­rito Santo (27);00028;00027
+28 99277-7264;Int. Regional;10/05/2023;10:56:44;Espírito Santo - Espírito Santo (27);27998762185;00:12:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (27);00028;26000
+28 99277-7264;Int. Regional;10/05/2023;11:47:15;Espírito Santo - Espírito Santo (27);27997534875;00:03:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (27);00028;26000
+28 99277-7264;Claro-Outras Op.;10/05/2023;19:38:03;Espírito Santo - Espírito Santo (28);28999112385;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);11/05/2023;01:29:29;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);11/05/2023;07:06:44;;;54,771484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;11/05/2023;09:36:55;Espírito Santo - Espírito Santo (28);28999674402;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;11/05/2023;09:45:40;Espírito Santo - Rio de Janeiro (21);21995501868;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;20000
+28 99277-7264;Internet (MB);11/05/2023;10:36:44;;;,143554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;11/05/2023;11:05:32;Espírito Santo - Espírito Santo (27);27981372693;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;42700
+28 99277-7264;Claro-Claro;11/05/2023;11:12:52;Espírito Santo - Espírito Santo (27);27992587571;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Claro;11/05/2023;11:40:07;Espírito Santo - Espírito Santo (27);27992256236;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Outras Op.;11/05/2023;12:14:25;Espírito Santo - Espírito Santo (27);27981518511;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;42700
+28 99277-7264;Claro-Outras Op.;11/05/2023;12:55:54;Espírito Santo - Espírito Santo (27);27981372693;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;42700
+28 99277-7264;Claro-Outras Op.;11/05/2023;13:30:18;Espírito Santo - Espírito Santo (27);27981518511;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;42700
+28 99277-7264;Internet (MB);11/05/2023;19:10:18;;;,047851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);12/05/2023;07:24:06;;;102,685546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);12/05/2023;11:44:07;;;,038085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Claro;12/05/2023;11:51:52;Espírito Santo - Espírito Santo (27);27992731044;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Claro;12/05/2023;11:53:21;Espírito Santo - Espírito Santo (27);27992884579;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Claro;12/05/2023;12:11:23;Espírito Santo - Espírito Santo (27);27992256236;00:03:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Claro;12/05/2023;14:34:28;Espírito Santo - Espírito Santo (27);27992256236;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Claro;12/05/2023;14:41:25;Espírito Santo - EspÃ­rito Santo (27);27988663109;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;EspÃ­rito Santo (27);00027;00027
+28 99277-7264;Claro-Outras Op.;12/05/2023;14:58:36;Espírito Santo - Espírito Santo (27);27997896564;00:01:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;26000
+28 99277-7264;Claro-Claro;12/05/2023;15:35:09;Espírito Santo - Espírito Santo (27);27996165298;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Outras Op.;12/05/2023;15:42:12;Espírito Santo - Espírito Santo (27);27997850081;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;26000
+28 99277-7264;Claro-Outras Op.;12/05/2023;17:19:57;Espírito Santo - Espírito Santo (27);27997534875;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;26000
+28 99277-7264;Claro-Outras Op.;12/05/2023;18:12:44;Espírito Santo - Espírito Santo (27);27998377319;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;26000
+28 99277-7264;Claro-Claro;12/05/2023;18:17:33;Espírito Santo - EspÃ­rito Santo (27);27988161295;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;EspÃ­rito Santo (27);00027;00027
+28 99277-7264;Int. Regional;12/05/2023;19:41:53;Espírito Santo - Espírito Santo (28);28999112385;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Claro-Outras Op.;12/05/2023;19:54:35;Espírito Santo - Espírito Santo (27);27999987037;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;26000
+28 99277-7264;Internet (MB);13/05/2023;00:43:49;;;,297851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Claro-Outras Op.;13/05/2023;09:45:20;Espírito Santo - Espírito Santo (27);27999333896;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;26000
+28 99277-7264;Internet (MB);13/05/2023;15:31:32;;;1,075195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);14/05/2023;06:36:35;;;,03125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);15/05/2023;02:36:12;;;35,230468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Claro-Claro;15/05/2023;11:44:53;Espírito Santo - Espírito Santo (27);27998749479;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Claro;15/05/2023;13:34:10;Espírito Santo - Espírito Santo (27);27998562722;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Int. Regional;15/05/2023;13:55:44;Espírito Santo - Rio de Janeiro (21);21995501868;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;20000
+28 99277-7264;Claro-Outras Op.;15/05/2023;14:09:12;Espírito Santo - Espírito Santo (27);27995749408;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;02600
+28 99277-7264;Claro-Outras Op.;15/05/2023;14:33:18;Espírito Santo - Espírito Santo (27);27995749408;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;02600
+28 99277-7264;Claro-Claro;15/05/2023;14:34:27;Espírito Santo - Espírito Santo (27);27997863361;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Internet (MB);15/05/2023;17:50:50;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Internet (MB);16/05/2023;03:59:01;;;676,274414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;16/05/2023;09:25:05;Espírito Santo - Espírito Santo (28);28999112385;00:01:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Internet (MB);16/05/2023;09:29:12;;;,044921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Int. Regional;16/05/2023;09:40:59;Espírito Santo - Rio de Janeiro (21);21995501868;00:06:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Rio de Janeiro (21);00027;02000
+28 99277-7264;Int. Regional;16/05/2023;11:08:54;Espírito Santo - Espírito Santo (28);28999573084;00:00:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Claro-Outras Op.;16/05/2023;13:25:15;Espírito Santo - Espírito Santo (27);27995749408;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;02600
+28 99277-7264;Int. Regional;16/05/2023;13:31:57;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Claro-Outras Op.;16/05/2023;13:50:27;Espírito Santo - Espírito Santo (27);27981518511;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;42700
+28 99277-7264;Int. Regional;16/05/2023;14:52:02;Espírito Santo - Espírito Santo (28);28999112385;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;16/05/2023;15:24:30;Espírito Santo - Espírito Santo (28);28999112385;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;02600
+28 99277-7264;Claro-Claro;16/05/2023;16:28:22;Espírito Santo - Espírito Santo (27);27998749479;00:08:12;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Claro-Claro;16/05/2023;16:37:56;Espírito Santo - Espírito Santo (27);27997863361;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Internet (MB);16/05/2023;22:58:02;;;,043945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);17/05/2023;01:19:32;;;117,979492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Claro-Outras Op.;17/05/2023;07:58:16;Espírito Santo - Espírito Santo (27);27981279445;00:08:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;42700
+28 99277-7264;Int. Regional;17/05/2023;09:23:33;Espírito Santo - Espírito Santo (28);28999573084;00:01:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Claro-Outras Op.;17/05/2023;09:29:28;Espírito Santo - Esp¡rito Santo (27);27997357466;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Esp¡rito Santo (27);00027;02600
+28 99277-7264;Claro-Claro;17/05/2023;10:00:47;Espírito Santo - Espírito Santo (27);27992518985;00:25:06;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Int. Regional;17/05/2023;12:04:17;Espírito Santo - Espírito Santo (28);28999674402;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;17/05/2023;12:05:56;Espírito Santo - Espírito Santo (28);28999573084;00:02:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Claro-Outras Op.;17/05/2023;12:42:40;Espírito Santo - Espírito Santo (27);27998762185;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;02600
+28 99277-7264;Internet (MB);17/05/2023;14:41:09;;;,02832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;17/05/2023;15:12:15;Espírito Santo - Espírito Santo (28);28999674402;00:01:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;17/05/2023;16:02:37;Espírito Santo - Espírito Santo (28);28999112385;00:02:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Claro-Claro;17/05/2023;16:25:17;Espírito Santo - Espírito Santo (27);27995762980;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (27);00027;00027
+28 99277-7264;Int. Regional;17/05/2023;19:28:13;Espírito Santo - Espírito Santo (28);28999674402;00:05:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;17/05/2023;19:45:45;Espírito Santo - Espírito Santo (28);28999674402;00:02:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Internet (MB);18/05/2023;03:06:39;;;28,007812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Int. Regional;18/05/2023;09:49:28;Espírito Santo - Espírito Santo (28);28999573084;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;18/05/2023;10:04:34;Espírito Santo - Espírito Santo (28);28999112385;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Int. Regional;18/05/2023;11:23:44;Espírito Santo - Espírito Santo (28);28999674402;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Espírito Santo;Espírito Santo (28);00027;26000
+28 99277-7264;Internet (MB);18/05/2023;13:26:38;;;6,333007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);18/05/2023;14:16:13;;;5,760742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;18/05/2023;16:52:53;Espírito Santo - Espírito Santo (28);28999674402;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;18/05/2023;17:07:10;Espírito Santo - Espírito Santo (28);28999112385;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Claro;18/05/2023;18:12:37;Espírito Santo - Espírito Santo (28);28999635671;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;00028
+28 99277-7264;Claro-Claro;18/05/2023;18:22:28;Espírito Santo - Espírito Santo (28);28999635671;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;00028
+28 99277-7264;Claro-Outras Op.;18/05/2023;18:25:01;Espírito Santo - Espírito Santo (28);28999674402;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Internet (MB);19/05/2023;00:00:04;;;140,845703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);19/05/2023;10:05:48;;;,020507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;19/05/2023;15:04:28;Espírito Santo - Espírito Santo (28);28999112385;00:02:06;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;19/05/2023;15:17:51;Espírito Santo - Espírito Santo (28);28999674402;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Claro;19/05/2023;16:54:31;Espírito Santo - Espírito Santo (28);28999635671;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;00028
+28 99277-7264;Internet (MB);20/05/2023;00:54:28;;;164,172851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00028;0
+28 99277-7264;Internet (MB);20/05/2023;09:52:01;;;,074218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00028;0
+28 99277-7264;Claro-Outras Op.;20/05/2023;10:33:26;Espírito Santo - Espírito Santo (28);28999674402;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Claro;20/05/2023;11:23:33;Espírito Santo - Espírito Santo (28);28999635671;00:03:12;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;00028
+28 99277-7264;Claro-Claro;20/05/2023;12:09:52;Espírito Santo - Espírito Santo (28);28999635671;00:07:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;00028
+28 99277-7264;Claro-Outras Op.;20/05/2023;12:28:07;Espírito Santo - Espírito Santo (28);28999674402;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;20/05/2023;12:42:50;Espírito Santo - Espírito Santo (28);28999674402;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;02600
+28 99277-7264;Claro-Outras Op.;22/05/2023;08:52:40;Espírito Santo - Espírito Santo (28);28999112385;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000
+28 99277-7264;Claro-Outras Op.;22/05/2023;09:53:50;Espírito Santo - Espírito Santo (28);28999674402;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Espírito Santo;Espírito Santo (28);00028;26000

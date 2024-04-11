@@ -1,0 +1,1353 @@
+M DIAS BRANCO - PR - 07206816000115
+ROD. BR-116, S/N KM 18 - JABUTI     
+61766-650 CE EUSEBIO
+N° Cliente: 105330716
+
+Período de Referência: 23/04/2023 a 22/05/2023
+Data de Vencimento: 15/07/2023 - Filtro:   - (Todos)
+Valor: R$ 3.608,18
+Nota Fiscal Claro:027330981/052023:B23 ICMS: Aliquota: 18,00 Base de Calculo: 934,70 Valor Imposto: 168,25
+Nota Fiscal Claro:027330981/052023:B23 PIS: Aliquota: 0,65 Base de Calculo: 766,72 Valor Imposto: 4,98
+Nota Fiscal Claro:027330981/052023:B23 PIS: Aliquota: 7,60 Base de Calculo: 388,37 Valor Imposto: 29,66
+Nota Fiscal Claro:027330981/052023:B23 PIS: Aliquota: 1,65 Base de Calculo: 388,37 Valor Imposto: 6,51
+Nota Fiscal Claro:027330981/052023:B23 PIS: Aliquota: 3,00 Base de Calculo: 766,72 Valor Imposto: 23,00
+Nota Fiscal Claro:029304178/052023 Documento Financeiro: Aliquota: 0,00 Base de Calculo: 0,00 Valor Imposto: 398,11
+
+Identificação para débito automático: 103667998
+
+Tel;Seção;Data;Hora;Origem(UF)-Destino;Número;Duração/Quantidade;Tarifa;Valor;Valor Cobrado;Nome;CC;Matrícula;Sub-Seção;Tipo Imposto;Descrição;Cargo;Nome Local Origem;Nome Local Destino;Código Local Origem;Código Local Destino
+43 98851-9608;PJ Bônus de Internet Turbo - 300MB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+43 98838-0608;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+43 98812-7194;PJ Bônus de Internet Turbo - 300MB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+43 98819-8265;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98846-8540;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-7073;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98849-6824;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,96;1,96;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98848-0207;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+46 98814-1464;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98902-3030;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98806-5802;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98792-0538;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98736-6129;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98843-5816;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-7073;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,88;,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98882-1540;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98882-1902;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+44 98858-7074;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98851-9608;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+44 98858-7074;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98840-8952;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98735-9938;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,96;1,96;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98838-0608;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,03;1,03;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-0721;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+46 98814-1464;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98901-7149;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98846-8540;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98847-0337;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98736-6129;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98882-1902;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98859-6419;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98840-8952;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98901-7149;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-0721;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98802-2529;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98859-6419;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+46 98814-1464;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98835-6575;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98819-0721;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98806-5802;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98882-1902;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98835-6575;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98806-5802;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98882-1538;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98736-6129;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+45 98814-3164;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98735-9938;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;25,57;25,57;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98736-6129;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-7073;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;23,11;23,11;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+44 98858-7074;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98715-4131;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+46 98814-1682;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98823-9842;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98901-7149;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98804-7457;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+46 98814-1682;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98838-0608;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,08;2,08;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98774-4489;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,96;1,96;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98882-1538;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98838-0608;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98812-7194;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98819-7073;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;10,31;10,31;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+46 98814-1464;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98792-0538;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98823-9842;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98882-1540;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98902-3030;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98806-5802;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98901-7149;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98819-8265;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+45 98814-3164;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+42 98848-0207;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-7073;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,88;,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98804-7457;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;25,57;25,57;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+46 98814-1682;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-0721;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98802-2529;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98823-9842;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98859-6419;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98835-6575;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+44 98858-7074;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98735-9938;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98851-9608;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98774-4489;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98843-5816;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98736-6129;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98767-5049;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98774-4489;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98882-1540;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+46 98814-1464;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+44 98858-7074;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-0721;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98840-8952;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98806-5802;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98804-7457;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98802-2529;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98847-0337;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98767-5049;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98851-9608;PJ Internet Corp Ilimitado 300MB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,87;,87;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98767-5049;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98812-7194;PJ Internet Corp Ilimitado 300MB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,87;,87;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98767-5049;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98859-6419;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98882-1902;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98843-5816;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98823-9842;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98882-1538;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98792-0538;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98846-8540;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98902-3030;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98735-9938;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98849-6824;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;25,57;25,57;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98838-0608;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,03;1,03;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98901-7149;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98840-8952;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98848-0207;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98882-1538;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+42 98848-0207;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98849-6824;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98812-7194;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+46 98814-1682;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98838-0608;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;27;27;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98849-6824;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98847-0337;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-8265;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98882-1538;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98835-6575;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98847-0337;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98848-0207;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+46 98814-1682;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98859-6419;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+43 98812-7194;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,96;1,96;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+45 98814-3164;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98823-9842;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98847-0337;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+45 98814-3164;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-8265;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98851-9608;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,96;1,96;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98804-7457;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,96;1,96;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98792-0538;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98882-1540;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98715-4131;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98812-7194;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98902-3030;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98715-4131;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98735-9938;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98840-8952;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98767-5049;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98715-4131;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98902-3030;PJ Internet Corp Ilimitado 300MB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,92;,92;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98792-0538;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98802-2529;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98802-2529;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98843-5816;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98849-6824;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98774-4489;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98843-5816;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+45 98814-3164;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98882-1902;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98835-6575;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98804-7457;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,97;,97;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98846-8540;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,72;26,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98774-4489;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;25,57;25,57;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98846-8540;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,02;1,02;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98819-8265;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+41 98715-4131;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,06;2,06;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+43 98851-9608;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+41 98882-1540;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+;Multa por atraso de pagamento : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;9,74;9,74;;;;Juros e Multa;;;;;;;
+;Débitos Anteriores Ref. 02/2022 : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1301,66;1301,66;;;;Débitos Anteriores;;;;;;;
+;Débitos Anteriores Ref. 03/2021 : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;973,71;973,71;;;;Débitos Anteriores;;;;;;;
+41 98715-4131;Internet (MB);22/04/2023;00:42:20;;;4,596679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);22/04/2023;09:25:07;;;,149414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98715-4131;Internet (MB);23/04/2023;13:54:43;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);24/04/2023;13:26:56;;;25,641601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);25/04/2023;10:46:56;;;16,189453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);25/04/2023;13:05:13;;;,049804;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98715-4131;Internet (MB);26/04/2023;11:46:31;;;6,101562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);26/04/2023;12:17:08;;;,021484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98715-4131;Internet (MB);27/04/2023;13:32:08;;;4,262695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);28/04/2023;11:28:03;;;9,563476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);29/04/2023;09:34:40;;;3,310546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);30/04/2023;00:19:38;;;5,868164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);01/05/2023;00:18:18;;;5,471679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);02/05/2023;00:21:31;;;357,96875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);02/05/2023;13:52:19;;;,571289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98715-4131;Internet (MB);03/05/2023;00:38:07;;;114,917968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);03/05/2023;11:08:15;;;,363281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98715-4131;Claro-Outras Op.;03/05/2023;16:37:46;Paraná - Parana (44);44998095662;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Parana (44);00044;40000
+41 98715-4131;Claro-Outras Op.;03/05/2023;16:58:16;Paraná - Parana (44);44998095662;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Parana (44);00044;40000
+41 98715-4131;Internet (MB);04/05/2023;11:14:58;;;9,956054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);04/05/2023;11:47:17;;;,041015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98715-4131;Internet (MB);05/05/2023;07:17:27;;;23,407226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);05/05/2023;07:39:33;;;,09375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98715-4131;Internet (MB);08/05/2023;07:24:30;;;23,365234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98715-4131;Internet (MB);08/05/2023;09:11:57;;;,040039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98715-4131;Int. Regional;08/05/2023;11:27:14;Paraná - Paraná (41);41987920538;00:01:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (41);00042;00041
+41 98715-4131;Claro-Claro;08/05/2023;12:28:40;Paraná - Paraná (41);41987920538;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98715-4131;Internet (MB);09/05/2023;16:33:15;;;51,396484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Internet (MB);23/04/2023;22:17:07;;;,036132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Internet (MB);24/04/2023;13:02:11;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98735-9938;Internet (MB);24/04/2023;13:02:11;;;,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Internet (MB);25/04/2023;07:38:14;;;1046,071289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Internet (MB);25/04/2023;08:59:13;;;,020507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98735-9938;Claro-Outras Op.;25/04/2023;10:43:10;Paraná - Paraná (41);41992013181;00:04:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04400
+41 98735-9938;Claro-Outras Op.;26/04/2023;08:04:45;Paraná - Paraná (41);41996050092;00:02:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98735-9938;Claro-Outras Op.;26/04/2023;11:59:04;Paraná - Paraná (41);41995495334;00:11:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98735-9938;Int. Nacional;26/04/2023;14:20:44;Paraná - Bento Goncalves;5421057368;00:22:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Bento Goncalves;00041;25100
+41 98735-9938;Int. Nacional;26/04/2023;15:27:06;Paraná - Eusebio;8540055900;00:01:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Eusebio;00041;28500
+41 98735-9938;Int. Nacional;26/04/2023;15:28:55;Paraná - Eusebio;8540055900;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Eusebio;00041;28500
+41 98735-9938;Int. Nacional;26/04/2023;15:29:52;Paraná - Eusebio;8540055900;00:01:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Eusebio;00041;28500
+41 98735-9938;Internet (MB);27/04/2023;07:57:49;;;8,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Claro-Outras Op.;27/04/2023;10:09:21;Paraná - Paraná (41);41995495334;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98735-9938;Internet (MB);27/04/2023;14:44:19;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98735-9938;Claro-Outras Op.;27/04/2023;16:52:39;Paraná - Paraná (41);41997800017;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98735-9938;Claro-Fixo;27/04/2023;17:59:00;Paraná - Curitiba;4130992472;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00431
+41 98735-9938;Internet (MB);28/04/2023;08:21:21;;;,15039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Claro-Outras Op.;28/04/2023;11:48:58;Paraná - Paraná (41);41996050092;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98735-9938;Internet (MB);29/04/2023;13:39:27;;;44,536132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Internet (MB);02/05/2023;07:53:25;;;4,006835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Claro-Claro;02/05/2023;08:26:20;Paraná - Paraná (41);41988821540;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98735-9938;Claro-Outras Op.;02/05/2023;15:43:11;Paraná - Paraná (41);41997800017;00:03:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98735-9938;Claro-Outras Op.;03/05/2023;16:37:16;Paraná - Paraná (41);41998717353;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98735-9938;Claro-Outras Op.;03/05/2023;16:38:04;Paraná - Paraná (41);41995495334;00:15:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98735-9938;Claro-Claro;04/05/2023;17:51:26;Paraná - ParanÃ¡ (41);41984417055;00:08:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;ParanÃ¡ (41);00041;00041
+41 98735-9938;Internet (MB);05/05/2023;07:59:46;;;11,743164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Internet (MB);06/05/2023;10:04:14;;;,030273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Internet (MB);07/05/2023;13:38:16;;;,125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Claro-Outras Op.;08/05/2023;08:35:21;Paraná - Paraná (41);41998350190;00:02:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98735-9938;Internet (MB);08/05/2023;10:01:32;;;2,229492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Int. Nacional;08/05/2023;17:38:11;Paraná - Sao Paulo;1131567575;00:03:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Sao Paulo;00041;21200
+41 98735-9938;Int. Nacional;09/05/2023;10:50:56;Paraná - Sao Paulo;1131569828;00:01:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Sao Paulo;00041;21200
+41 98735-9938;Int. Nacional;09/05/2023;10:52:19;Paraná - Sao Paulo;1131569832;00:05:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Sao Paulo;00041;21200
+41 98735-9938;Int. Nacional;09/05/2023;11:10:09;Paraná - Sao Paulo;1131569832;00:07:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Sao Paulo;00041;21200
+41 98735-9938;Internet (MB);09/05/2023;14:09:17;;;3,955078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Int. Nacional;09/05/2023;14:36:01;Paraná - Bento Goncalves;5421057313;00:03:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Bento Goncalves;00041;25100
+41 98735-9938;Int. Nacional;09/05/2023;14:39:22;Paraná - Eusebio;8540055900;00:30:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Eusebio;00041;28500
+41 98735-9938;Internet (MB);10/05/2023;06:00:11;;;464,993164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Claro-Outras Op.;10/05/2023;12:07:20;Paraná - Paraná (43);43991018859;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;04400
+41 98735-9938;Internet (MB);11/05/2023;08:30:18;;;34,777343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Int. Nacional;11/05/2023;16:38:35;Paraná - Eusebio;8540055665;00:02:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Eusebio;00043;28500
+41 98735-9938;Internet (MB);12/05/2023;01:03:22;;;42,644531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Int. Regional;12/05/2023;08:03:58;Paraná - Cascavel;4532193219;00:01:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Cascavel;00043;041
+41 98735-9938;Int. Nacional;12/05/2023;14:17:44;Paraná - Rio Grande do Sul (51);51993566390;00:01:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Rio Grande do Sul (51);00042;00051
+41 98735-9938;Int. Regional;12/05/2023;15:44:12;Paraná - Paraná (45);45991333056;00:02:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (45);00042;04400
+41 98735-9938;Internet (MB);13/05/2023;10:24:18;;;33,507812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Internet (MB);15/05/2023;12:35:01;;;17,992187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Internet (MB);15/05/2023;15:50:20;;;,02832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98735-9938;Int. Regional;15/05/2023;16:52:20;Paraná - Paraná (41);41995495334;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (41);00042;04000
+41 98735-9938;Int. Regional;15/05/2023;16:52:36;Paraná - Paraná (41);41995495334;00:03:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (41);00042;04000
+41 98735-9938;Internet (MB);16/05/2023;01:21:11;;;20,823242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Internet (MB);16/05/2023;08:30:23;;;,042968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98735-9938;Int. Regional;16/05/2023;08:35:03;Paraná - Paraná (45);45991333056;00:02:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (45);00042;04400
+41 98735-9938;Int. Regional;16/05/2023;08:41:16;Paraná - Cascavel;4532193219;00:07:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Cascavel;00042;041
+41 98735-9938;Int. Regional;16/05/2023;10:00:59;Paraná - Paraná (41);41995495334;00:00:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (41);00042;04000
+41 98735-9938;Int. Regional;16/05/2023;10:46:28;Paraná - Paraná (45);45991333056;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (45);00042;04400
+41 98735-9938;Internet (MB);17/05/2023;06:50:02;;;177,538085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Int. Regional;17/05/2023;10:51:59;Paraná - Paraná (41);41995495334;00:03:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (41);00042;40000
+41 98735-9938;Int. Regional;17/05/2023;10:57:52;Paraná - Paraná (45);45991333056;00:03:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (45);00042;44000
+41 98735-9938;Int. Nacional;17/05/2023;11:03:45;Paraná - Rio Grande do Sul (51);51993566390;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Rio Grande do Sul (51);00042;00051
+41 98735-9938;Internet (MB);17/05/2023;11:10:39;;;,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98735-9938;Int. Regional;17/05/2023;13:25:16;Paraná - Paraná (41);41998350190;00:03:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (41);00042;40000
+41 98735-9938;Internet (MB);17/05/2023;16:01:36;;;,974609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Int. Regional;17/05/2023;19:31:37;Paraná - Paraná (41);41995495334;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (41);00042;40000
+41 98735-9938;Internet (MB);18/05/2023;02:02:42;;;156,990234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Int. Nacional;18/05/2023;08:31:57;Paraná - Rio Grande do Sul (54);54992568616;00:15:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Rio Grande do Sul (54);00042;00054
+41 98735-9938;Int. Nacional;18/05/2023;11:59:59;Paraná - Rio Grande do Sul (51);51993566390;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Rio Grande do Sul (51);00042;00051
+41 98735-9938;Int. Nacional;18/05/2023;12:00:40;Paraná - Rio Grande do Sul (54);54992568616;00:04:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Rio Grande do Sul (54);00042;00054
+41 98735-9938;Int. Regional;18/05/2023;12:24:21;Paraná - Paraná (45);45991333056;00:03:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (45);00042;44000
+41 98735-9938;Internet (MB);19/05/2023;07:59:43;;;8,966796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Claro-Claro;19/05/2023;15:02:12;Paraná - Paraná (41);41995066946;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98735-9938;Claro-Outras Op.;19/05/2023;16:14:39;Paraná - Paraná (41);41996050092;00:06:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98735-9938;Claro-Claro;19/05/2023;17:02:13;Paraná - Paraná (41);41995066946;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98735-9938;Internet (MB);20/05/2023;11:01:29;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98735-9938;Internet (MB);20/05/2023;11:01:29;;;2,626953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98735-9938;Claro-Outras Op.;22/05/2023;13:38:41;Paraná - Paraná (41);41996050092;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98736-6129;Internet (MB);22/04/2023;02:00:48;;;,020507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);23/04/2023;02:28:23;;;,161132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);24/04/2023;00:01:24;;;55,444335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);24/04/2023;18:26:11;;;,099609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);25/04/2023;01:29:07;;;20,846679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);25/04/2023;11:51:03;;;1,544921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Int. Regional;25/04/2023;14:49:40;Paraná - Campo Largo;4135552190;00:04:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Campo Largo;00043;54100
+41 98736-6129;Int. Nacional;25/04/2023;15:21:44;Paraná - Eusebio;8540055900;00:10:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Eusebio;00043;28500
+41 98736-6129;Internet (MB);26/04/2023;01:36:47;;;106,213867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);26/04/2023;09:31:39;;;,659179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Claro-Claro;26/04/2023;17:18:15;Paraná - ParanÃ¡ (43);43988708848;00:04:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;ParanÃ¡ (43);00043;00043
+41 98736-6129;Internet (MB);27/04/2023;01:37:51;;;60,409179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);27/04/2023;07:12:14;;;2,754882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);27/04/2023;18:53:58;;;,384765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);28/04/2023;00:26:20;;;,696289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);28/04/2023;11:32:33;;;,594726;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);29/04/2023;00:38:02;;;,203125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);29/04/2023;13:15:37;;;,286132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);30/04/2023;03:19:18;;;,015625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);01/05/2023;02:35:40;;;,029296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);02/05/2023;03:41:56;;;11,65625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);02/05/2023;14:23:11;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);03/05/2023;06:40:08;;;108,277343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);03/05/2023;11:09:32;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);04/05/2023;00:25:58;;;75,290039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);04/05/2023;11:08:46;;;,052734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);05/05/2023;01:35:50;;;53,745117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);05/05/2023;09:23:44;;;,029296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);06/05/2023;08:36:46;;;,073242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);07/05/2023;01:41:10;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);08/05/2023;02:19:16;;;84,177734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);08/05/2023;11:49:26;;;1,767578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);09/05/2023;00:29:32;;;490,005859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);10/05/2023;00:46:28;;;45,822265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);10/05/2023;11:30:38;;;,050781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);11/05/2023;00:48:21;;;32,255859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);11/05/2023;09:23:41;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Int. Regional;11/05/2023;15:32:27;Paraná - Maringa;4432274935;00:01:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Maringa;00043;54100
+41 98736-6129;Internet (MB);12/05/2023;00:08:21;;;26,77832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Int. Regional;12/05/2023;11:00:15;Paraná - Curitiba;4133474000;00:01:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Curitiba;00043;00941
+41 98736-6129;Internet (MB);12/05/2023;17:47:00;;;,074218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);13/05/2023;01:01:17;;;,118164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);14/05/2023;01:18:47;;;,11914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);15/05/2023;00:58:46;;;10,547851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);15/05/2023;16:15:08;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);16/05/2023;01:27:27;;;50,485351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);16/05/2023;16:58:12;;;,414062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Torpedos;16/05/2023;17:33:05;;41998007343;1;0,45;,45;,45;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00041;04000
+41 98736-6129;Claro-Outras Op.;16/05/2023;17:40:04;Paraná - Paraná (41);41998007343;00:03:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98736-6129;Internet (MB);17/05/2023;01:43:25;;;82,55664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);17/05/2023;10:09:02;;;2,663085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Torpedos;17/05/2023;16:13:42;;44997287722;1;0,45;,45;,45;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00041;04000
+41 98736-6129;Internet (MB);17/05/2023;16:14:26;;;7,346679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);18/05/2023;00:14:10;;;62,142578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);18/05/2023;08:07:17;;;2,322265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);19/05/2023;01:42:26;;;122,993164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);19/05/2023;08:55:31;;;1,183593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98736-6129;Internet (MB);20/05/2023;03:31:40;;;,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98736-6129;Internet (MB);21/05/2023;00:58:04;;;,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);22/04/2023;01:26:08;;;85,21289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);23/04/2023;00:23:12;;;6,005859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);24/04/2023;00:38:33;;;105,99414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);24/04/2023;13:15:56;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98774-4489;Claro-Claro;24/04/2023;14:59:04;Paraná - Paraná (41);41987920538;00:11:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98774-4489;Internet (MB);25/04/2023;00:16:03;;;330,847656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Claro-Claro;25/04/2023;12:13:43;Paraná - Paraná (41);41987920538;00:07:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98774-4489;Internet (MB);26/04/2023;00:06:39;;;67,453125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Claro-Claro;26/04/2023;08:49:32;Paraná - Paraná (41);41987359938;00:05:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98774-4489;Internet (MB);26/04/2023;08:56:31;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98774-4489;Internet (MB);27/04/2023;00:02:01;;;90,71875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Claro-Claro;27/04/2023;14:53:23;Paraná - Paraná (41);41987920538;00:06:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98774-4489;Internet (MB);28/04/2023;00:14:30;;;153,166992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);28/04/2023;08:17:52;;;,014648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98774-4489;Claro-Claro;28/04/2023;10:33:57;Paraná - ParanÃ¡ (41);41984706948;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;ParanÃ¡ (41);00041;00041
+41 98774-4489;Internet (MB);29/04/2023;06:09:51;;;,503906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);30/04/2023;00:41:14;;;,402343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);01/05/2023;00:40:17;;;,33789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);02/05/2023;00:37:45;;;36,907226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);02/05/2023;14:26:48;;;,25;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98774-4489;Internet (MB);03/05/2023;00:16:48;;;144,035156;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);03/05/2023;10:11:27;;;,114257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98774-4489;Claro-Outras Op.;03/05/2023;17:37:48;Paraná - Paraná (41);41991429528;00:11:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;44000
+41 98774-4489;Claro-Claro;03/05/2023;18:32:33;Paraná - Paraná (41);41987920538;00:07:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98774-4489;Internet (MB);04/05/2023;00:49:49;;;104,9375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Claro-Outras Op.;04/05/2023;16:48:41;Paraná - Paraná (41);41991429528;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04400
+41 98774-4489;Claro-Fixo;04/05/2023;16:56:53;Paraná - Pinhais;4136617752;00:02:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Pinhais;00041;041
+41 98774-4489;Claro-Fixo;04/05/2023;17:01:40;Paraná - Pinhais;4136617712;00:02:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Pinhais;00041;041
+41 98774-4489;Internet (MB);05/05/2023;01:28:00;;;117,847656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);05/05/2023;21:18:40;;;,037109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98774-4489;Internet (MB);06/05/2023;00:01:43;;;11,485351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);07/05/2023;01:08:06;;;8,132812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);08/05/2023;01:06:34;;;40,505859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);09/05/2023;00:17:29;;;46,333984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);10/05/2023;00:05:59;;;33,238281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);11/05/2023;01:34:57;;;43,65332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);11/05/2023;08:38:42;;;,113281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98774-4489;Internet (MB);12/05/2023;01:03:54;;;42,734375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);12/05/2023;09:29:29;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98774-4489;Internet (MB);13/05/2023;01:57:06;;;9,177734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);14/05/2023;01:01:49;;;9,019531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);15/05/2023;01:03:36;;;414,914062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);16/05/2023;00:21:37;;;147,574218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);16/05/2023;09:28:06;;;,134765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98774-4489;Claro-Claro;16/05/2023;09:59:48;Paraná - Paraná (41);41987920538;00:08:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98774-4489;Claro-Claro;16/05/2023;12:03:06;Paraná - Paraná (41);41987920538;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98774-4489;Internet (MB);17/05/2023;01:51:06;;;305,625976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);17/05/2023;15:51:03;;;6,362304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);18/05/2023;01:36:32;;;147,464843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);19/05/2023;00:03:53;;;52,259765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);20/05/2023;00:03:48;;;110,40039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98774-4489;Internet (MB);21/05/2023;00:15:02;;;17,511718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);22/04/2023;05:15:30;;;,017578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);23/04/2023;20:17:34;;;,133789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);24/04/2023;13:21:23;;;345,61621;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);25/04/2023;07:58:44;;;254,162109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);25/04/2023;10:19:59;;;,120117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Internet (MB);26/04/2023;06:13:14;;;295,918945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Int. Regional;26/04/2023;10:41:31;Paraná - Paraná (41);41995447050;00:07:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (41);00042;40000
+41 98792-0538;Claro-Outras Op.;26/04/2023;11:39:10;Paraná - Paraná (42);42998547846;00:03:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;40000
+41 98792-0538;Internet (MB);26/04/2023;11:46:17;;;,019531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Claro-Fixo;26/04/2023;12:41:57;Paraná - Ponta Grossa;4240024099;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;041
+41 98792-0538;Claro-Fixo;26/04/2023;12:55:39;Paraná - Ponta Grossa;4240024099;00:02:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;041
+41 98792-0538;Internet (MB);27/04/2023;08:11:55;;;765,836914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);27/04/2023;15:57:09;;;,024414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Claro-Claro;27/04/2023;16:14:22;Paraná - Paraná (41);41987744489;00:04:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98792-0538;Internet (MB);28/04/2023;07:54:31;;;33,976562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Claro-Outras Op.;28/04/2023;08:30:26;Paraná - Paraná (41);41998230896;00:15:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98792-0538;Internet (MB);28/04/2023;08:44:24;;;392,482421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Internet (MB);29/04/2023;08:27:48;;;6,047851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);30/04/2023;22:56:46;;;,023437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);02/05/2023;06:15:00;;;4,689453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Claro-Claro;02/05/2023;13:38:09;Paraná - Paraná (41);41987154131;00:11:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98792-0538;Internet (MB);03/05/2023;07:51:27;;;,149414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Internet (MB);03/05/2023;07:51:27;;;31,356445;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);04/05/2023;08:44:05;;;349,285156;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Claro-Outras Op.;04/05/2023;10:38:29;Paraná - Paraná (41);41997503865;00:04:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98792-0538;Internet (MB);05/05/2023;07:46:40;;;57,861328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Claro-Outras Op.;05/05/2023;07:56:26;Paraná - Paraná (41);41998230896;00:05:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98792-0538;Internet (MB);05/05/2023;08:37:03;;;3,399414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Claro-Outras Op.;05/05/2023;10:55:26;Paraná - ParanÃ¡ (41);41984385619;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;ParanÃ¡ (41);00041;04400
+41 98792-0538;Internet (MB);06/05/2023;08:03:41;;;3,618164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);08/05/2023;07:24:55;;;23,180664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Claro-Claro;08/05/2023;08:23:53;Paraná - Paraná (41);41987359938;00:04:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98792-0538;Internet (MB);08/05/2023;15:49:13;;;81,920898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Internet (MB);09/05/2023;08:38:07;;;33,692382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);09/05/2023;08:41:15;;;,032226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Claro-Claro;09/05/2023;11:48:48;Paraná - Paraná (41);41997742792;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98792-0538;Claro-Outras Op.;09/05/2023;12:42:26;Paraná - Paraná (41);41995447050;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98792-0538;Claro-Outras Op.;09/05/2023;14:28:25;Paraná - Paraná (41);41997081430;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98792-0538;Internet (MB);10/05/2023;01:31:52;;;168,724609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);10/05/2023;09:28:07;;;2,33496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Int. Regional;10/05/2023;14:27:23;Paraná - Paraná (43);43988197073;00:05:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (43);00042;00043
+41 98792-0538;Int. Nacional;10/05/2023;15:26:24;Paraná - Rio Grande do Sul (54);54991733092;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Rio Grande do Sul (54);00042;00054
+41 98792-0538;Internet (MB);11/05/2023;06:35:10;;;1925,169921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);11/05/2023;09:09:17;;;6,126953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Claro-Outras Op.;11/05/2023;10:40:21;Paraná - Paraná (41);41995447050;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98792-0538;Claro-Claro;11/05/2023;10:55:04;Paraná - Paraná (41);41988022529;00:04:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98792-0538;Internet (MB);12/05/2023;06:43:37;;;29,524414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);12/05/2023;10:34:18;;;,717773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Int. Nacional;12/05/2023;11:28:36;Paraná - Eusebio;8540055900;00:05:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Eusebio;00041;28500
+41 98792-0538;Claro-Outras Op.;12/05/2023;12:57:17;Paraná - Paraná (41);41998230896;00:09:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98792-0538;Internet (MB);13/05/2023;06:43:35;;;17,067382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Claro-Outras Op.;13/05/2023;07:53:54;Paraná - Paraná (41);41996045461;00:08:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98792-0538;Internet (MB);14/05/2023;02:59:12;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);15/05/2023;06:40:23;;;578,84082;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);15/05/2023;10:22:34;;;,175781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Claro-Outras Op.;15/05/2023;12:44:25;Paraná - Paraná (41);41996045461;00:02:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98792-0538;Claro-Outras Op.;15/05/2023;19:33:16;Paraná - Paraná (41);41997454666;00:40:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98792-0538;Internet (MB);16/05/2023;00:24:09;;;34,250976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);16/05/2023;10:12:54;;;,269531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Internet (MB);17/05/2023;06:41:44;;;25,534179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);17/05/2023;09:26:33;;;2,71875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Torpedos;17/05/2023;16:09:23;;43988155013;1;0,45;,45;,45;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00041;00043
+41 98792-0538;Internet (MB);17/05/2023;17:43:21;;;13,108398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);18/05/2023;08:00:14;;;4,694335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);19/05/2023;06:43:26;;;53,765625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Claro-Claro;19/05/2023;10:33:51;Paraná - Paraná (41);41999156271;00:01:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98792-0538;Internet (MB);19/05/2023;11:02:53;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98792-0538;Claro-Outras Op.;19/05/2023;11:42:47;Paraná - Paraná (41);41998135819;00:02:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98792-0538;Internet (MB);20/05/2023;07:23:35;;;9,864257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98792-0538;Internet (MB);20/05/2023;08:55:01;;;,013671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Internet (MB);04/05/2023;10:53:54;;;290,58789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Claro-Claro;04/05/2023;12:01:20;Paraná - Paraná (41);41987920538;00:01:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98802-2529;Outros Serviços Telecom;04/05/2023;18:53:09;;11953259211;1;0,45;,45;,45;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00041;95500
+41 98802-2529;Internet (MB);05/05/2023;08:04:49;;;7,543945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);05/05/2023;10:11:26;;;,577148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Secretária Claro;05/05/2023;11:21:48;Paraná - Secretária Claro;*100;00:04:30;0,25;1,12;1,12;;;;Ligações para números especiais;;;;Paraná;Secretária Claro;00041;
+41 98802-2529;Internet (MB);06/05/2023;18:00:40;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);07/05/2023;11:42:15;;;,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);08/05/2023;08:02:31;;;29,65039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);08/05/2023;11:07:50;;;,911132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Internet (MB);08/05/2023;11:30:16;;;43,986328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);09/05/2023;08:09:14;;;46,085937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);09/05/2023;14:09:28;;;,287109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Internet (MB);10/05/2023;08:11:52;;;1988,978515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);10/05/2023;08:23:22;;;,193359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Claro-Claro;10/05/2023;14:06:15;Paraná - Paraná (41);41987920538;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98802-2529;Int. Nacional;10/05/2023;14:08:44;Paraná - Eusebio;8540055900;00:04:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Eusebio;00041;28500
+41 98802-2529;Internet (MB);10/05/2023;15:14:09;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);11/05/2023;03:59:30;;;23,583007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);11/05/2023;08:51:00;;;,11914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Internet (MB);12/05/2023;08:13:08;;;23,695312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);12/05/2023;09:11:20;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Internet (MB);13/05/2023;08:27:33;;;,5;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);15/05/2023;08:24:47;;;73,871093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);15/05/2023;08:41:35;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Internet (MB);16/05/2023;12:30:15;;;81,604492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);17/05/2023;08:25:12;;;172,801757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);17/05/2023;13:13:34;;;,091796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Internet (MB);17/05/2023;16:25:30;;;,135742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Claro-Fixo;18/05/2023;09:36:16;Paraná - Curitiba;4138882000;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98802-2529;Internet (MB);18/05/2023;09:54:43;;;2,746093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Claro-Fixo;18/05/2023;09:57:56;Paraná - Curitiba;4138883667;00:06:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98802-2529;Claro-Fixo;18/05/2023;10:07:05;Paraná - Curitiba;4138882000;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98802-2529;Internet (MB);18/05/2023;10:08:25;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Claro-Fixo;18/05/2023;10:12:27;Paraná - Curitiba;4138883667;00:02:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98802-2529;Torpedos;18/05/2023;11:55:42;;43999760752;1;0,45;,45;,45;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00041;00043
+41 98802-2529;Torpedos;18/05/2023;11:55:43;;43999760752;2;0,45;,45;,45;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo;;;;00041;00043
+41 98802-2529;Internet (MB);19/05/2023;08:36:53;;;17,094726;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98802-2529;Internet (MB);19/05/2023;09:07:15;;;4,993164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98802-2529;Claro-Fixo;19/05/2023;11:17:40;Paraná - Curitiba;4138882064;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98802-2529;Claro-Fixo;19/05/2023;15:18:59;Paraná - Curitiba;4138882064;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98804-7457;Internet (MB);22/04/2023;10:55:06;;;,318359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);23/04/2023;13:14:15;;;,074218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Claro-Outras Op.;24/04/2023;09:25:17;Paraná - Paraná (41);41996721066;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98804-7457;Internet (MB);24/04/2023;13:28:59;;;1,530273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);25/04/2023;10:40:29;;;22,560546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);25/04/2023;15:12:26;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98804-7457;Internet (MB);26/04/2023;10:37:57;;;2,597656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);27/04/2023;08:06:25;;;43,958007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);28/04/2023;10:58:06;;;,567382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);29/04/2023;10:42:12;;;,217773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);01/05/2023;09:10:39;;;,058593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);02/05/2023;10:53:30;;;1,432617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);03/05/2023;08:01:59;;;136,240234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Claro-Outras Op.;04/05/2023;10:22:48;Paraná - Paraná (41);41996721066;00:04:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98804-7457;Internet (MB);04/05/2023;10:53:38;;;,426757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);05/05/2023;10:38:45;;;2,11914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);06/05/2023;10:53:35;;;,516601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);09/05/2023;10:59:42;;;70,752929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);09/05/2023;11:01:17;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98804-7457;Internet (MB);10/05/2023;10:33:36;;;101,760742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);11/05/2023;00:27:05;;;119,217773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);12/05/2023;10:37:25;;;,243164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);13/05/2023;10:37:21;;;,557617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);14/05/2023;11:53:25;;;,121093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);15/05/2023;13:40:10;;;,326171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);16/05/2023;10:38:51;;;2,467773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Claro-Outras Op.;16/05/2023;10:53:20;Paraná - Paraná (41);41996721066;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98804-7457;Internet (MB);17/05/2023;10:43:07;;;,626953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);17/05/2023;14:44:13;;;235,614257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Claro-Outras Op.;17/05/2023;17:31:24;Paraná - Paraná (41);41996721066;00:03:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98804-7457;Internet (MB);18/05/2023;00:27:27;;;422,880859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);18/05/2023;11:03:19;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98804-7457;Claro-Outras Op.;18/05/2023;13:42:27;Paraná - Paraná (41);41996721066;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98804-7457;Internet (MB);19/05/2023;01:52:21;;;24,446289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Internet (MB);19/05/2023;14:22:36;;;,057617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98804-7457;Internet (MB);20/05/2023;08:18:52;;;16,333984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98804-7457;Claro-Outras Op.;22/05/2023;10:46:37;Paraná - Paraná (41);41996721066;00:14:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98804-7457;Claro-Outras Op.;22/05/2023;15:22:08;Paraná - Paraná (41);41996721066;00:07:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98843-5816;Internet (MB);22/04/2023;00:28:37;;;170,301757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);22/04/2023;01:41:16;;;,692382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);23/04/2023;00:40:36;;;58,536132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);24/04/2023;01:50:46;;;54,630859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Claro-Outras Op.;24/04/2023;09:32:54;Paraná - Paraná (41);41996721066;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98843-5816;Claro-Outras Op.;24/04/2023;16:03:07;Paraná - Paraná (41);41996721066;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98843-5816;Internet (MB);25/04/2023;06:54:19;;;35,609375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);25/04/2023;09:19:42;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98843-5816;Claro-Outras Op.;25/04/2023;17:21:48;Paraná - Paraná (41);41996721066;00:10:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98843-5816;Internet (MB);26/04/2023;01:13:39;;;34,537109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Claro-Outras Op.;26/04/2023;11:40:21;Paraná - Paraná (41);41996721066;00:05:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98843-5816;Internet (MB);26/04/2023;21:08:06;;;,724609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98843-5816;Internet (MB);27/04/2023;07:02:47;;;18,501953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Claro-Outras Op.;27/04/2023;13:01:20;Paraná - Paraná (41);41996721066;00:05:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98843-5816;Internet (MB);28/04/2023;01:49:18;;;40,954101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);29/04/2023;00:06:12;;;97,838867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);30/04/2023;01:32:00;;;74,381835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);06/05/2023;13:30:36;;;,740234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);15/05/2023;13:51:18;;;,39746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);16/05/2023;02:27:03;;;49,630859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Claro-Fixo;16/05/2023;16:14:08;Paraná - Curitiba;4140021552;00:11:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;24100
+41 98843-5816;Internet (MB);17/05/2023;01:51:36;;;1,173828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);17/05/2023;17:07:19;;;22,979492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);18/05/2023;07:33:35;;;25,09082;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);19/05/2023;01:15:51;;;45,730468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98843-5816;Internet (MB);19/05/2023;11:04:39;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98843-5816;Claro-Outras Op.;19/05/2023;14:21:37;Paraná - Paraná (41);41996721066;00:03:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98843-5816;Claro-Outras Op.;19/05/2023;14:41:14;Paraná - Paraná (41);41996721066;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98847-0337;Internet (MB);22/04/2023;01:51:11;;;19,84082;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);23/04/2023;01:49:53;;;5,039062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);24/04/2023;00:53:35;;;56,168945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);25/04/2023;01:43:32;;;78,381835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Claro-Outras Op.;25/04/2023;09:27:59;Paraná - Paraná (41);41996530649;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98847-0337;Internet (MB);25/04/2023;16:26:52;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98847-0337;Internet (MB);26/04/2023;00:16:43;;;227,045898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);27/04/2023;01:36:18;;;113,05957;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Claro-Fixo;27/04/2023;10:07:23;Paraná - Sao Jose Dos Pinhais;4131486534;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;00941
+41 98847-0337;Internet (MB);27/04/2023;13:59:11;;;,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98847-0337;Claro-Fixo;27/04/2023;14:34:55;Paraná - Sao Jose Dos Pinhais;4131486532;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;00941
+41 98847-0337;Internet (MB);28/04/2023;01:31:00;;;144,210937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);29/04/2023;01:20:56;;;138,202148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);30/04/2023;01:28:09;;;6,371093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);01/05/2023;01:28:09;;;136,277343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);02/05/2023;01:55:52;;;85,482421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);03/05/2023;08:45:45;;;45,405273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Claro-Fixo;03/05/2023;10:21:02;Paraná - Sao Jose Dos Pinhais;4131348600;00:02:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;54100
+41 98847-0337;Internet (MB);03/05/2023;14:37:14;;;,019531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98847-0337;Internet (MB);04/05/2023;08:50:12;;;78,530273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Claro-Fixo;04/05/2023;10:12:08;Paraná - Curitiba;4133868222;00:03:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;54100
+41 98847-0337;Internet (MB);05/05/2023;07:46:44;;;101,33496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);05/05/2023;08:32:50;;;,041015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98847-0337;Claro-Fixo;05/05/2023;10:51:01;Paraná - Sao Jose Dos Pinhais;4131486406;00:04:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;00941
+41 98847-0337;Claro-Fixo;05/05/2023;10:56:46;Paraná - Sao Jose Dos Pinhais;4131486532;00:06:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;00941
+41 98847-0337;Claro-Outras Op.;05/05/2023;16:16:14;Paraná - Paraná (41);41992013181;00:04:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;44000
+41 98847-0337;Internet (MB);06/05/2023;23:22:08;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);08/05/2023;07:16:45;;;119,570312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Claro-Outras Op.;08/05/2023;08:24:38;Paraná - Paraná (41);41998908774;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98847-0337;Internet (MB);08/05/2023;08:59:12;;;,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98847-0337;Claro-Claro;08/05/2023;15:48:43;Paraná - Paraná (41);41988022529;00:02:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98847-0337;Claro-Fixo;08/05/2023;16:07:32;Paraná - Sao Jose Dos Pinhais;4131486406;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;00941
+41 98847-0337;Claro-Fixo;08/05/2023;17:12:24;Paraná - Sao Jose Dos Pinhais;4131486406;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;00941
+41 98847-0337;Internet (MB);09/05/2023;08:01:54;;;47,910156;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);09/05/2023;08:05:13;;;,013671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98847-0337;Internet (MB);10/05/2023;08:44:16;;;90,254882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Claro-Fixo;10/05/2023;11:43:11;Paraná - Sao Jose Dos Pinhais;4131486481;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;00941
+41 98847-0337;Claro-Fixo;11/05/2023;09:16:50;Paraná - Curitiba;4133868222;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;54100
+41 98847-0337;Claro-Claro;11/05/2023;09:41:25;Paraná - Paraná (41);41988451209;00:07:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98847-0337;Internet (MB);11/05/2023;10:23:27;;;32,825195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);11/05/2023;10:23:27;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98847-0337;Internet (MB);12/05/2023;08:33:31;;;38,199218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);12/05/2023;09:11:20;;;,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98847-0337;Claro-Fixo;12/05/2023;10:01:07;Paraná - Curitiba;4132138263;00:01:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98847-0337;Claro-Fixo;12/05/2023;11:10:34;Paraná - Curitiba;4132138263;00:09:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98847-0337;Claro-Fixo;12/05/2023;13:38:03;Paraná - Curitiba;4132138263;00:03:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98847-0337;Int. Nacional;15/05/2023;08:07:48;Paraná - Mogi Das Cruzes;1147467700;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Mogi Das Cruzes;00041;11000
+41 98847-0337;Int. Nacional;15/05/2023;08:09:00;Paraná - Mogi Das Cruzes;1147467700;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Mogi Das Cruzes;00041;11000
+41 98847-0337;Int. Nacional;15/05/2023;09:18:25;Paraná - Mogi Das Cruzes;1147467700;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Mogi Das Cruzes;00041;11000
+41 98847-0337;Int. Nacional;15/05/2023;09:19:24;Paraná - Mogi Das Cruzes;1147467700;00:42:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Mogi Das Cruzes;00041;11000
+41 98847-0337;Internet (MB);15/05/2023;09:22:41;;;54,18164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Int. Nacional;15/05/2023;10:07:10;Paraná - Mogi Das Cruzes;1147467700;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Mogi Das Cruzes;00041;11000
+41 98847-0337;Int. Nacional;15/05/2023;10:08:02;Paraná - Mogi Das Cruzes;1147467700;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Mogi Das Cruzes;00041;11000
+41 98847-0337;Internet (MB);16/05/2023;07:57:55;;;185,195312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);17/05/2023;05:52:38;;;180,865234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);17/05/2023;15:00:48;;;18,041992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Claro-Fixo;18/05/2023;08:34:21;Paraná - Sao Jose Dos Pinhais;4131486406;00:05:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Sao Jose Dos Pinhais;00041;00941
+41 98847-0337;Internet (MB);18/05/2023;09:34:03;;;195,175781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Internet (MB);19/05/2023;07:49:44;;;62,550781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98847-0337;Claro-Fixo;22/05/2023;11:58:45;Paraná - Curitiba;4133868200;00:02:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;54100
+41 98849-6824;Internet (MB);22/04/2023;09:06:32;;;1,599609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);23/04/2023;08:04:20;;;,636718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);24/04/2023;08:32:59;;;56,477539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);25/04/2023;08:01:07;;;21,767578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);26/04/2023;08:11:58;;;4,83789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);27/04/2023;07:42:18;;;8,120117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);28/04/2023;08:59:43;;;41,05371;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);02/05/2023;09:35:03;;;53,736328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);03/05/2023;07:48:50;;;93,743164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);04/05/2023;07:33:32;;;38,141601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);05/05/2023;07:48:03;;;110,202148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);07/05/2023;09:01:03;;;,46875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);08/05/2023;08:55:33;;;7,237304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);09/05/2023;08:57:08;;;62,763671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);10/05/2023;09:50:01;;;7,048828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);11/05/2023;08:11:47;;;43,43457;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);15/05/2023;08:14:16;;;28,43164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);16/05/2023;07:40:41;;;132,120117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);17/05/2023;14:34:25;;;,151367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);18/05/2023;09:04:47;;;47,037109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);19/05/2023;00:33:02;;;150,167968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98849-6824;Internet (MB);21/05/2023;08:26:29;;;1,454101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Int. Nacional;20/04/2023;09:36:03;Santa Catarina - Porto Alegre;5133733907;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Porto Alegre;00048;51000
+41 98882-1540;Int. Nacional;20/04/2023;10:16:28;Santa Catarina - Passo Fundo;5421041700;00:04:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Passo Fundo;00048;51000
+41 98882-1540;Int. Nacional;20/04/2023;14:23:06;Santa Catarina - Porto Alegre;5133733907;00:02:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Porto Alegre;00047;51000
+41 98882-1540;Int. Nacional;20/04/2023;14:35:14;Santa Catarina - Porto Alegre;5133733907;00:01:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Santa Catarina;Porto Alegre;00047;51000
+41 98882-1540;Internet (MB);23/04/2023;15:58:00;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Int. Nacional;24/04/2023;16:45:56;Paraná - Porto Alegre;5133733907;00:02:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00041;51000
+41 98882-1540;Internet (MB);24/04/2023;20:22:24;;;9,971679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);24/04/2023;20:23:05;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98882-1540;Internet (MB);24/04/2023;20:27:21;;;,037109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Claro-Claro;25/04/2023;09:34:49;Paraná - Paraná (41);41989017149;00:05:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98882-1540;Int. Nacional;25/04/2023;13:31:59;Paraná - Porto Alegre;5133733907;00:04:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00041;51000
+41 98882-1540;Int. Nacional;25/04/2023;13:37:41;Paraná - Passo Fundo;5421041700;00:01:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Passo Fundo;00041;51000
+41 98882-1540;Claro-Outras Op.;25/04/2023;15:04:03;Paraná - Paraná (41);41991061985;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;44000
+41 98882-1540;Int. Nacional;25/04/2023;15:42:44;Paraná - Passo Fundo;5421041700;00:09:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Passo Fundo;00041;51000
+41 98882-1540;Claro-Outras Op.;25/04/2023;16:36:10;Paraná - ParanÃ¡ (41);41984417223;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;ParanÃ¡ (41);00041;44000
+41 98882-1540;Int. Regional;25/04/2023;17:10:55;Paraná - Santa Catarina (49);49988340327;00:17:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Santa Catarina (49);00041;00049
+41 98882-1540;Int. Nacional;26/04/2023;10:21:22;Paraná - Passo Fundo;5421041700;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Passo Fundo;00041;51000
+41 98882-1540;Int. Nacional;26/04/2023;11:43:59;Paraná - Passo Fundo;5421041700;00:01:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Passo Fundo;00041;51000
+41 98882-1540;Int. Nacional;26/04/2023;11:45:23;Paraná - Passo Fundo;5421041700;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Passo Fundo;00041;51000
+41 98882-1540;Int. Nacional;26/04/2023;11:47:04;Paraná - Passo Fundo;5421041700;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Passo Fundo;00041;51000
+41 98882-1540;Claro-Outras Op.;26/04/2023;18:41:58;Paraná - Paraná (41);41996721066;00:07:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98882-1540;Int. Nacional;26/04/2023;19:15:23;Paraná - Rio Grande do Sul (54);54991448887;00:15:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Rio Grande do Sul (54);00042;00054
+41 98882-1540;Int. Nacional;27/04/2023;10:42:12;Paraná - Porto Alegre;5133733907;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;51000
+41 98882-1540;Claro-Claro;27/04/2023;13:39:09;Paraná - Paraná (43);43999760752;00:08:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+41 98882-1540;Int. Nacional;27/04/2023;14:35:09;Paraná - Porto Alegre;5133733907;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;51000
+41 98882-1540;Int. Nacional;27/04/2023;15:21:48;Paraná - Porto Alegre;5133733907;00:01:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;51000
+41 98882-1540;Claro-Claro;28/04/2023;11:18:13;Paraná - Paraná (43);43999760752;00:08:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+41 98882-1540;Internet (MB);28/04/2023;11:46:27;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Claro-Claro;28/04/2023;12:02:46;Paraná - Paraná (43);43999760752;00:09:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+41 98882-1540;Claro-Claro;28/04/2023;13:40:17;Paraná - Paraná (43);43999760752;00:04:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+41 98882-1540;Claro-Claro;28/04/2023;14:54:28;Paraná - Paraná (43);43999760752;00:03:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+41 98882-1540;Claro-Claro;28/04/2023;15:14:36;Paraná - Paraná (43);43999760752;00:07:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+41 98882-1540;Claro-Claro;28/04/2023;17:01:15;Paraná - Paraná (43);43999760752;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+41 98882-1540;Internet (MB);29/04/2023;13:08:44;;;174,519531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);29/04/2023;13:13:34;;;147,326171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);29/04/2023;20:18:29;;;,085937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);30/04/2023;00:07:45;;;395,640625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);30/04/2023;00:44:43;;;349,08789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);30/04/2023;15:48:53;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98882-1540;Internet (MB);01/05/2023;10:59:11;;;252,43164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);01/05/2023;11:02:40;;;197,485351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);01/05/2023;13:41:05;;;,152343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98882-1540;Internet (MB);01/05/2023;14:07:44;;;5,571289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);01/05/2023;14:43:17;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);02/05/2023;07:19:18;;;1,520507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Claro-Fixo;02/05/2023;10:41:45;Rio Grande do Sul - Porto Alegre;5133733907;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Porto Alegre;00051;51000
+41 98882-1540;Claro-Claro;02/05/2023;11:41:15;Rio Grande do Sul - Rio Grande do Sul (51);51993019333;00:04:36;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+41 98882-1540;Int. Nacional;02/05/2023;12:16:17;Rio Grande do Sul - São Paulo (11);11970600730;00:01:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;São Paulo (11);00051;00011
+41 98882-1540;Int. Nacional;02/05/2023;12:28:27;Rio Grande do Sul - Paraná (43);43999760752;00:07:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (43);00051;00043
+41 98882-1540;Int. Regional;02/05/2023;12:40:39;Rio Grande do Sul - Rio Grande do Sul (54);54991448887;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+41 98882-1540;Int. Nacional;02/05/2023;12:43:44;Rio Grande do Sul - Santa Catarina (48);48988187454;00:01:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+41 98882-1540;Claro-Fixo;02/05/2023;13:41:27;Rio Grande do Sul - Porto Alegre;5133733907;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Porto Alegre;00051;51000
+41 98882-1540;Claro-Fixo;02/05/2023;14:35:15;Rio Grande do Sul - Porto Alegre;5133733907;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Porto Alegre;00051;51000
+41 98882-1540;Claro-Fixo;02/05/2023;15:37:44;Rio Grande do Sul - Porto Alegre;5133733907;00:01:54;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Porto Alegre;00051;51000
+41 98882-1540;Claro-Fixo;02/05/2023;15:42:55;Rio Grande do Sul - Porto Alegre;5133733907;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Porto Alegre;00051;51000
+41 98882-1540;Int. Regional;03/05/2023;07:26:54;Rio Grande do Sul - Rio Grande do Sul (54);54991448887;00:01:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+41 98882-1540;Int. Nacional;03/05/2023;09:54:14;Rio Grande do Sul - Santa Catarina (49);49988340327;00:04:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00051;00049
+41 98882-1540;Claro-Claro;03/05/2023;12:26:27;Rio Grande do Sul - Rio Grande do Sul (51);51998492227;00:17:24;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (51);00051;00051
+41 98882-1540;Int. Nacional;03/05/2023;13:52:30;Rio Grande do Sul - Santa Catarina (49);49988340327;00:01:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00051;00049
+41 98882-1540;Int. Regional;03/05/2023;14:18:40;Rio Grande do Sul - Rio Grande do Sul (54);54991023744;00:01:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+41 98882-1540;Int. Nacional;03/05/2023;14:20:44;Rio Grande do Sul - Santa Catarina (49);49988340327;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00051;00049
+41 98882-1540;Int. Nacional;03/05/2023;15:35:25;Rio Grande do Sul - São Paulo (11);11989338663;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;São Paulo (11);00051;00011
+41 98882-1540;Int. Nacional;03/05/2023;15:35:39;Rio Grande do Sul - São Paulo (11);11989338663;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;São Paulo (11);00051;00011
+41 98882-1540;Int. Nacional;03/05/2023;20:43:56;Rio Grande do Sul - Santa Catarina (49);49988340327;00:08:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00054;00049
+41 98882-1540;Int. Nacional;03/05/2023;21:05:54;Rio Grande do Sul - Santa Catarina (49);49988340327;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00054;00049
+41 98882-1540;Int. Nacional;04/05/2023;07:52:47;Rio Grande do Sul - São Paulo (11);11976266602;00:38:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;São Paulo (11);00054;00011
+41 98882-1540;Int. Regional;04/05/2023;08:46:22;Rio Grande do Sul - Porto Alegre;5133733907;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Porto Alegre;00054;51000
+41 98882-1540;Int. Regional;04/05/2023;09:26:53;Rio Grande do Sul - Porto Alegre;5133733907;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Porto Alegre;00054;51000
+41 98882-1540;Claro-Claro;04/05/2023;11:56:40;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (54);00054;00054
+41 98882-1540;Claro-Claro;04/05/2023;12:04:36;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (54);00054;00054
+41 98882-1540;Int. Nacional;04/05/2023;13:00:20;Rio Grande do Sul - Paraná (41);41989017149;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00054;00041
+41 98882-1540;Int. Nacional;04/05/2023;13:31:12;Rio Grande do Sul - Santa Catarina (49);49988340327;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00054;00049
+41 98882-1540;Int. Nacional;04/05/2023;14:16:26;Rio Grande do Sul - Santa Catarina (49);49988340327;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00054;00049
+41 98882-1540;Int. Regional;04/05/2023;15:47:20;Rio Grande do Sul - Porto Alegre;5133733907;00:00:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Porto Alegre;00054;51000
+41 98882-1540;Int. Regional;04/05/2023;16:44:43;Rio Grande do Sul - Porto Alegre;5133733907;00:01:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Porto Alegre;00054;51000
+41 98882-1540;Claro-Claro;04/05/2023;17:13:48;Rio Grande do Sul - Rio Grande do Sul (54);54992041506;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (54);00054;00054
+41 98882-1540;Int. Nacional;04/05/2023;17:43:16;Rio Grande do Sul - Santa Catarina (49);49988340327;00:02:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00054;00049
+41 98882-1540;Claro-Outras Op.;04/05/2023;18:03:06;Rio Grande do Sul - Rio Grande do Sul (54);54999721167;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Rio Grande do Sul (54);00054;05000
+41 98882-1540;Int. Regional;04/05/2023;18:53:29;Rio Grande do Sul - Rio Grande do Sul (51);51993019333;00:04:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (51);00054;00051
+41 98882-1540;Int. Regional;04/05/2023;19:09:55;Rio Grande do Sul - Rio Grande do Sul (51);51993566390;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (51);00054;00051
+41 98882-1540;Int. Nacional;05/05/2023;13:08:38;Rio Grande do Sul - Paraná (41);41989017149;00:01:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;00041
+41 98882-1540;Int. Nacional;05/05/2023;14:31:44;Rio Grande do Sul - Paraná (43);43999760752;00:09:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (43);00051;00043
+41 98882-1540;Internet (MB);05/05/2023;15:29:30;;;193,546875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);05/05/2023;16:47:35;;;1,749023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);08/05/2023;07:58:31;;;1,564453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);08/05/2023;07:58:32;;;,417968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Claro-Outras Op.;08/05/2023;17:42:08;Paraná - ParanÃ¡ (41);41984417223;00:02:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;ParanÃ¡ (41);00041;04400
+41 98882-1540;Claro-Claro;11/05/2023;10:08:26;Paraná - Paraná (41);41987366129;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98882-1540;Claro-Claro;11/05/2023;15:23:38;Paraná - Paraná (41);41989017149;00:03:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98882-1540;Internet (MB);11/05/2023;21:20:07;;;6,841796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);11/05/2023;21:20:07;;;12,230468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);11/05/2023;21:58:01;;;,074218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);12/05/2023;07:36:23;;;17,985351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);12/05/2023;08:17:18;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);12/05/2023;11:40:11;;;11,608398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Claro-Claro;12/05/2023;14:18:03;Paraná - Paraná (43);43999760752;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+41 98882-1540;Int. Nacional;15/05/2023;09:11:29;São Paulo - Paraná (41);41984417223;00:01:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (41);00011;04400
+41 98882-1540;Claro-Claro;15/05/2023;10:08:43;São Paulo - São Paulo (11);11989365458;00:03:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+41 98882-1540;Int. Nacional;15/05/2023;10:14:49;São Paulo - Santa Catarina (48);48988187454;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (48);00011;00048
+41 98882-1540;Int. Nacional;15/05/2023;10:55:34;São Paulo - Santa Catarina (48);48988241948;00:01:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (48);00011;00048
+41 98882-1540;Internet (MB);15/05/2023;11:20:57;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Int. Nacional;15/05/2023;13:05:12;São Paulo - Santa Catarina (48);48988449717;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (48);00011;04600
+41 98882-1540;Int. Nacional;15/05/2023;13:28:32;São Paulo - Santa Catarina (48);48988241948;00:04:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (48);00011;00048
+41 98882-1540;Int. Nacional;15/05/2023;15:15:57;São Paulo - Paraná (43);43999760752;00:04:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (43);00011;00043
+41 98882-1540;Internet (MB);16/05/2023;03:35:51;;;4,24414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Int. Nacional;16/05/2023;08:20:27;São Paulo - Rio Grande do Sul (51);51993019333;00:01:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+41 98882-1540;Int. Nacional;16/05/2023;08:22:16;São Paulo - Rio Grande do Sul (51);51993019333;00:03:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+41 98882-1540;Int. Nacional;16/05/2023;08:47:23;São Paulo - Rio Grande do Sul (51);51993019333;00:07:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+41 98882-1540;Int. Nacional;16/05/2023;09:42:12;São Paulo - Rio Grande do Sul (51);51993019333;00:03:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+41 98882-1540;Claro-Claro;16/05/2023;09:46:38;São Paulo - São Paulo (11);11988959767;00:01:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+41 98882-1540;Claro-Fixo;16/05/2023;10:03:19;São Paulo - Sao Paulo;1133382822;00:13:12;0,00;0;0;;;;Ligações Locais;;;;São Paulo;Sao Paulo;00011;21200
+41 98882-1540;Int. Nacional;16/05/2023;10:52:22;São Paulo - Santa Catarina (49);49988340327;00:01:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (49);00011;00049
+41 98882-1540;Claro-Claro;16/05/2023;10:57:16;São Paulo - São Paulo (11);11989338663;00:10:36;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+41 98882-1540;Int. Nacional;16/05/2023;12:01:53;São Paulo - Santa Catarina (48);48988241948;00:19:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (48);00011;00048
+41 98882-1540;Int. Nacional;16/05/2023;12:25:47;São Paulo - Rio Grande do Sul (51);51998492227;00:01:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+41 98882-1540;Int. Nacional;16/05/2023;13:58:50;São Paulo - Rio Grande do Sul (51);51993566390;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+41 98882-1540;Int. Nacional;16/05/2023;17:30:24;São Paulo - Paraná (43);43999760752;00:02:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (43);00011;00043
+41 98882-1540;Int. Nacional;16/05/2023;17:36:14;São Paulo - Paraná (43);43999760752;00:01:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (43);00011;00043
+41 98882-1540;Internet (MB);16/05/2023;20:48:39;;;,064453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);17/05/2023;01:35:17;;;28,86621;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Int. Nacional;17/05/2023;11:17:51;São Paulo - Rio Grande do Sul (51);51993019333;00:09:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+41 98882-1540;Int. Nacional;17/05/2023;11:42:30;São Paulo - Rio Grande do Sul (51);51993019333;00:01:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+41 98882-1540;Int. Nacional;17/05/2023;11:47:34;São Paulo - Santa Catarina (48);48988241948;00:24:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (48);00011;00048
+41 98882-1540;Claro-Outras Op.;17/05/2023;12:15:07;São Paulo - São Paulo (11);11998448719;00:01:30;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+41 98882-1540;Int. Nacional;17/05/2023;13:09:51;São Paulo - Paraná (43);43999378296;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (43);00011;44000
+41 98882-1540;Int. Nacional;17/05/2023;13:48:19;São Paulo - Paraná (43);43999760752;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (43);00011;00043
+41 98882-1540;Int. Nacional;17/05/2023;14:21:59;São Paulo - Paraná (43);43999378296;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (43);00011;44000
+41 98882-1540;Internet (MB);18/05/2023;03:39:28;;;221,274414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);18/05/2023;07:39:29;;;394,660156;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Int. Nacional;18/05/2023;08:36:07;São Paulo - Santa Catarina (49);49988340327;00:06:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (49);00011;00049
+41 98882-1540;Int. Nacional;18/05/2023;09:57:14;São Paulo - Rio Grande do Sul (51);51993019333;00:01:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+41 98882-1540;Internet (MB);18/05/2023;10:23:08;;;,11914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98882-1540;Int. Nacional;18/05/2023;10:40:54;São Paulo - Santa Catarina (48);48988241948;00:03:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (48);00011;00048
+41 98882-1540;Int. Nacional;18/05/2023;10:46:01;São Paulo - Rio Grande do Sul (51);51993019333;00:03:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Rio Grande do Sul (51);00011;00051
+41 98882-1540;Claro-Claro;18/05/2023;11:12:35;São Paulo - São Paulo (11);11989540473;00:11:12;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;00011
+41 98882-1540;Int. Nacional;18/05/2023;15:25:32;São Paulo - Santa Catarina (49);49988340327;00:04:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Santa Catarina (49);00011;00049
+41 98882-1540;Int. Nacional;18/05/2023;16:49:54;São Paulo - Paraná (43);43999760752;00:03:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;São Paulo;Paraná (43);00011;00043
+41 98882-1540;Internet (MB);18/05/2023;18:26:42;;;6,447265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Internet (MB);19/05/2023;02:41:56;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1540;Int. Nacional;19/05/2023;15:02:38;Paraná - Eusebio;8540055900;00:06:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Eusebio;00041;28500
+41 98882-1902;Internet (MB);24/04/2023;08:05:16;;;181,299804;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1902;Internet (MB);28/04/2023;16:06:21;;;,604492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1902;Internet (MB);29/04/2023;03:33:16;;;11,855468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1902;Internet (MB);30/04/2023;00:55:01;;;2,325195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1902;Internet (MB);01/05/2023;00:52:23;;;48,685546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1902;Internet (MB);02/05/2023;00:55:04;;;1,399414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1902;Internet (MB);03/05/2023;07:06:02;;;242,550781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1902;Internet (MB);12/05/2023;10:55:03;;;21,444335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98882-1902;Claro-Outras Op.;12/05/2023;10:58:55;Paraná - Paraná (41);41996122925;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+41 98882-1902;Claro-Fixo;12/05/2023;11:01:56;Paraná - Campo Magro;4136775011;00:03:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Campo Magro;00041;765
+41 98882-1902;Claro-Fixo;12/05/2023;11:12:06;Paraná - Campo Magro;4136775011;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Campo Magro;00041;765
+41 98882-1902;Claro-Fixo;12/05/2023;11:13:35;Paraná - Curitiba;4133722119;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;041
+41 98882-1902;Claro-Outras Op.;12/05/2023;11:21:06;Paraná - Paraná (41);41996022547;00:03:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;44000
+41 98901-7149;Internet (MB);22/04/2023;13:44:30;;;8,064453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);23/04/2023;00:05:32;;;69,90332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);24/04/2023;00:27:22;;;476,992187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Int. Regional;24/04/2023;14:17:17;Rio Grande do Sul - Rio Grande do Sul (51);51991925209;00:04:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (51);00054;00051
+41 98901-7149;Internet (MB);24/04/2023;18:19:01;;;2,287109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);24/04/2023;23:57:01;;;14,577148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);25/04/2023;00:00:04;;;711,863281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Int. Nacional;25/04/2023;09:31:17;Rio Grande do Sul - Paraná (41);41988821540;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00054;00041
+41 98901-7149;Internet (MB);25/04/2023;09:35:25;;;,17871;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Claro-Fixo;25/04/2023;15:53:05;Rio Grande do Sul - Caxias Do Sul;5437711212;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Rio Grande do Sul;Caxias Do Sul;00054;361
+41 98901-7149;Internet (MB);26/04/2023;00:10:59;;;460,64746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Int. Nacional;26/04/2023;08:37:55;Rio Grande do Sul - Paraná (41);41996721066;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;04000
+41 98901-7149;Int. Nacional;26/04/2023;10:09:22;Rio Grande do Sul - Paraná (41);41996721066;00:04:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;40000
+41 98901-7149;Int. Nacional;26/04/2023;10:17:01;Rio Grande do Sul - Paraná (45);45999597026;00:11:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (45);00051;44000
+41 98901-7149;Int. Nacional;26/04/2023;10:17:32;Rio Grande do Sul - Paraná (41);41996721066;00:10:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Paraná (41);00051;40000
+41 98901-7149;Internet (MB);26/04/2023;11:17:49;;;1,360351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Int. Nacional;26/04/2023;18:09:46;Rio Grande do Sul - Santa Catarina (48);48988269858;00:02:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+41 98901-7149;Int. Regional;26/04/2023;19:16:39;Rio Grande do Sul - Rio Grande do Sul (54);54991020533;00:33:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+41 98901-7149;Internet (MB);27/04/2023;00:02:49;;;226,325195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);27/04/2023;12:39:02;;;2,383789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);27/04/2023;21:55:16;;;,708984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);28/04/2023;00:22:52;;;43,061523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);28/04/2023;09:20:38;;;392,880859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Claro-Claro;28/04/2023;12:57:32;Paraná - Paraná (41);41988821540;00:09:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98901-7149;Internet (MB);29/04/2023;15:57:55;;;,080078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);02/05/2023;11:46:06;;;14,100585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);02/05/2023;19:04:45;;;,03125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Int. Nacional;03/05/2023;07:26:45;Rio Grande do Sul - Santa Catarina (48);48988187454;00:01:18;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (48);00051;00048
+41 98901-7149;Internet (MB);03/05/2023;07:51:21;;;1,667968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);03/05/2023;07:51:22;;;140,614257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Int. Nacional;03/05/2023;12:04:10;Rio Grande do Sul - Santa Catarina (49);49988340327;00:14:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00051;00049
+41 98901-7149;Int. Nacional;03/05/2023;12:42:50;Rio Grande do Sul - Santa Catarina (49);49988340327;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00051;00049
+41 98901-7149;Int. Regional;03/05/2023;17:21:05;Rio Grande do Sul - Rio Grande do Sul (54);54991020533;00:03:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+41 98901-7149;Internet (MB);04/05/2023;00:01:40;;;39,197265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);04/05/2023;09:32:30;;;1,081054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Int. Nacional;04/05/2023;09:36:48;Rio Grande do Sul - Santa Catarina (49);49988340327;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00054;00049
+41 98901-7149;Internet (MB);04/05/2023;09:41:38;;;,331054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Int. Nacional;04/05/2023;12:48:59;Rio Grande do Sul - Santa Catarina (49);49988340327;00:01:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00054;00049
+41 98901-7149;Int. Nacional;04/05/2023;13:02:51;Rio Grande do Sul - Santa Catarina (49);49988340327;00:01:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Santa Catarina (49);00054;00049
+41 98901-7149;Int. Regional;04/05/2023;19:04:44;Rio Grande do Sul - Rio Grande do Sul (51);51993566390;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (51);00054;00051
+41 98901-7149;Internet (MB);05/05/2023;00:06:47;;;20,548828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);05/05/2023;00:49:21;;;286,259765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);05/05/2023;09:31:09;;;,076171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Int. Regional;05/05/2023;16:58:32;Rio Grande do Sul - Rio Grande do Sul (54);54991020533;00:03:12;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Rio Grande do Sul;Rio Grande do Sul (54);00051;00054
+41 98901-7149;Internet (MB);06/05/2023;20:38:54;;;2,007812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);07/05/2023;00:40:38;;;2,180664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);08/05/2023;08:29:28;;;24,68164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);08/05/2023;16:02:11;;;,089843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);09/05/2023;00:18:01;;;235,574218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);09/05/2023;07:34:09;;;415,081054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Claro-Outras Op.;09/05/2023;09:19:04;Paraná - Paraná (41);41996721066;00:02:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98901-7149;Internet (MB);10/05/2023;00:17:54;;;55,488281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);10/05/2023;09:35:29;;;,191406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);10/05/2023;18:16:42;;;2,633789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);11/05/2023;00:02:32;;;3360,886718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);11/05/2023;11:44:29;;;,066406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Claro-Claro;11/05/2023;12:38:15;Santa Catarina - Santa Catarina (48);48988269858;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Santa Catarina;Santa Catarina (48);00048;00048
+41 98901-7149;Internet (MB);12/05/2023;00:59:28;;;378,641601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);12/05/2023;04:37:38;;;,146484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);13/05/2023;01:38:22;;;185,984375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);14/05/2023;00:35:25;;;46,868164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);15/05/2023;00:37:40;;;2181,606445;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);15/05/2023;17:29:48;;;,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);16/05/2023;09:08:47;;;95,114257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Claro-Claro;16/05/2023;10:47:26;Paraná - Paraná (41);41987920538;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98901-7149;Internet (MB);16/05/2023;12:07:14;;;,208984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);17/05/2023;08:54:17;;;178,631835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);17/05/2023;08:55:45;;;51,036132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);17/05/2023;11:01:55;;;,086914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Claro-Fixo;17/05/2023;15:57:18;Paraná - Curitiba;4130168361;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98901-7149;Internet (MB);17/05/2023;15:57:52;;;11,180664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);17/05/2023;16:16:06;;;,071289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Claro-Fixo;17/05/2023;17:46:42;Paraná - Curitiba;4130168361;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98901-7149;Internet (MB);17/05/2023;18:29:18;;;,026367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);18/05/2023;08:09:34;;;123,860351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);18/05/2023;08:16:07;;;3,220703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);19/05/2023;09:00:17;;;113,418945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Internet (MB);19/05/2023;09:00:18;;;5,038085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00041;0
+41 98901-7149;Internet (MB);19/05/2023;10:59:50;;;,706054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Claro-Outras Op.;19/05/2023;16:37:00;Paraná - Paraná (41);41996721066;00:09:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+41 98901-7149;Internet (MB);20/05/2023;17:47:05;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98901-7149;Claro-Fixo;22/05/2023;09:53:00;Paraná - Curitiba;4132596500;00:02:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;24100
+41 98901-7149;Claro-Fixo;22/05/2023;09:58:32;Paraná - Curitiba;4132436000;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98901-7149;Claro-Fixo;22/05/2023;10:00:15;Paraná - Curitiba;4130260161;00:03:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98901-7149;Claro-Fixo;22/05/2023;10:04:21;Paraná - Curitiba;4133123000;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+41 98901-7149;Claro-Fixo;22/05/2023;10:06:53;Paraná - Curitiba;4130877600;00:01:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;24100
+41 98901-7149;Claro-Fixo;22/05/2023;10:08:42;Paraná - Curitiba;4132073225;00:02:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;24100
+41 98902-3030;Internet (MB);26/04/2023;11:37:20;;;92,071289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);27/04/2023;01:33:50;;;1,137695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);28/04/2023;01:59:45;;;,197265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);29/04/2023;02:00:20;;;,196289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);30/04/2023;00:57:30;;;,115234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);01/05/2023;00:56:13;;;,111328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);02/05/2023;00:57:54;;;,20996;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);03/05/2023;00:57:44;;;36,05371;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);04/05/2023;01:56:41;;;9,737304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);05/05/2023;00:31:14;;;1,040039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);10/05/2023;17:55:47;;;21,298828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);11/05/2023;01:56:06;;;81,52539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);12/05/2023;01:03:21;;;2,620117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);13/05/2023;01:04:07;;;11,971679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);14/05/2023;00:20:04;;;2,280273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);15/05/2023;00:23:11;;;2,582031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);16/05/2023;00:19:29;;;3,910156;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);17/05/2023;00:13:23;;;4,051757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);17/05/2023;14:18:21;;;1,655273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);18/05/2023;01:46:00;;;157,141601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Outros Serviços Telecom;18/05/2023;14:03:03;;11953265083;1;0,45;,45;,45;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00041;95500
+41 98902-3030;Claro-Claro;18/05/2023;15:32:37;Paraná - Paraná (41);41987920538;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+41 98902-3030;Internet (MB);19/05/2023;00:58:38;;;3,349609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);20/05/2023;01:12:25;;;5,839843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+41 98902-3030;Internet (MB);21/05/2023;01:28:33;;;4,612304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00041;0
+42 98846-8540;Internet (MB);22/04/2023;14:45:34;;;15,08789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);24/04/2023;09:12:46;;;60,205078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);25/04/2023;07:01:24;;;22,664062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);26/04/2023;00:09:58;;;26,583984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);27/04/2023;00:11:19;;;7,805664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);28/04/2023;07:27:12;;;21,612304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);29/04/2023;00:00:43;;;170,692382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);01/05/2023;17:05:35;;;,578125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);02/05/2023;00:01:41;;;255,891601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);03/05/2023;07:37:31;;;372,040039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);04/05/2023;00:05:47;;;450,307617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Claro-Fixo;04/05/2023;16:36:50;Paraná - Ponta Grossa;4230280068;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;041
+42 98846-8540;Internet (MB);04/05/2023;16:39:25;;;152,795898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00042;0
+42 98846-8540;Internet (MB);05/05/2023;06:18:06;;;34,885742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);06/05/2023;00:39:00;;;,976562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);07/05/2023;02:10:44;;;,52832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);08/05/2023;00:12:11;;;38,124023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);09/05/2023;06:35:08;;;2,140625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Claro-Outras Op.;09/05/2023;18:37:07;Paraná - Paraná (42);42998547846;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98846-8540;Internet (MB);10/05/2023;00:05:17;;;19,632812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);11/05/2023;00:36:50;;;117,200195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);12/05/2023;06:24:32;;;15,000976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);13/05/2023;00:40:06;;;,643554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);13/05/2023;23:52:37;;;,139648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);14/05/2023;01:52:42;;;1,05371;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);15/05/2023;00:10:29;;;40,975585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);16/05/2023;07:05:55;;;26,605468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);17/05/2023;00:36:21;;;3,100585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);17/05/2023;15:47:08;;;12,892578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);18/05/2023;00:08:00;;;5,180664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);19/05/2023;07:41:39;;;124,264648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98846-8540;Internet (MB);20/05/2023;00:21:04;;;,929687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);24/04/2023;07:14:18;;;13,417968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);25/04/2023;07:14:50;;;12,760742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);26/04/2023;07:17:27;;;57,523437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Claro-Fixo;26/04/2023;11:47:43;Paraná - Guarapuava;4236243100;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Guarapuava;00042;24100
+42 98848-0207;Internet (MB);27/04/2023;07:14:57;;;9,419921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);28/04/2023;07:06:19;;;6,621093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);29/04/2023;00:18:29;;;,015625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);30/04/2023;04:47:11;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);01/05/2023;13:45:34;;;,026367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);02/05/2023;00:06:22;;;47,551757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);02/05/2023;12:59:16;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);03/05/2023;02:58:23;;;92,811523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);04/05/2023;07:18:15;;;7,091796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);05/05/2023;03:40:15;;;130,273437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);06/05/2023;08:55:12;;;1,93457;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);07/05/2023;15:03:54;;;,591796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);08/05/2023;07:11:03;;;1,804687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);09/05/2023;06:49:57;;;42,293945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);10/05/2023;07:16:44;;;2,074218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);11/05/2023;07:09:41;;;68,338867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Claro-Outras Op.;11/05/2023;09:35:18;Paraná - Paraná (46);46991146049;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (46);00046;04400
+42 98848-0207;Internet (MB);12/05/2023;07:14:20;;;53,294921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);15/05/2023;07:16:30;;;7,190429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);16/05/2023;07:19:33;;;84,238281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);17/05/2023;01:12:39;;;92,457031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);17/05/2023;15:38:09;;;1,404296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);18/05/2023;08:41:52;;;26,321289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);19/05/2023;07:16:24;;;136,15332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98848-0207;Internet (MB);20/05/2023;05:49:29;;;29,853515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+43 98819-0721;Internet (MB);23/04/2023;18:16:08;;;,075195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);24/04/2023;09:13:29;;;1,336914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);24/04/2023;09:13:30;;;,34082;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Internet (MB);25/04/2023;09:18:35;;;56,677734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);25/04/2023;09:18:44;;;,763671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Internet (MB);26/04/2023;03:03:23;;;6,331054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);26/04/2023;15:01:01;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Internet (MB);27/04/2023;05:03:10;;;53,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);27/04/2023;18:07:12;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Internet (MB);02/05/2023;07:16:18;;;46,512695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);03/05/2023;07:04:20;;;304,86914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);03/05/2023;07:13:42;;;,054687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Claro-Claro;03/05/2023;10:37:46;Paraná - ParanÃ¡ (43);43984080800;00:03:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;ParanÃ¡ (43);00043;00043
+43 98819-0721;Internet (MB);05/05/2023;09:29:59;;;72,349609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);05/05/2023;13:19:33;;;,065429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Internet (MB);06/05/2023;17:58:35;;;,432617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);07/05/2023;12:36:56;;;5,300781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);08/05/2023;08:07:56;;;11,415039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);08/05/2023;09:46:07;;;,117187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Internet (MB);09/05/2023;17:42:49;;;1,969726;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);10/05/2023;01:01:16;;;22,761718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);10/05/2023;07:58:26;;;,030273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Internet (MB);11/05/2023;00:12:57;;;56,725585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);12/05/2023;00:05:34;;;28,447265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);12/05/2023;14:17:29;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Internet (MB);13/05/2023;01:14:23;;;99,765625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);14/05/2023;01:08:38;;;13,77832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Claro-Outras Op.;14/05/2023;12:55:44;São Paulo - São Paulo (11);11984916674;00:01:48;0,00;0;0;;;;Ligações Locais;;;;São Paulo;São Paulo (11);00011;41100
+43 98819-0721;Internet (MB);14/05/2023;14:00:27;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Internet (MB);15/05/2023;01:18:25;;;8,664062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);16/05/2023;01:36:37;;;38,514648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);17/05/2023;22:00:34;;;,095703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);18/05/2023;00:34:52;;;68,204101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);19/05/2023;00:17:22;;;90,194335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-0721;Internet (MB);19/05/2023;07:26:22;;;,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-0721;Internet (MB);20/05/2023;09:28:53;;;81,17871;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);22/04/2023;11:32:05;;;,138671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);23/04/2023;10:35:03;;;762,377929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);24/04/2023;08:23:37;;;40,15039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);24/04/2023;08:58:03;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-7073;Claro-Fixo;24/04/2023;13:03:14;Paraná - Curitiba;4133151900;00:04:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;041
+43 98819-7073;Claro-Fixo;24/04/2023;14:24:01;Paraná - Curitiba;4133151900;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;041
+43 98819-7073;Internet (MB);25/04/2023;10:41:32;;;83,93457;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);25/04/2023;12:50:13;;;,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-7073;Internet (MB);26/04/2023;17:14:36;;;,013671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);27/04/2023;08:47:03;;;107,67871;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);28/04/2023;09:32:59;;;38,131835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);29/04/2023;10:00:47;;;387,682617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);30/04/2023;00:08:37;;;390,74414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);01/05/2023;01:34:35;;;262,657226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);02/05/2023;00:43:31;;;669,49121;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);03/05/2023;07:44:14;;;71,876953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);04/05/2023;07:42:37;;;16,245117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);05/05/2023;02:06:11;;;3,068359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);05/05/2023;10:11:27;;;,015625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-7073;Internet (MB);07/05/2023;07:26:46;;;,088867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);08/05/2023;07:44:29;;;119,566406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);09/05/2023;07:43:39;;;3,77832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);10/05/2023;07:44:58;;;78,503906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);11/05/2023;08:06:57;;;81,921875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);11/05/2023;08:51:00;;;,029296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-7073;Claro-Claro;11/05/2023;15:20:40;Paraná - Paraná (41);41987920538;00:03:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+43 98819-7073;Internet (MB);12/05/2023;07:47:45;;;5,676757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Claro-Claro;12/05/2023;14:52:09;Paraná - Paraná (41);41987920538;00:06:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+43 98819-7073;Internet (MB);13/05/2023;10:29:54;;;,030273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);14/05/2023;21:11:02;;;,171875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);15/05/2023;08:14:32;;;96,023437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);16/05/2023;01:56:10;;;219,364257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);16/05/2023;09:46:34;;;,538085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-7073;Claro-Outras Op.;16/05/2023;10:24:59;Paraná - Paraná (41);41996721066;00:03:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;04000
+43 98819-7073;Internet (MB);17/05/2023;00:21:27;;;361,974609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);17/05/2023;11:21:21;;;,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-7073;Internet (MB);17/05/2023;16:26:11;;;49,048828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);17/05/2023;17:44:36;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-7073;Internet (MB);18/05/2023;07:52:11;;;94,564453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Claro-Fixo;18/05/2023;10:31:24;Paraná - Curitiba;4140902777;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00941
+43 98819-7073;Internet (MB);19/05/2023;07:44:51;;;818;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);19/05/2023;09:07:20;;;,099609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98819-7073;Internet (MB);20/05/2023;01:04:53;;;71,794921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98819-7073;Internet (MB);21/05/2023;09:06:02;;;,071289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);22/04/2023;00:09:07;;;3,17871;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);23/04/2023;00:08:34;;;35,804687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);24/04/2023;07:14:01;;;206,930664;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);24/04/2023;08:52:37;;;,017578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Claro-Outras Op.;24/04/2023;11:54:37;Paraná - Paraná (43);43999270110;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;44000
+43 98823-9842;Claro-Outras Op.;24/04/2023;11:56:01;Paraná - Paraná (43);43998370315;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;44000
+43 98823-9842;Claro-Fixo;24/04/2023;15:11:11;Paraná - Londrina;4330255551;00:02:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Londrina;00043;00542
+43 98823-9842;Internet (MB);25/04/2023;10:28:50;;;693,240234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);25/04/2023;18:49:13;;;3,213867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);26/04/2023;11:04:31;;;142,551757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);26/04/2023;14:04:44;;;7,08496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);27/04/2023;08:33:40;;;154,012695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Claro-Claro;27/04/2023;14:31:15;Paraná - ParanÃ¡ (43);43984344778;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;ParanÃ¡ (43);00043;00043
+43 98823-9842;Int. Regional;27/04/2023;19:22:06;Paraná - Guaraniacu;4532321319;00:08:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Guaraniacu;00043;
+43 98823-9842;Internet (MB);28/04/2023;09:16:40;;;53,410156;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);29/04/2023;12:08:51;;;423,058593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);30/04/2023;19:44:49;;;139,496093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);01/05/2023;01:29:11;;;299,690429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);01/05/2023;11:46:18;;;,889648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Internet (MB);02/05/2023;09:28:13;;;589,30957;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Int. Nacional;02/05/2023;09:31:28;Paraná - Porto Alegre;5135118206;00:00:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Int. Nacional;02/05/2023;10:01:13;Paraná - Porto Alegre;5135118206;00:08:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Internet (MB);02/05/2023;14:32:49;;;,032226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Internet (MB);02/05/2023;21:51:05;;;1,722656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);03/05/2023;09:22:08;;;93,958007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Claro-Outras Op.;03/05/2023;11:44:27;Paraná - Paraná (43);43999594544;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;44000
+43 98823-9842;Claro-Outras Op.;03/05/2023;12:01:26;Paraná - Paraná (43);43999594544;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;44000
+43 98823-9842;Claro-Fixo;03/05/2023;12:44:07;Paraná - Londrina;4333786161;00:04:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Londrina;00043;042
+43 98823-9842;Claro-Claro;03/05/2023;16:03:44;Paraná - Paraná (43);43999464161;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+43 98823-9842;Internet (MB);03/05/2023;16:06:00;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Claro-Claro;03/05/2023;16:35:10;Paraná - Paraná (43);43988209829;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+43 98823-9842;Internet (MB);04/05/2023;08:27:38;;;1692,617187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);04/05/2023;09:59:17;;;3,964843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Internet (MB);05/05/2023;10:14:27;;;59,86914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);06/05/2023;09:23:33;;;,08496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);07/05/2023;14:50:59;;;26,728515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);08/05/2023;07:19:35;;;75,456054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);08/05/2023;09:51:08;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Internet (MB);09/05/2023;08:58:06;;;88,517578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);09/05/2023;09:52:28;;;,507812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Internet (MB);10/05/2023;09:34:18;;;152,690429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Claro-Claro;10/05/2023;09:35:12;Paraná - Paraná (43);43988155013;00:20:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+43 98823-9842;Claro-Claro;10/05/2023;10:27:20;Paraná - Paraná (43);43988155013;00:03:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+43 98823-9842;Int. Regional;10/05/2023;10:36:43;Paraná - Guaraniacu;4532321319;00:09:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Guaraniacu;00043;
+43 98823-9842;Int. Nacional;10/05/2023;11:25:31;Paraná - Porto Alegre;5135118206;00:04:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Claro-Claro;10/05/2023;13:52:43;Paraná - Paraná (43);43988155013;00:04:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+43 98823-9842;Claro-Outras Op.;10/05/2023;14:00:29;Paraná - Paraná (43);43998213500;00:02:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;04000
+43 98823-9842;Internet (MB);10/05/2023;14:27:22;;;,764648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);10/05/2023;16:11:48;;;9,045898;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Claro-Outras Op.;10/05/2023;16:22:21;Paraná - Paraná (43);43996464190;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;04000
+43 98823-9842;Claro-Outras Op.;10/05/2023;17:11:47;Paraná - Paraná (43);43996464190;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;04000
+43 98823-9842;Internet (MB);11/05/2023;07:27:23;;;107,579101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Claro-Outras Op.;11/05/2023;11:50:12;Paraná - Paraná (43);43996464190;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;04000
+43 98823-9842;Claro-Outras Op.;11/05/2023;12:03:55;Paraná - Paraná (43);43999918091;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;04400
+43 98823-9842;Internet (MB);12/05/2023;08:12:17;;;303,802734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Int. Regional;12/05/2023;09:49:42;Paraná - Guaraniacu;4532321896;00:01:54;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Guaraniacu;00043;765
+43 98823-9842;Claro-Fixo;12/05/2023;10:26:07;Paraná - Cambe;4331746700;00:07:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Cambe;00043;54100
+43 98823-9842;Claro-Fixo;12/05/2023;10:34:02;Paraná - Rolandia;4332551918;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Rolandia;00043;041
+43 98823-9842;Claro-Claro;12/05/2023;11:11:52;Paraná - Paraná (43);43988155013;00:09:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+43 98823-9842;Claro-Fixo;12/05/2023;15:30:03;Paraná - Campo Mourao;4430682702;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Campo Mourao;00044;
+43 98823-9842;Internet (MB);12/05/2023;17:21:27;;;2,84375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);13/05/2023;00:51:27;;;239,355468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);13/05/2023;15:25:45;;;,11621;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);13/05/2023;19:21:41;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Internet (MB);14/05/2023;10:00:18;;;58,074218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);14/05/2023;19:57:11;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Claro-Outras Op.;14/05/2023;20:49:47;Paraná - Paraná (44);44991818689;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (44);00044;04400
+43 98823-9842;Claro-Claro;14/05/2023;20:51:17;Paraná - Paraná (44);44988401701;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (44);00044;00044
+43 98823-9842;Claro-Claro;14/05/2023;21:09:32;Paraná - Paraná (44);44988401701;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (44);00044;00044
+43 98823-9842;Internet (MB);15/05/2023;00:04:50;;;863,667968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Claro-Outras Op.;15/05/2023;10:33:35;Paraná - ParanÃ¡ (43);43984217989;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;ParanÃ¡ (43);00043;04000
+43 98823-9842;Internet (MB);15/05/2023;15:10:32;;;1,551757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);16/05/2023;09:49:03;;;38,226562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Int. Nacional;16/05/2023;15:25:43;Paraná - Porto Alegre;5135118206;00:05:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Internet (MB);16/05/2023;21:49:43;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Internet (MB);17/05/2023;08:20:10;;;258,75;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);17/05/2023;09:36:27;;;,661132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);17/05/2023;17:14:53;;;113,626953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Int. Nacional;17/05/2023;17:38:25;Paraná - Porto Alegre;5135118206;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Int. Nacional;17/05/2023;17:38:47;Paraná - Porto Alegre;5135118206;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Int. Nacional;17/05/2023;17:39:08;Paraná - Porto Alegre;5135118206;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Int. Nacional;17/05/2023;17:40:12;Paraná - Porto Alegre;5135118206;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Internet (MB);17/05/2023;17:45:11;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98823-9842;Internet (MB);18/05/2023;03:42:26;;;167,234375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Int. Nacional;18/05/2023;09:20:16;Paraná - Porto Alegre;5135118206;00:00:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Int. Nacional;18/05/2023;10:24:16;Paraná - Porto Alegre;5135118206;00:03:24;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Claro-Outras Op.;18/05/2023;22:31:32;Paraná - Paraná (43);43991067526;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;04400
+43 98823-9842;Claro-Fixo;18/05/2023;22:32:31;Paraná - Londrina;4340044041;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Londrina;00043;242
+43 98823-9842;Internet (MB);19/05/2023;06:25:52;;;322,783203;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Claro-Claro;19/05/2023;08:10:03;Paraná - Paraná (43);43988155013;01:13:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+43 98823-9842;Claro-Outras Op.;19/05/2023;09:36:22;Paraná - Paraná (43);43996464190;00:04:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;04000
+43 98823-9842;Claro-Claro;19/05/2023;09:40:55;Paraná - Paraná (43);43988155013;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;00043
+43 98823-9842;Internet (MB);19/05/2023;09:43:40;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Int. Nacional;19/05/2023;10:31:04;Paraná - Porto Alegre;5135118206;00:02:42;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Porto Alegre;00043;00951
+43 98823-9842;Claro-Outras Op.;19/05/2023;10:36:09;Paraná - Paraná (43);43996464190;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;04000
+43 98823-9842;Claro-Fixo;19/05/2023;10:38:17;Paraná - Londrina;4333790886;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Londrina;00043;042
+43 98823-9842;Claro-Outras Op.;19/05/2023;10:39:58;Paraná - Paraná (43);43996464190;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (43);00043;04000
+43 98823-9842;Int. Regional;19/05/2023;10:41:53;Paraná - Guaraniacu;4532322339;00:02:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Guaraniacu;00043;
+43 98823-9842;Claro-Outras Op.;19/05/2023;13:35:42;Paraná - Paraná (44);44999356681;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (44);00044;04000
+43 98823-9842;Internet (MB);20/05/2023;09:58:43;;;313,221679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98823-9842;Internet (MB);20/05/2023;16:32:19;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);24/04/2023;08:14:40;;;1,77246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);25/04/2023;08:08:18;;;379,90332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);25/04/2023;08:51:00;;;3,008789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);25/04/2023;14:39:32;;;,5;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Claro-Outras Op.;25/04/2023;15:01:03;Paraná - Paraná (41);41995814620;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+43 98835-6575;Internet (MB);26/04/2023;06:20:22;;;207,217773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);26/04/2023;06:41:57;;;19,222656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);26/04/2023;07:09:47;;;,945312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);26/04/2023;09:17:58;;;3,188476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Int. Nacional;26/04/2023;16:15:04;Paraná - Sao Paulo;1131567644;00:06:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Sao Paulo;00043;21200
+43 98835-6575;Internet (MB);27/04/2023;01:42:15;;;612,96289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);27/04/2023;07:32:30;;;15,483398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);27/04/2023;07:40:40;;;1,252929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);27/04/2023;09:25:35;;;,126953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);28/04/2023;00:00:00;;;582,038085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);28/04/2023;00:04:08;;;,39746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);28/04/2023;10:01:04;;;,098632;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);28/04/2023;12:36:04;;;5,40039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);29/04/2023;00:22:01;;;1,417968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);29/04/2023;00:26:35;;;1,560546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);02/05/2023;08:17:29;;;6,155273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);03/05/2023;08:20:29;;;138,936523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);03/05/2023;17:28:42;;;,012695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Claro-Outras Op.;03/05/2023;17:56:18;Paraná - Paraná (41);41998263739;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;40000
+43 98835-6575;Internet (MB);04/05/2023;00:16:40;;;8,530273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);05/05/2023;00:14:37;;;31,261718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);05/05/2023;11:49:23;;;,332031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);05/05/2023;13:47:54;;;,02246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);06/05/2023;19:05:04;;;,3125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);08/05/2023;08:20:49;;;18,892578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);08/05/2023;16:50:48;;;,40332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);08/05/2023;17:31:49;;;,220703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);09/05/2023;00:51:07;;;25,83496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);09/05/2023;02:22:18;;;,075195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);09/05/2023;15:28:54;;;,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);10/05/2023;07:16:06;;;126,259765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);10/05/2023;07:34:24;;;,232421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);11/05/2023;08:09:52;;;66,169921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);11/05/2023;09:09:47;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);11/05/2023;11:36:06;;;,266601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);12/05/2023;00:02:52;;;7,504882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);12/05/2023;11:15:28;;;,060546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);13/05/2023;10:08:45;;;,339843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);15/05/2023;05:13:50;;;97,039062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);15/05/2023;10:08:01;;;,513671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);15/05/2023;14:49:20;;;,011718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);16/05/2023;08:19:52;;;263,019531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);16/05/2023;10:26:05;;;,62207;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Claro-Fixo;16/05/2023;10:53:32;Paraná - Campo Magro;4136272727;00:05:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Campo Magro;00041;24100
+43 98835-6575;Internet (MB);16/05/2023;11:38:32;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Claro-Fixo;16/05/2023;11:51:49;Paraná - Curitiba;4139065757;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00842
+43 98835-6575;Claro-Fixo;16/05/2023;13:06:52;Paraná - Curitiba;4131210173;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;54100
+43 98835-6575;Internet (MB);17/05/2023;09:00:15;;;937,788085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);17/05/2023;09:21:54;;;135,195312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);17/05/2023;09:59:34;;;,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);17/05/2023;12:07:31;;;2,068359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);17/05/2023;15:19:25;;;151,500976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);17/05/2023;15:28:49;;;,160156;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);18/05/2023;08:25:21;;;338,794921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);18/05/2023;08:53:58;;;,49414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);18/05/2023;09:06:36;;;,068359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);19/05/2023;02:19:18;;;689,005859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Internet (MB);19/05/2023;10:11:15;;;,023437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00043;0
+43 98835-6575;Internet (MB);19/05/2023;14:08:40;;;1,880859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98835-6575;Claro-Fixo;19/05/2023;16:36:51;Paraná - Curitiba;4139070651;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;00842
+43 98835-6575;Claro-Fixo;19/05/2023;16:40:08;Paraná - Curitiba;4133486063;00:02:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Curitiba;00041;206
+43 98835-6575;Claro-Claro;19/05/2023;16:45:47;Paraná - Paraná (41);41987959904;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (41);00041;00041
+43 98835-6575;Internet (MB);20/05/2023;09:53:53;;;,604492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98838-0608;Internet (MB);12/05/2023;16:20:30;;;182,048828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98838-0608;Internet (MB);13/05/2023;01:14:14;;;228,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98838-0608;Internet (MB);14/05/2023;00:46:53;;;10,827148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98838-0608;Internet (MB);14/05/2023;02:52:43;;;,633789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98838-0608;Internet (MB);15/05/2023;00:02:46;;;5,000976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+43 98838-0608;Internet (MB);16/05/2023;00:03:24;;;2,264648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00043;0
+44 98858-7074;Internet (MB);24/04/2023;00:05:28;;;4,688476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Secretária Claro;24/04/2023;09:11:11;Paraná - Secretária Claro;*100;00:00:30;0,25;,12;,12;;;;Ligações para números especiais;;;;Paraná;Secretária Claro;00044;
+44 98858-7074;Internet (MB);25/04/2023;07:51:53;;;20,422851;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);26/04/2023;00:58:13;;;22,602539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);27/04/2023;01:16:26;;;1,335937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);28/04/2023;08:16:04;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);02/05/2023;08:02:34;;;4,015625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);03/05/2023;03:55:50;;;15,694335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);04/05/2023;00:42:34;;;92,054687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);05/05/2023;08:03:08;;;27,800781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);06/05/2023;18:46:04;;;15,360351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);07/05/2023;00:31:53;;;55,818359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);07/05/2023;23:17:26;;;,020507;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);08/05/2023;02:29:06;;;,079101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);09/05/2023;00:00:11;;;5,654296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);10/05/2023;08:03:38;;;16,174804;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);11/05/2023;09:11:49;;;9,610351;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);12/05/2023;00:39:46;;;112,338867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Secretária Claro;12/05/2023;10:36:26;Paraná - Secretária Claro;*100;00:00:30;0,25;,12;,12;;;;Ligações para números especiais;;;;Paraná;Secretária Claro;00044;
+44 98858-7074;Claro-Outras Op.;12/05/2023;14:23:21;Paraná - Paraná (44);44999735186;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (44);00044;44000
+44 98858-7074;Internet (MB);13/05/2023;21:41:03;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);15/05/2023;07:48:31;;;27,152343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);16/05/2023;05:36:55;;;63,61914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);17/05/2023;07:51:25;;;26,311523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);17/05/2023;15:49:06;;;,166992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);18/05/2023;03:50:44;;;54,576171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);19/05/2023;07:47:40;;;36,198242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);20/05/2023;12:13:50;;;,167968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+44 98858-7074;Internet (MB);21/05/2023;01:13:34;;;,25;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00044;0
+45 98814-3164;Internet (MB);24/04/2023;07:13:58;;;188,796875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);25/04/2023;08:33:19;;;58,612304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);25/04/2023;09:02:35;;;,039062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);26/04/2023;21:39:16;;;,010742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);02/05/2023;08:08:44;;;1,282226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);02/05/2023;08:08:46;;;,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);03/05/2023;08:36:26;;;8,865234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);03/05/2023;08:52:08;;;,199218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);04/05/2023;09:09:07;;;3,482421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);04/05/2023;09:25:14;;;1,450195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);05/05/2023;08:58:28;;;1,750976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);05/05/2023;09:06:41;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);06/05/2023;12:18:35;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);08/05/2023;06:51:06;;;5,864257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);08/05/2023;07:23:46;;;1,24414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);09/05/2023;06:06:42;;;32,988281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);09/05/2023;08:04:37;;;1,333984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);10/05/2023;05:50:40;;;5,613281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);10/05/2023;07:02:23;;;,524414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);10/05/2023;07:35:13;;;,029296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);11/05/2023;07:15:03;;;22,43164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);11/05/2023;08:13:38;;;,475585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);12/05/2023;13:21:34;;;,11914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);13/05/2023;04:22:52;;;,639648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);15/05/2023;11:07:38;;;,117187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);15/05/2023;11:07:57;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);16/05/2023;06:28:26;;;101,911132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);16/05/2023;11:13:27;;;,168945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);17/05/2023;11:01:46;;;1,980468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);17/05/2023;11:24:29;;;,333984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);17/05/2023;16:59:56;;;,058593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);18/05/2023;08:00:03;;;1,068359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);19/05/2023;07:46:22;;;13,501953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);19/05/2023;11:14:34;;;,140625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+45 98814-3164;Internet (MB);20/05/2023;06:00:31;;;,081054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00045;0
+46 98814-1464;Internet (MB);22/04/2023;03:54:38;;;2,734375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);24/04/2023;08:21:01;;;66,483398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);25/04/2023;01:50:43;;;,61914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);26/04/2023;09:33:16;;;9,669921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);27/04/2023;07:34:07;;;66,713867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);27/04/2023;10:59:39;;;,80957;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);28/04/2023;09:53:15;;;45,936523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);30/04/2023;10:50:40;;;19,780273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);01/05/2023;23:04:28;;;,1875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);03/05/2023;14:58:56;;;17,586914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);04/05/2023;09:32:36;;;4,079101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);05/05/2023;05:45:19;;;89,342773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);08/05/2023;09:04:51;;;48,591796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);09/05/2023;14:51:09;;;14,129882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);10/05/2023;05:18:53;;;57,464843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);15/05/2023;09:41:33;;;33,835937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);16/05/2023;05:17:00;;;78,409179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);17/05/2023;05:39:02;;;24,89746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);17/05/2023;15:33:43;;;,686523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);18/05/2023;05:41:01;;;,758789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Claro-Outras Op.;18/05/2023;10:14:46;Paraná - Paraná (44);44997435217;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (44);00044;40000
+46 98814-1464;Claro-Outras Op.;18/05/2023;11:06:04;Paraná - Paraná (44);44997435217;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (44);00044;40000
+46 98814-1464;Internet (MB);19/05/2023;02:13:33;;;82,911132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);20/05/2023;03:30:58;;;,114257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1464;Internet (MB);21/05/2023;03:32:04;;;,546875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);22/04/2023;09:02:37;;;,335937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);24/04/2023;08:25:36;;;9,470703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);25/04/2023;07:09:33;;;147,097656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);26/04/2023;06:07:26;;;153,127929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);26/04/2023;17:29:21;;;,21289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00046;0
+46 98814-1682;Internet (MB);27/04/2023;12:56:00;;;1,999023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);28/04/2023;14:16:25;;;,546875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);03/05/2023;13:11:05;;;46,125976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);04/05/2023;10:21:48;;;53,311523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);08/05/2023;17:20:05;;;8,748046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);09/05/2023;07:54:45;;;19,540039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);11/05/2023;09:41:32;;;17,989257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);12/05/2023;17:01:32;;;,801757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);15/05/2023;15:01:48;;;69,870117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);16/05/2023;13:14:24;;;26,923828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);17/05/2023;13:12:18;;;11,413085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);17/05/2023;16:27:05;;;1,466796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);18/05/2023;07:11:10;;;45,796875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0
+46 98814-1682;Internet (MB);19/05/2023;17:12:44;;;,597656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00046;0

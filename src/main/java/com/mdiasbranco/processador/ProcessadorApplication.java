@@ -16,9 +16,6 @@ public class ProcessadorApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProcessadorApplication.class, args);
-		ZipProcessor.main(args);
-		ArquivoProcessor.main(args);
-
 	}
 
 }

@@ -1,0 +1,45 @@
+M DIAS BRANCO S.A. INDUSTRIA E COMERCIO DE ALIMENTOS - 07206816000115
+ROD. BR-116, S/N KM 18 - JABUTI     
+61766-650 CE EUSEBIO
+N° Cliente: 105330716
+
+Período de Referência: 23/04/2023 a 22/05/2023
+Data de Vencimento: 15/07/2023 - Filtro:   - (Todos)
+Valor: R$ 41,18
+Nota Fiscal Claro:018222891/052023:B23 PIS: Aliquota: 3,00 Base de Calculo: 23,81 Valor Imposto: 0,71
+Nota Fiscal Claro:018222891/052023:B23 PIS: Aliquota: 1,65 Base de Calculo: 11,40 Valor Imposto: 0,19
+Nota Fiscal Claro:018222891/052023:B23 PIS: Aliquota: 0,65 Base de Calculo: 23,81 Valor Imposto: 0,15
+Nota Fiscal Claro:018222891/052023:B23 PIS: Aliquota: 7,60 Base de Calculo: 11,40 Valor Imposto: 0,87
+Nota Fiscal Claro:018222891/052023:B23 ICMS: Aliquota: 20,00 Base de Calculo: 29,78 Valor Imposto: 5,96
+Nota Fiscal Claro:020263012/052023 Documento Financeiro: Aliquota: 0,00 Base de Calculo: 0,00 Valor Imposto: 11,40
+
+Identificação para débito automático: 120957273
+
+Tel;Seção;Data;Hora;Origem(UF)-Destino;Número;Duração/Quantidade;Tarifa;Valor;Valor Cobrado;Nome;CC;Matrícula;Sub-Seção;Tipo Imposto;Descrição;Cargo;Nome Local Origem;Nome Local Destino;Código Local Origem;Código Local Destino
+85 99109-2576;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99109-2576;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99109-2576;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;25,84;25,84;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+85 99109-2576;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,98;,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+85 99109-2576;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,4;11,4;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+85 99109-2576;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99109-2576;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;,98;,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+85 99109-2576;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99109-2576;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99109-2576;Consumo Compartilhado : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99109-2576;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+85 99109-2576;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,98;1,98;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+85 99109-2576;Internet (MB);11/05/2023;05:26:50;;;3,949218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Claro-Claro;12/05/2023;10:47:03;Ceará - Ceará (85);85991366787;00:04:36;0,00;0;0;;;;Ligações Locais;;;;Ceará;Ceará (85);00085;00085
+85 99109-2576;Internet (MB);10/05/2023;05:47:11;;;3,641601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);09/05/2023;05:21:48;;;5,14746;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);06/05/2023;17:03:57;;;,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);04/05/2023;05:25:29;;;64,277343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);03/05/2023;05:54:43;;;,967773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);02/05/2023;05:26:19;;;4,792968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);29/04/2023;22:27:13;;;,029296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);28/04/2023;00:00:48;;;5,759765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);27/04/2023;19:33:22;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Download;;;;00085;0
+85 99109-2576;Internet (MB);27/04/2023;11:09:50;;;13,24414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);19/05/2023;19:32:57;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);26/04/2023;15:55:29;;;4,381835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0
+85 99109-2576;Internet (MB);27/04/2023;00:11:31;;;198,554687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00085;0

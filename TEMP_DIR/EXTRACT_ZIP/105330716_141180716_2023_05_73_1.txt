@@ -1,0 +1,89 @@
+M DIAS BRANCO S.A INDUSTRIA E COMERCIO DE ALIMENTOS - 07206816000115
+ROD. BR-116, S/N KM 18 - JABUTI     
+61766-650 CE EUSEBIO
+N° Cliente: 105330716
+
+Período de Referência: 23/04/2023 a 22/05/2023
+Data de Vencimento: 15/07/2023 - Filtro:   - (Todos)
+Valor: R$ 503,96
+Nota Fiscal Claro:003936957/052023:B23 PIS: Aliquota: 7,60 Base de Calculo: 139,07 Valor Imposto: 10,59
+Nota Fiscal Claro:003936957/052023:B23 PIS: Aliquota: 3,00 Base de Calculo: 295,59 Valor Imposto: 8,87
+Nota Fiscal Claro:003936957/052023:B23 PIS: Aliquota: 0,65 Base de Calculo: 295,59 Valor Imposto: 1,92
+Nota Fiscal Claro:003936957/052023:B23 PIS: Aliquota: 1,65 Base de Calculo: 139,07 Valor Imposto: 2,29
+Nota Fiscal Claro:003936957/052023:B23 ICMS: Aliquota: 19,00 Base de Calculo: 364,89 Valor Imposto: 69,33
+Nota Fiscal Claro:004353761/052023 Documento Financeiro: Aliquota: 0,00 Base de Calculo: 0,00 Valor Imposto: 139,07
+
+Identificação para débito automático: 141180716
+
+Tel;Seção;Data;Hora;Origem(UF)-Destino;Número;Duração/Quantidade;Tarifa;Valor;Valor Cobrado;Nome;CC;Matrícula;Sub-Seção;Tipo Imposto;Descrição;Cargo;Nome Local Origem;Nome Local Destino;Código Local Origem;Código Local Destino
+68 99207-0305;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99206-6158;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99243-9218;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99206-9829;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99206-7244;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99207-0863;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99206-6438;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99206-6233;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99206-9170;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99206-6279;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99206-8349;PJ Bônus de Internet Turbo - 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+68 99207-0863;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-9170;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6233;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-9829;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6233;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99206-6233;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-7244;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6158;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6233;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6438;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99206-7244;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99207-0305;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-9170;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99206-7244;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99206-6233;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99243-9218;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99207-0863;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99207-0305;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-9829;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6279;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6438;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99221-0687;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,08;1,08;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6438;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6438;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99243-9218;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-9170;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99243-9218;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99207-0863;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99206-9170;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6438;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-9829;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99206-8349;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99206-9170;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99207-0863;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99243-9218;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99206-6158;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99207-0305;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99221-0687;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,19;2,19;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99207-0305;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-8349;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-7244;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6158;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-9829;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6158;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99221-0687;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1,08;1,08;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-8349;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99221-0687;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,91;11,91;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99207-0863;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6158;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99221-0687;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;28,56;28,56;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-9829;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6279;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99207-0305;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6279;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99243-9218;PJ Internet Corp Ilimitado 5GB : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;26,17;26,17;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-8349;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-6279;Serviço de Gestão : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;11,56;11,56;;;;Mensalidades e Pacotes Promocionais;ISS;;;;;;
+68 99206-6279;Serviço Tarifa Zero SMS Intra-Grupo : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-7244;Assinatura Plano Sob Medida : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;1;1;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+68 99206-8349;Pacote de Min. Local e LD para Qualquer Destino : 23/04/2023 a 22/05/2023;23/04/2023;;;;;0,00;2,01;2,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;

@@ -1,7 +1,10 @@
 package com.mdiasbranco.processador;
 
 import org.springframework.boot.SpringApplication;
+import org.apache.poi.ss.usermodel.*;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
+import java.io.*;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -10,6 +13,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
+import java.util.Scanner;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
@@ -116,7 +120,7 @@ public class ZipProcessor {
 
     private static void processTXTFile(File txtFile) {
         try {
-            ArquivoProcessor.main(new String[]{txtFile.getAbsolutePath()});
+
         } catch (Exception e) {
             e.printStackTrace();
         }

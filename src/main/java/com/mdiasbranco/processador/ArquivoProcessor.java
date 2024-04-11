@@ -60,6 +60,7 @@ public class ArquivoProcessor {
                         escreverLinhaConta(writer, numConta, line);
                     }
                 }
+                numConta = "";
             } catch (IOException e) {
                 e.printStackTrace();
             }

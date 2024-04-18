@@ -1,8 +1,6 @@
 package com.mdiasbranco.processador;
 
 import java.io.*;
-import java.nio.charset.CharsetDecoder;
-import java.nio.charset.CodingErrorAction;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.List;
@@ -12,8 +10,11 @@ public class ArquivoProcessor {
     private static final String REGEX_START_NUMBER = "^\\d.*";
     private static final String REGEX_NUMBER = "[^0-9]+";
     private static final String IDENT_CONTA = "Identificação";
-    private static final String OUTPUT_FILE_PATH = "C:\\Users\\kauaf\\Downloads\\PROJETO_KAIO\\output_mdiasbranco.txt";
-    private static final String TXT_DIRECTORY = "C:\\Users\\kauaf\\Downloads\\PROJETO_KAIO\\TXTs";
+    private static final String OUTPUT_FILE_PATH = "TEMP_DIR/output_mdiasbranco.txt";
+    private static final String TXT_DIRECTORY = "TEMP_DIR/TXTs";
+
+    private static final String BASE_DIR = "TEMP_DIR/";
+
     public static void main(String[] args) {
         try {
             FileWriter writer = new FileWriter(OUTPUT_FILE_PATH, StandardCharsets.UTF_8);
@@ -23,7 +24,9 @@ public class ArquivoProcessor {
             processarDiretorio(directory, writer);
 
             writer.close();
+
             System.out.println("Arquivo de saída gerado com sucesso.");
+
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -87,5 +90,4 @@ public class ArquivoProcessor {
         line = numConta + ";" + line;
         writer.write(line + "\n");
     }
-
 }

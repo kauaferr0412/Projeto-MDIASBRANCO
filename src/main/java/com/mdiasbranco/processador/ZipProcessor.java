@@ -19,13 +19,13 @@ import java.util.zip.ZipInputStream;
 
 public class ZipProcessor {
 
-    private static final String ZIP_FILE_PATH = "C:\\Users\\kauaf\\Downloads\\PROJETO_KAIO\\zip_mdiasbranco.zip";
-    private static final String EXTRACT_DIR = "C:\\Users\\kauaf\\Downloads\\PROJETO_KAIO\\EXTRACT_ZIP";
-    private static final String TXT_DIR = "C:\\Users\\kauaf\\Downloads\\PROJETO_KAIO\\TXTs";
+    private static final String ZIP_FILE_PATH = "TEMP_DIR/zip_mdiasbranco.zip";
+    private static final String EXTRACT_DIR = "TEMP_DIR/EXTRACT_ZIP";
+    private static final String TXT_DIR = "TEMP_DIR/TXTs";
 
     public static void main(String[] args) {
 
-        ensureDirectoriesExist(); // Verifica e cria os diretórios necessários
+        ensureDirectoriesExist();
 
         try {
             extractFiles(ZIP_FILE_PATH, EXTRACT_DIR);
@@ -49,6 +49,7 @@ public class ZipProcessor {
                 Files.createDirectories(txtDirPath);
                 System.out.println("Diretório de arquivos TXT não encontrado, criando diretório...");
             }
+
         } catch (IOException e) {
             System.out.println("Ocorreu um erro ao criar os diretórios necessários.");
             e.printStackTrace();
@@ -120,7 +121,7 @@ public class ZipProcessor {
 
     private static void processTXTFile(File txtFile) {
         try {
-
+            ArquivoProcessor.main(null);
         } catch (Exception e) {
             e.printStackTrace();
         }

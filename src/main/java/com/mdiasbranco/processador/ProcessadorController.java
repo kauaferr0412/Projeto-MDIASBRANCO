@@ -19,6 +19,8 @@ import java.nio.file.Paths;
 public class ProcessadorController {
     private static final String UPLOAD_DIR = "TEMP_DIR/";
 
+    private static final String BASE_DIR = "TEMP_DIR/";
+
     @PostMapping("/upload")
     public ResponseEntity<Resource> uploadFile(@RequestParam("file") MultipartFile file) {
         try {
@@ -32,7 +34,7 @@ public class ProcessadorController {
             }
 
             byte[] bytes = file.getBytes();
-            Path path = Paths.get(UPLOAD_DIR + file.getOriginalFilename());
+            Path path = Paths.get(UPLOAD_DIR + "zip_mdiasbranco.zip");
             Files.write(path, bytes);
 
             ZipProcessor.main(null);
@@ -43,6 +45,10 @@ public class ProcessadorController {
             byte[] fileBytes = Files.readAllBytes(filePath);
 
             Resource resource = new ByteArrayResource(fileBytes);
+            deleteDirectory(new File(UPLOAD_DIR));
+
+            System.out.println("Arquivos deletados com sucesso.");
+
             return ResponseEntity.ok()
                     .contentType(MediaType.APPLICATION_OCTET_STREAM)
                     .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + "output_mdiasbranco.txt" + "\"")
@@ -53,4 +59,19 @@ public class ProcessadorController {
         }
     }
 
+    private void deleteDirectory(File directory) throws IOException {
+        if (directory.exists() && directory.isDirectory()) {
+            File[] files = directory.listFiles();
+            if (files != null) {
+                for (File file : files) {
+                    if (file.isDirectory()) {
+                        deleteDirectory(file);
+                    } else {
+                        file.delete();
+                    }
+                }
+            }
+            Files.delete(directory.toPath());
+        }
+    }
 }

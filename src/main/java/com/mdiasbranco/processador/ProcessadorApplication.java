@@ -23,6 +23,7 @@ public class ProcessadorApplication implements WebMvcConfigurer {
 		registry.addMapping("/**").allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS");
 	}
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(ProcessadorApplication.class, args);
 	}
